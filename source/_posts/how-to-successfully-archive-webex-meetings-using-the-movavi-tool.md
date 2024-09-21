@@ -1,7 +1,7 @@
 ---
 title: How to Successfully Archive Webex Meetings Using the Movavi Tool
-date: 2024-09-09T00:26:24.809Z
-updated: 2024-09-16T00:39:18.184Z
+date: 2024-09-17T11:58:46.060Z
+updated: 2024-09-21T05:48:18.377Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/53b02e126ac51e814487f95d202d6360b9c695229e51213279fffebf23dfc40c.jpg
@@ -214,13 +214,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -313,9 +306,23 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -324,13 +331,6 @@ Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en m
 Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de la souris" dans la zone de recherche. Choisissez **Modifier l'affichage ou la vitesse du pointeur de la souris**. Dans la fenêtre qui s'ouvre, allez dans l'onglet **Options du pointeur** et décochez la case **Améliorer la précision du pointeur**.
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -365,19 +365,6 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
-
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -430,15 +417,22 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
@@ -493,13 +487,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -508,6 +495,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -586,14 +580,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-world-of-photo-videos-your-pixiz-companion/"><u>[New] Explore the World of Photo-Videos Your Pixiz Companion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-googles-ar-stickers-an-overview-with-comparison-to-rival-products/"><u>[New] Google's AR Stickers An Overview with Comparison to Rival Products</u></a></li>
-<li><a href="https://fox-links.techidaily.com/begin-your-journey-into-xps-video-editing-world-for-2024/"><u>Begin Your Journey Into Xp's Video Editing World for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/latest-film-drop-the-amazing-adventures-of-burt-wonderstone-now-available-on-dvd/"><u>Latest Film Drop: 'The Amazing Adventures of Burt Wonderstone' Now Available on DVD</u></a></li>
-<li><a href="https://win-best.techidaily.com/mp3mts/"><u>MP3への変換：あんな複雑さもないMTS音楽ファイルの簡単方法</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/quash-unwanted-youtube-suggested-videos/"><u>Quash Unwanted YouTube Suggested Videos</u></a></li>
-<li><a href="https://win-best.techidaily.com/resolving-functionality-issues-in-venom-following-system-updates/"><u>Resolving Functionality Issues in Venom Following System Updates</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are-for-2024/"><u>Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1726027727327-youtubepc/"><u>YouTube投稿のためのPCゲーム録画テクニック</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-best-skin-perfection-iphone-and-android-leaders/"><u>[New] Best Skin Perfection IPhone & Android Leaders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-clip-conquest-top-tags-for-dominating-video-trends-on-social-media/"><u>[Updated] 2024 Approved Clip Conquest Top Tags for Dominating Video Trends on Social Media</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-breakdown-fundamental-aspects-of-asmr-videos-for-2024/"><u>[Updated] Breakdown Fundamental Aspects of ASMR Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-stream-like-a-champion-top-3-techniques-for-successful-lol-gameplay-capture-for-2024/"><u>[Updated] Stream Like a Champion Top 3 Techniques for Successful LOL Gameplay Capture for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/crop-circles-the-essential-list-of-farming-games-for-2024/"><u>Crop Circles The Essential List of Farming Games for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/dealing-with-steam-failed-to-initialize-fixes-and-tips-for-successful-installation/"><u>Dealing with 'Steam Failed to Initialize': Fixes and Tips for Successful Installation</u></a></li>
+<li><a href="https://win-best.techidaily.com/free-and-quick-online-flv-to-mp4-video-converter-effortless-file-format-transformation/"><u>Free and Quick Online FLV to MP4 Video Converter: Effortless File Format Transformation</u></a></li>
+<li><a href="https://win-best.techidaily.com/gouden-5-topst-huidig-cd-branders-gratis-instalatie-voor-windows-and-mac-users/"><u>Gouden 5 Topst Huidig CD-Branders: Gratis Instalatie Voor Windows & MAC Users</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-z50-ultra-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Z50 Ultra to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-nokia-c22-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Nokia C22</u></a></li>
+<li><a href="https://win-best.techidaily.com/topos-nueve-editores-de-video-mp4-sin-coste-comparacion-y-seleccion/"><u>Topos Nueve Editores De Vídeo MP4 Sin Coste: Comparación Y Selección</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultimate-guide-the-top-6-gpus-you-need-for-superior-video-editing-performance/"><u>Ultimate Guide: The Top 6 GPUs You Need for Superior Video Editing Performance</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-dvd-mastery-choosing-the-right-movie-making-software-for-beginners-for-2024/"><u>Updated DVD Mastery Choosing the Right Movie Making Software for Beginners for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/vrije-online-omzetting-van-m4r-bestandjes-dit-weg-voor-movavi/"><u>Vrije Online Omzetting Van M4R-Bestandjes: Dit Weg Voor Movavi</u></a></li>
+<li><a href="https://win-best.techidaily.com/avi-3g2-movavi/"><u>무료, 쉽고 신속한 인터넷 내 AVI에서 3G2 품사로의 전환 - Movavi 편집기</u></a></li>
 </ul></div>
 

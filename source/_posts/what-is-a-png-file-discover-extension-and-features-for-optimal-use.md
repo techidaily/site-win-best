@@ -1,7 +1,7 @@
 ---
 title: What Is a PNG File? Discover Extension and Features for Optimal Use
-date: 2024-09-13T07:07:29.032Z
-updated: 2024-09-15T18:32:06.380Z
+date: 2024-09-18T22:16:01.904Z
+updated: 2024-09-21T11:29:03.042Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/2675fb371c905563da08e97bc8df2b8ac8d7bb0fb61d06cdf9fff2c91961fd4b.png
@@ -222,13 +222,6 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -359,13 +352,6 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -375,6 +361,13 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -410,10 +403,10 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Cliquez sur **OK**.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 
@@ -424,16 +417,16 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -487,13 +480,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -523,9 +509,23 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -580,20 +580,20 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-seamless-video-production-youtube-studios-cutting-edge-editing-for-2024/"><u>[Updated] Seamless Video Production YouTube Studio's Cutting-Edge Editing for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/44cm44k544og44o844k644gr5yuv44gpieodmeocueodioobruocpuocpplusodkplusodiuodvoodhoodvoodqplusobqoobneobruakgoihkplusodrooctplusodlooajq/"><u>「スムーズに動く!ベストのウェビナーツールとその技術レシピ」</u></a></li>
-<li><a href="https://win-best.techidaily.com/5-top-rated-dvd-dividers-for-fast-and-simple-segmentation-of-your-videos/"><u>5 Top-Rated DVD Dividers for Fast & Simple Segmentation of Your Videos</u></a></li>
-<li><a href="https://win-best.techidaily.com/6auy55s76loq5pig5yop44gu5zob6loq5zcr5lik5oml6acg77ya5a6m5ywo44ks44kk44oj/"><u>高画質映像の品質向上手順：完全ガイド</u></a></li>
-<li><a href="https://program-issues.techidaily.com/digitalis-glycosides-increase-intracellular-calcium-and-strengthen-cardiac-contractions-but-are-toxic-in-high-doses/"><u>Digitalis Glycosides Increase Intracellular Calcium and Strengthen Cardiac Contractions but Are Toxic in High Doses.</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-logitech-t630-drivers-compatible-with-windows-7-8-and-10/"><u>Download Logitech T630 Drivers: Compatible with Windows 7, 8 & 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/dvd-to-digital-logiciel-dextraction-gratuit-qui-facilite-la-conversion-des-dvd-proteges-sans-effort-ni-frais/"><u>DVD-to-Digital: Logiciel D'extraction Gratuit Qui Facilite La Conversion Des DVD Protégés Sans Effort Ni Frais</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Phone without Google Account?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tinytake-screen-recorder-review/"><u>In 2024, TinyTake Screen Recorder Review</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instant-reddit-archives-retrieval-with-ease/"><u>Instant Reddit Archives Retrieval with Ease</u></a></li>
-<li><a href="https://article-helps.techidaily.com/liberate-your-listening-experience-with-pazera-the-2024-review/"><u>Liberate Your Listening Experience with Pazera The 2024 Review</u></a></li>
-<li><a href="https://win-best.techidaily.com/1726028643278-pc6/"><u>PCゲームを美しく記録:最新「高画質録画可能な」レコーダー6つの推薦</u></a></li>
-<li><a href="https://win-best.techidaily.com/1726030682242-windows-11-clipchamp/"><u>Windows 11に内蔵された Clipchamp を使用してスクリーン録画する手順</u></a></li>
-<li><a href="https://win-best.techidaily.com/1726030356526-dvd/"><u>スマートフォンへ移行: DVDのデータを安全にダウンロードする手順</u></a></li>
-<li><a href="https://win-best.techidaily.com/1726028491760-dvd/"><u>ハウツー: 動画とDVDを効果的に放送するための最適戦略</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-characters-that-convert-ideal-story-strategies/"><u>[New] 2024 Approved Characters That Convert Ideal Story Strategies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-gif-mastery-your-quick-guide-to-uploads-and-sharing/"><u>[New] 2024 Approved Instagram GIF Mastery Your Quick Guide to Uploads and Sharing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-often-should-you-upload-youtube-videos-to-get-more-views/"><u>[Updated] 2024 Approved How Often Should You Upload YouTube Videos to Get More Views</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-ultimate-6-mac-methods-for-recording-live-tv-shows-like-netflix-for-2024/"><u>[Updated] The Ultimate 6 Mac Methods for Recording Live TV Shows Like Netflix for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-gratis-online-converter-webm-naar-mov-efficient-movavi/"><u>1. Gratis ONLINE Converter: WEBM Naar MOV Efficiënt - Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/convert-caf-audio-files-to-high-quality-aiff-using-movavis-no-cost-conversion-tool/"><u>Convert .CAF Audio Files to High-Quality AIFF Using Movavi's No-Cost Conversion Tool</u></a></li>
+<li><a href="https://win-best.techidaily.com/free-online-converter-change-avi-files-into-asf-format-by-movavi/"><u>Free Online Converter: Change AVI Files Into ASF Format by Movavi</u></a></li>
+<li><a href="https://win-best.techidaily.com/free-online-converter-transform-gifs-into-3gp-files-expert-tips-with-movavi/"><u>Free Online Converter: Transform GIFs Into 3GP Files - Expert Tips with Movavi</u></a></li>
+<li><a href="https://win-best.techidaily.com/free-web-based-converter-transform-opus-to-wma-using-moveai/"><u>Free Web-Based Converter: Transform Opus to WMA Using Move.ai</u></a></li>
+<li><a href="https://win-best.techidaily.com/movavi-online-gratis-converter-de-ficheiros-para-o-formato-ogg-com-aif/"><u>Movavi Online Gratis - Converter De Ficheiros Para O Formato OGG Com AIF</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-the-nuances-of-inshot-video-segments/"><u>Navigating the Nuances of Inshot Video Segments</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-from-an-unresponsive-iphone-screen-here-are-the-fixes-you-need/"><u>Unstuck From an Unresponsive iPhone Screen? Here Are the Fixes You Need!</u></a></li>
+<li><a href="https://win-guides.techidaily.com/unveiling-of-microsofts-windows-11-se-new-computing-solutions-by-pc-manufacturers-tailored-for-learning-environments-insights-from-zdnet/"><u>Unveiling of Microsoft's Windows 11 SE: New Computing Solutions by PC Manufacturers Tailored for Learning Environments - Insights From ZDNet</u></a></li>
 </ul></div>
 
