@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Eradicating and Securing Your System From Petya Threats
-date: 2024-10-13T19:28:12.160Z
-updated: 2024-10-17T17:29:11.513Z
+date: 2024-10-19T09:15:52.478Z
+updated: 2024-10-23T08:37:30.015Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e9f6abd8662955b9fc76151bcfa96786be75ef68a255d5c3126b3ad30bf05b53.jpg
@@ -50,10 +50,16 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -75,6 +81,13 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -112,13 +125,6 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
 Passo 1\. Accedi alle Opzioni di Indicizzazione:
@@ -136,13 +142,6 @@ Sotto la scheda Opzioni Avanzate, clicca su "Ricostruisci."
 Passo 4\. Attendi il Completamento:
 
 Permetti al processo di indicizzazione di completarsi. Successivamente, controlla se il problema di non poter digitare nella barra di ricerca di Windows 10 persiste.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 4: Controlla gli Aggiornamenti di Windows
 
@@ -184,6 +183,13 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -219,10 +225,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
@@ -232,13 +238,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -271,13 +270,20 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -294,24 +300,21 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-skyrocketing-sales-how-ad-revenue-transforms-youtube-videos/"><u>[New] 2024 Approved Skyrocketing Sales How Ad Revenue Transforms YouTube Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-video-sizing-a-step-by-step-approach/"><u>[New] Mastering YouTube Video Sizing A Step-by-Step Approach</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-shortcuts-you-should-know/"><u>[New] YouTube Shortcuts You Should Know</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-from-idea-to-execution-a-comprehensive-youtube-video-guide/"><u>[Updated] 2024 Approved From Idea to Execution A Comprehensive YouTube Video Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-grow-with-integrity-selecting-reputable-tiktok-leads/"><u>[Updated] 2024 Approved Grow with Integrity Selecting Reputable TikTok Leads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-freepaid-audio-cleanup-tools-for-higher-video-quality/"><u>[Updated] In 2024, Free/Paid Audio-Cleanup Tools for Higher Video Quality</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-the-ultimate-trifecta-for-instagram-video-borders/"><u>2024 Approved The Ultimate Trifecta for Instagram Video Borders</u></a></li>
-<li><a href="https://win-best.techidaily.com/3-formas-efectivas-de-realizar-una-migracion-segura-y-completa-del-correo-de-windows-11-a-un-disco-duro-exterior/"><u>3 Formas Efectivas De Realizar Una Migración Segura Y Completa Del Correo De Windows 11 a Un Disco Duro Exterior</u></a></li>
-<li><a href="https://win-best.techidaily.com/virtualboxwindows-11-iso/"><u>层次式教程：使用VirtualBox部署Windows 11 ISO文件</u></a></li>
-<li><a href="https://win-best.techidaily.com/astuces-expert-augmenter-la-capacite-du-ssd-dans-votre-hp-envy-x360-sans-endommager-les-fichiers/"><u>Astuces Expert : Augmenter La Capacité Du SSD Dans Votre HP Envy X360 Sans Endommager Les Fichiers</u></a></li>
-<li><a href="https://win-best.techidaily.com/behebung-des-startlaufens-im-loop-funf-schritte-fur-einen-aktualisierten-windows-server-2016/"><u>Behebung Des Startlaufens Im Loop: Fünf Schritte Für Einen Aktualisierten Windows Server 2016</u></a></li>
-<li><a href="https://win-best.techidaily.com/die-top-6-strategien-zum-sichtbarmachen-geteilter-fotos-in-sozialen-medien/"><u>Die Top-6 Strategien Zum Sichtbarmachen Geteilter Fotos in Sozialen Medien</u></a></li>
-<li><a href="https://win-best.techidaily.com/logiciel-de-planification-des-taches-pour-serveur-windows-server-2022-conseils-dinstallation-et-configuration/"><u>Logiciel De Planification Des Tâches Pour Serveur Windows Server 2022: Conseils D'Installation Et Configuration</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pros-recommended-slow-motion-camera-apps-ios-and-android-edition/"><u>Pro's Recommended Slow Motion Camera Apps IOS & Android Edition</u></a></li>
-<li><a href="https://win-best.techidaily.com/ps4-hdd/"><u>PS4 HDD取り換えでゲームセーブ保護、システム更新完了</u></a></li>
-<li><a href="https://win-dash.techidaily.com/samsung-960-evo-ssd-secure-your-data-with-the-latest-driver-version-for-windows-systems/"><u>Samsung 960 EVO SSD: Secure Your Data with the Latest Driver Version for Windows Systems</u></a></li>
-<li><a href="https://win-best.techidaily.com/sofortige-losung-fur-das-leere-verzeichnis-problem-unter-windows-11/"><u>Sofortige Lösung Für Das 'Leere Verzeichnis'-Problem Unter Windows 11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-beginners-handbook-for-convenient-cashless-transactions-with-apple-pay-on-an-apple-watch/"><u>The Beginner's Handbook for Convenient Cashless Transactions with Apple Pay on an Apple Watch</u></a></li>
-<li><a href="https://win-best.techidaily.com/toutes-les-solutions-facilement-accessibles-pour-recuperer-vos-photographies-perdues-sur-carte-sd-gratuitement/"><u>Toutes Les Solutions Facilement Accessibles Pour Récupérer Vos Photographies Perdues Sur Carte SD Gratuitement</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixed-star-wars-battlefront-2-error-code-327/"><u>[Fixed] Star Wars Battlefront 2 Error Code 327</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-enhance-productivity-mac-screen-capture-made-simple-using-shortcut-keys/"><u>[Updated] 2024 Approved Enhance Productivity Mac Screen Capture Made Simple Using Shortcut Keys</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-unleashing-clarity-the-ultimate-video-enhancer-22-techniques/"><u>[Updated] In 2024, Unleashing Clarity The Ultimate Video Enhancer 2.2 Techniques</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-clearing-repeated-images-from-your-whatsapp-gallery-on-ios-devices/"><u>1. Clearing Repeated Images From Your WhatsApp Gallery on iOS Devices</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-step-into-the-world-of-precise-editing-tiktok-number-modification/"><u>2024 Approved Step Into the World of Precise Editing TikTok Number Modification</u></a></li>
+<li><a href="https://win-best.techidaily.com/fixing-the-non-responsive-windows-11-sync-center-effective-strategies-and-backup-options/"><u>Fixing the Non-Responsive Windows 11 Sync Center: Effective Strategies and Backup Options</u></a></li>
+<li><a href="https://win-best.techidaily.com/guide-setting-up-a-nas-mirrored-copy-for-file-synchronization-between-two-network-storage-units/"><u>Guide: Setting Up a NAS Mirrored Copy for File Synchronization Between Two Network Storage Units</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-to-backup-your-windows-8-system-on-an-external-hard-drive-a-comprehensive-guide/"><u>How to Backup Your Windows 8 System on an External Hard Drive: A Comprehensive Guide</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/how-to-move-your-music-from-iphone-to-itunes-catalog-effortlessly/"><u>How to Move Your Music From iPhone to iTunes Catalog Effortlessly</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-most-downloaded-and-loved-android-apps-for-2024/"><u>New Most Downloaded and Loved Android Apps for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/resolving-errors-how-to-restore-the-missing-boot-configuration-data-on-your-windows-10-pc/"><u>Resolving Errors: How to Restore the Missing Boot Configuration Data on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-best.techidaily.com/resuelve-tu-problema-de-sincronizacion-en-correo-electronico-con-estos-expertos-consejos-y-soluciones-practicas/"><u>Resuelve Tu Problema De Sincronización en Correo Electrónico Con Estos Expertos Consejos Y Soluciones Prácticas</u></a></li>
+<li><a href="https://win-best.techidaily.com/simplified-guide-to-cloning-disks-with-disk-partitions-a-5-step-process/"><u>Simplified Guide to Cloning Disks with Disk Partitions - A 5-Step Process</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-smoother-cs2-gameplay-lower-lag-and-optimized-ping/"><u>Troubleshooting Steps for Smoother CS2 Gameplay: Lower Lag & Optimized Ping</u></a></li>
 </ul></div>
 
