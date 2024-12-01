@@ -1,7 +1,7 @@
 ---
 title: 文書の一部分を失った場合、6つの回復手段を紹介する - Googleドキュメント
-date: 2024-11-17T17:15:40.400Z
-updated: 2024-11-23T02:25:05.860Z
+date: 2024-11-23T19:43:01.903Z
+updated: 2024-12-01T03:35:36.388Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/2281b9c089178cef469efa6df066ce173ea670348ff57d56412b8942da8649fe.jpg
@@ -65,10 +65,6 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -90,7 +86,7 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
@@ -98,7 +94,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -118,7 +114,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -137,13 +133,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -166,7 +162,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -178,10 +174,14 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,22 +198,17 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-amateur-to-expert-a-compreenhensive-tutorial-on-zoom-recording-quality/"><u>[New] In 2024, From Amateur to Expert A Compreenhensive Tutorial on Zoom Recording Quality</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-excellent-ios-tools-the-hottest-choices-for-simulating-psp-games/"><u>[Updated] 2024 Approved Excellent iOS Tools The Hottest Choices for Simulating PSP Games</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-video-snippet-limits-a-comprehensive-overview/"><u>[Updated] In 2024, Instagram Video Snippet Limits A Comprehensive Overview</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-top-10-most-accessible-costless-lut-tools-unveiled/"><u>[Updated] In 2024, The Top 10 Most Accessible, Costless LUT Tools Unveiled</u></a></li>
-<li><a href="https://win-best.techidaily.com/windows-easy-transfer-windows-10/"><u>「解決策：Windows Easy Transferが機能しない - Windows 10でのトラブルシューティングガイド」</u></a></li>
-<li><a href="https://win-best.techidaily.com/5excel/"><u>5有效解決Excel文件意外删除重建方法 - 全面指南</u></a></li>
-<li><a href="https://win-best.techidaily.com/ituneswindowswin11win10win8win7/"><u>简单方法：在iTunes历史上的Windows版本（Win11/Win10/Win8/Win7）中恢复丢失文件</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/a-complete-breakdown-of-mouse-customization-features-on-win11/"><u>A Complete Breakdown of Mouse Customization Features on Win11</u></a></li>
-<li><a href="https://win-best.techidaily.com/beheben-des-bootmgr-missing-fehlers-unter-windows-11-schritt-fur-schritt-losung/"><u>Beheben Des 'Bootmgr' Missing-Fehlers Unter Windows 11 - Schritt-Für-Schritt-Lösung</u></a></li>
-<li><a href="https://win-best.techidaily.com/clearing-outdated-windows-server-snapshots-top-3-strategies/"><u>Clearing Outdated Windows Server Snapshots: Top 3 Strategies</u></a></li>
-<li><a href="https://win-best.techidaily.com/come-ripristinare-facilmente-i-dati-cancellati-con-la-funzione-chkdsk/"><u>Come Ripristinare Facilmente I Dati Cancellati Con La Funzione CHKDSK</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-poco-m6-pro-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco M6 Pro 4G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/planvoll-vorbereitete-datenwiederherstellungstechniken/"><u>Planvoll Vorbereitete Datenwiederherstellungstechniken</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/the-essential-tutorial-for-facebook-live-on-roku-tv/"><u>The Essential Tutorial for Facebook Live on Roku TV</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/uncomplicated-story-framework/"><u>Uncomplicated Story Framework</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/windows-11-discover-new-apps-and-games-now/"><u>Windows 11 Discover New Apps & Games Now</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728475258754-windows/"><u>Windows上でのライブ同期に役立つ２つの手法</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-expert-insights-where-to-invest-in-youtube-creator-revenue/"><u>[New] 2024 Approved Expert Insights Where to Invest in YouTube Creator Revenue</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-ultimate-web-compendium-alarm-rhythms-guidebook/"><u>[New] 2024 Approved Ultimate Web Compendium Alarm Rhythms Guidebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-tips-to-smoothly-add-photo-capabilities-into-your-virtual-gatherings/"><u>[New] In 2024, Tips to Smoothly Add Photo Capabilities Into Your Virtual Gatherings</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-entdeckungen-zur-wiedergewinnung-geloschter-daten-ein-leitfaden-fur-die-wiederherstellung-in-dropbox/"><u>1. Entdeckungen Zur Wiedergewinnung Gelöschter Daten: Ein Leitfaden Für Die Wiederherstellung in Dropbox</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-fire-tv-cube-unveiled-next-level-media-streaming-experience/"><u>Amazon Fire TV Cube Unveiled: Next-Level Media Streaming Experience</u></a></li>
+<li><a href="https://win-best.techidaily.com/aomei-backupper-pro-windows-710811/"><u>AOMEI Backupper Pro: Windows 7/10/8/11ユーザーに最適な個人用バックアップソフトウェア選び方</u></a></li>
+<li><a href="https://win-best.techidaily.com/comment-retracer-votre-piste-avec-windows-amoins-recent-files-methodes-a-4-facons/"><u>Comment Retracer Votre Piste Avec Windows Amoins Recent Files - Méthodes À 4 Façons</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2013-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2013 electronically</u></a></li>
+<li><a href="https://win-best.techidaily.com/pengenalan-langkah-langkah-menyelewengkan-gagal-restorasi-file-jadilah-tercinta-ini-kejamnya-anda-tanpa-sengaja-membawa-kesempatan-pulih-ini-berupa-4-ulanga38/"><u>Pengenalan Langkah-Langkah Menyelewengkan Gagal Restorasi File: Jadilah Tercinta, Ini Kejamnya Anda Tanpa Sengaja Membawa Kesempatan Pulih [Ini Berupa 4 Ulangan]</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210271053-9780648921073-tree-with-no-leaves/"><u>Tree With No Leaves | Free Book</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-kids-in-the-directors-chair-a-fun-and-interactive-guide-to-movie-making/"><u>Updated 2024 Approved Kids in the Directors Chair A Fun and Interactive Guide to Movie Making</u></a></li>
 </ul></div>
 
