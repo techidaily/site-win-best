@@ -1,7 +1,7 @@
 ---
 title: Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ
-date: 2024-11-26T20:55:31.813Z
-updated: 2024-11-30T23:55:29.340Z
+date: 2024-12-03T11:17:23.941Z
+updated: 2024-12-09T12:36:49.358Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,19 +76,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ptimizing-audience-retention-through-engaging-shorts/"><u>[New] Optimizing Audience Retention Through Engaging Shorts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-keeping-the-joyful-jokes-techniques-to-download-tweets-animated-content/"><u>[Updated] In 2024, Keeping the Joyful Jokes Techniques to Download Tweets’ Animated Content</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-tecno-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Tecno</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-realme-c67-4g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme C67 4G? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/clonage-de-donnees-securise-les-meilleures-solutions-compatibles-avec-vos-ssds-intel-compactes/"><u>Clonage De Données Sécurisé : Les Meilleures Solutions Compatibles Avec Vos SSDs Intel Compactes</u></a></li>
-<li><a href="https://win-best.techidaily.com/como-solucionar-las-answers-on-demand-que-no-funcionan-en-office365-tecnicas-efectivas-5-metodos/"><u>Cómo Solucionar Las 'Answers on Demand' Que No Funcionan en Office365 - Técnicas Efectivas (5 Métodos)</u></a></li>
-<li><a href="https://win-best.techidaily.com/disco-1-ignorato-o-non-configurato-risoluzione-dei-problemi-con-i-dischi-dati-di-western-digital/"><u>Disco 1 Ignorato O Non Configurato: Risoluzione Dei Problemi Con I Dischi Dati Di Western Digital</u></a></li>
-<li><a href="https://win-best.techidaily.com/erfolgreiches-backup-fur-windows-server-2-r2-einfach-und-effektiv-auf-externer-speicheroberflache-speichern/"><u>Erfolgreiches Backup Für Windows Server 2# R2: Einfach Und Effektiv Auf Externer Speicheroberfläche Speichern</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-defy-2-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nokia-105-classic-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-nokia-c12-pro-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Nokia C12 Pro</u></a></li>
-<li><a href="https://network-issues.techidaily.com/intensify-gaming-with-geforce-210-driver-on-windows-10-platform/"><u>Intensify Gaming with GeForce 210 Driver on Windows 10 Platform</u></a></li>
-<li><a href="https://win-best.techidaily.com/schlusselstrategien-fur-den-einfach-effektiven-export-aller-ihre-yahoo-mail-ordner/"><u>Schlüsselstrategien Für Den Einfach-Effektiven Export Aller Ihre Yahoo Mail Ordner</u></a></li>
-<li><a href="https://win-best.techidaily.com/scopri-come-integrare-outlook-con-google-gmail-per-semplificare-la-gestione-delle-tue-e-mail/"><u>Scopri Come Integrare Outlook Con Google Gmail per Semplificare La Gestione Delle Tue E-Mail.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>[New] Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unlocking-detailed-imagery-in-digital-spaces-for-2024/"><u>[New] Unlocking Detailed Imagery in Digital Spaces for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-your-story-game-applying-fun-sticker-themes-for-2024/"><u>[Updated] Enhance Your Story Game Applying Fun Sticker Themes for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-free-2019-nye-party-dj-playlist-download-ultimate-countdown-mixes-for-the-new-year/"><u>1. Free 2019 NYE Party DJ Playlist Download: Ultimate Countdown Mixes for the New Year</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-stunning-hyundai-santa-fe-digital-backgrounds-by-yl-computings-creative-suite/"><u>1. Stunning Hyundai Santa Fe Digital Backgrounds by YL Computing's Creative Suite</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-unveiling-the-advantages-how-crypto-investments-can-boost-your-portfolio-insights-by-yl-computing/"><u>1. Unveiling the Advantages: How Crypto Investments Can Boost Your Portfolio - Insights by YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/do-you-need-to-sign-up-to-use-an-address-balance-verifier-tool-in-cryptocurrency-a-guide-from-yl-software-solutions/"><u>Do You Need to Sign Up to Use an Address Balance Verifier Tool in Cryptocurrency? – A Guide From YL Software Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-k70-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi K70 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-x6-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-up-your-photo-game-simple-techniques-for-upscaling-images-to-ultra-hd/"><u>Step Up Your Photo Game: Simple Techniques for Upscaling Images to Ultra HD</u></a></li>
+<li><a href="https://win-best.techidaily.com/switching-your-screens-tongue-a-step-by-step-guide-from-yl-computing/"><u>Switching Your Screen's Tongue: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/tips-and-tricks-for-iphone-audio-enthusiasts-for-2024/"><u>Tips and Tricks for iPhone Audio Enthusiasts for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-12-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme 12 Pro 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

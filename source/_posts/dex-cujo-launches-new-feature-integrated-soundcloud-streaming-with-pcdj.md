@@ -1,7 +1,7 @@
 ---
 title: "DEX Cujo Launches New Feature: Integrated SoundCloud Streaming with PCDJ"
-date: 2024-11-27T08:12:56.894Z
-updated: 2024-12-01T09:47:23.705Z
+date: 2024-12-02T09:53:15.246Z
+updated: 2024-12-08T20:54:02.334Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ DEX 3 integration of SoundCloud Go+ will be released to the public (very) early 
 _Have questions about **SoundCloud** support and how it will work in our **DEX 3 DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,18 +58,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/10/dex3-soundcloud-intergrati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-bite-sized-video-specialist/"><u>[Updated] In 2024, Bite-Sized Video Specialist</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-syncing-images-android-iphone-file-transfer-guide/"><u>[Updated] Syncing Images Android-iPhone File Transfer Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/artful-expression-outperforms-algorithmic-text-crafting/"><u>Artful Expression Outperforms Algorithmic Text Crafting</u></a></li>
-<li><a href="https://win-best.techidaily.com/como-hacer-backups-incrementales-y-diferenciales-correctamente-con-windows-server-2016/"><u>Cómo Hacer Backups Incrementales Y Diferenciales Correctamente Con Windows Server 2016</u></a></li>
-<li><a href="https://win-best.techidaily.com/decoding-the-challenge-resolve-external-storages-file-system-error-65535/"><u>Decoding the Challenge: Resolve External Storage's File System Error 65535</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722965351150-fast-track-to-installing-elgato-drivers-download-made-easy/"><u>Fast Track to Installing Elgato Drivers - Download Made Easy</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95769607-9781623171933-jump-girl/"><u>Jump Girl | Free Book</u></a></li>
-<li><a href="https://win-best.techidaily.com/kopieren-von-dokumenten-mit-cmd-befehlen-unter-windows-7-eine-umfassende-anleitung/"><u>Kopieren Von Dokumenten Mit CMD-Befehlen Unter Windows 7 - Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728508669086-pc/"><u>PC上の重要データ完全消去方法:復元不可能にする最良策</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/short-form-video-rivals-can-likes-overtake-tiktoks-global-fanbase-for-2024/"><u>Short-Form Video Rivals Can Likes Overtake TikTok’s Global Fanbase for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/strategie-efficaci-per-il-recupero-dei-dati-da-un-iphone-non-funzionante-unanalisi-di-quattro-metodi-distintivi/"><u>Strategie Efficaci per Il Recupero Dei Dati Da Un iPhone Non Funzionante: Un'Analisi Di Quattro Metodi Distintivi</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/top-15-free-budget-friendly-web-photo-editors-2023-review/"><u>Top 15 Free, Budget-Friendly Web Photo Editors - 2023 Review</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-crystal-curtain-calls-olympic-showcase-for-2024/"><u>[New] Crystal Curtain Calls Olympic Showcase for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-optimized-visual-quality-black-bar-and-box-frame-for-social-media-posts-for-2024/"><u>[New] Optimized Visual Quality Black Bar & Box Frame for Social Media Posts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-remedy-for-audio-pause-in-obs-streams/"><u>[Updated] In 2024, Remedy for Audio Pause in OBS Streams</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-affinity-photo-demystified/"><u>2024 Approved Affinity Photo Demystified</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-as-a-learning-tool-insider-advice-for-teachers/"><u>2024 Approved YouTube as a Learning Tool Insider Advice for Teachers</u></a></li>
+<li><a href="https://win-best.techidaily.com/check-if-you-can-play-modern-titles-find-out-about-gpu-compatibility-with-yl-software-insights/"><u>Check if You Can Play Modern Titles: Find Out About GPU Compatibility with YL Software Insights</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tless-earnings-channel-size-no-longer-a-challenge/"><u>Effortless Earnings Channel Size No Longer a Challenge</u></a></li>
+<li><a href="https://driver-download.techidaily.com/guide-to-smoothly-updating-hp-device-drivers-easy-download-and-install/"><u>Guide to Smoothly Updating HP Device Drivers – Easy Download & Install!</u></a></li>
+<li><a href="https://win-best.techidaily.com/high-definition-mass-effect-andromeda-desktop-wallpapers-by-yl-computing-professional-digital-art/"><u>High-Definition Mass Effect: Andromeda Desktop Wallpapers by YL Computing - Professional Digital Art</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy A24? | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/solving-your-flickering-network-connectivity-a-step-by-step-guide-by-yl-computing/"><u>Solving Your Flickering Network Connectivity: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-tutorial-adding-programs-via-control-panel-in-yl-software-suite/"><u>Step-by-Step Tutorial: Adding Programs via Control Panel in YL Software Suite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-pixel-prospects-top-7-monitors-for-photoshop-2024/"><u>The Ultimate Pixel Prospects - Top 7 Monitors For Photoshop, 2024</u></a></li>
 </ul></div>
 
