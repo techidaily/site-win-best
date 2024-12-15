@@ -1,7 +1,7 @@
 ---
 title: "DEX Cujo Launches New Feature: Integrated SoundCloud Streaming with PCDJ"
-date: 2024-12-02T09:53:15.246Z
-updated: 2024-12-08T20:54:02.334Z
+date: 2024-12-09T16:56:28.798Z
+updated: 2024-12-15T17:05:30.580Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ DEX 3 integration of SoundCloud Go+ will be released to the public (very) early 
 _Have questions about **SoundCloud** support and how it will work in our **DEX 3 DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,18 +58,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/10/dex3-soundcloud-intergrati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-crystal-curtain-calls-olympic-showcase-for-2024/"><u>[New] Crystal Curtain Calls Olympic Showcase for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-optimized-visual-quality-black-bar-and-box-frame-for-social-media-posts-for-2024/"><u>[New] Optimized Visual Quality Black Bar & Box Frame for Social Media Posts for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-remedy-for-audio-pause-in-obs-streams/"><u>[Updated] In 2024, Remedy for Audio Pause in OBS Streams</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-affinity-photo-demystified/"><u>2024 Approved Affinity Photo Demystified</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtube-as-a-learning-tool-insider-advice-for-teachers/"><u>2024 Approved YouTube as a Learning Tool Insider Advice for Teachers</u></a></li>
-<li><a href="https://win-best.techidaily.com/check-if-you-can-play-modern-titles-find-out-about-gpu-compatibility-with-yl-software-insights/"><u>Check if You Can Play Modern Titles: Find Out About GPU Compatibility with YL Software Insights</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/tless-earnings-channel-size-no-longer-a-challenge/"><u>Effortless Earnings Channel Size No Longer a Challenge</u></a></li>
-<li><a href="https://driver-download.techidaily.com/guide-to-smoothly-updating-hp-device-drivers-easy-download-and-install/"><u>Guide to Smoothly Updating HP Device Drivers – Easy Download & Install!</u></a></li>
-<li><a href="https://win-best.techidaily.com/high-definition-mass-effect-andromeda-desktop-wallpapers-by-yl-computing-professional-digital-art/"><u>High-Definition Mass Effect: Andromeda Desktop Wallpapers by YL Computing - Professional Digital Art</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy A24? | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/solving-your-flickering-network-connectivity-a-step-by-step-guide-by-yl-computing/"><u>Solving Your Flickering Network Connectivity: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-tutorial-adding-programs-via-control-panel-in-yl-software-suite/"><u>Step-by-Step Tutorial: Adding Programs via Control Panel in YL Software Suite</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-pixel-prospects-top-7-monitors-for-photoshop-2024/"><u>The Ultimate Pixel Prospects - Top 7 Monitors For Photoshop, 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mcb-template-pack-download-now/"><u>[New] MCB Template Pack Download Now</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-all-about-youtube-micro-videos-for-2024/"><u>[Updated] All About YouTube Micro Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-power-of-pages-top-10-social-media-optimization-tactics-for-2024/"><u>[Updated] Unlocking the Power of Pages Top 10 Social Media Optimization Tactics for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-maximizing-storage-efficiency-proven-methods-to-clear-up-your-pcs-hard-drive-guidance-by-yl-computing/"><u>1. Maximizing Storage Efficiency: Proven Methods to Clear Up Your PC's Hard Drive - Guidance by YL Computing</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-c300-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia C300 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/expert-advice-on-detecting-computer-memory-faults-ram-testing-methods-from-yl-software-solutions/"><u>Expert Advice on Detecting Computer Memory Faults: Ram Testing Methods From YL Software Solutions</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-can-i-resolve-issues-with-my-network-adapter-tips-and-solutions-from-yl-computing/"><u>How Can I Resolve Issues With My Network Adapter? - Tips and Solutions From YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-to-fix-hardware-related-error-messages-on-your-windows-pc-expert-advice-from-yl-computing/"><u>How to Fix Hardware-Related Error Messages on Your Windows PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-13-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 13 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/lol-arcane-collection-of-hd-backdrops-and-desktops-immersive-gaming-artwork-from-yl-computing/"><u>LoL Arcane Collection of HD Backdrops and Desktops - Immersive Gaming Artwork From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-how-to-overcome-error-code-0x80072efd-in-win1110/"><u>Mastering How to Overcome Error Code 0X80072EFD in Win11/10</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-and-rectifying-invalid-blob-tag-issue/"><u>Troubleshooting and Rectifying Invalid Blob Tag Issue</u></a></li>
+<li><a href="https://win-best.techidaily.com/understanding-the-reasons-behind-pcs-blue-screen-of-death-insights-from-yl-computing/"><u>Understanding the Reasons Behind PC's Blue Screen of Death: Insights From YL Computing</u></a></li>
 </ul></div>
 

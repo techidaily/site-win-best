@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2024-12-02T20:13:06.256Z
-updated: 2024-12-08T20:16:26.680Z
+date: 2024-12-14T16:25:16.254Z
+updated: 2024-12-15T16:36:19.411Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,24 +74,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ideal-steps-for-silent-screen-imaging/"><u>[Updated] 2024 Approved Ideal Steps for Silent Screen Imaging</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-vimeos-end-screens-for-creative-directives-for-2024/"><u>[Updated] Mastering Vimeo's End Screens for Creative Directives for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/architects-of-the-long-march-leaders-and-legends-insights-by-yl-computing/"><u>Architects of the Long March: Leaders and Legends - Insights by YL Computing</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-video-management-creating-an-effective-youtube-watch-later-list/"><u>Boosting Video Management Creating an Effective YouTube Watch Later List</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-hot-30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Hot 30 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-a-superior-fpv-drone-setup-choosing-right-propellers-for-2024/"><u>Crafting a Superior FPV Drone Setup Choosing Right Propellers for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/diagnosing-pc-sluggishness-professional-tips-and-solutions-by-yl-software-experts/"><u>Diagnosing PC Sluggishness: Professional Tips & Solutions by YL Software Experts</u></a></li>
-<li><a href="https://win-best.techidaily.com/efficient-file-management-a-guide-to-tidying-up-your-pc-storage-yl-software-solutions/"><u>Efficient File Management: A Guide to Tidying Up Your PC Storage - YL Software Solutions</u></a></li>
-<li><a href="https://win-best.techidaily.com/enhance-pc-performance-with-simple-adjustments-tips-from-yl-software-experts/"><u>Enhance PC Performance with Simple Adjustments - Tips From YL Software Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-excessive-msmpengexe-cpu-consumption-in-windows-11-computers/"><u>How to Fix Excessive MsMpEng.exe CPU Consumption in Windows 11 Computers</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-to-maintain-peak-efficiency-in-your-pc-with-proven-maintenance-techniques-by-yl-software/"><u>How to Maintain Peak Efficiency in Your PC with Proven Maintenance Techniques by YL Software</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/ideal-app-for-aspiring-filmmakers-a-reel-crafting-list-for-2024/"><u>Ideal App for Aspiring Filmmakers A Reel-Crafting List for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-oneplus-ace-2-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On OnePlus Ace 2 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-2024-voice-memo-saving-device/"><u>IPhone 2024 Voice Memo Saving Device</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-guide-setting-up-your-pc-for-wifi-connection-tips-from-yl-computing/"><u>Step-by-Step Guide: Setting Up Your PC for WiFi Connection - Tips From YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-solutions-for-fixing-pc-hardware-glitches-on-windows-by-yl-experts/"><u>Step-by-Step Solutions for Fixing PC Hardware Glitches on Windows by YL Experts</u></a></li>
-<li><a href="https://win-best.techidaily.com/the-ultimate-guide-to-sound-card-diagnostics-techniques-by-yl-software-experts/"><u>The Ultimate Guide to Sound Card Diagnostics: Techniques by YL Software Experts</u></a></li>
-<li><a href="https://win-best.techidaily.com/verifying-the-effectiveness-of-your-windows-defender-a-guide-by-yl-computing/"><u>Verifying the Effectiveness of Your Windows Defender: A Guide by YL Computing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-integrating-existing-video-files-in-your-powerpoint-decks-for-2024/"><u>[Updated] Integrating Existing Video Files in Your PowerPoint Decks for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-most-valuable-maps-top-treasures-in-terraria/"><u>[Updated] Most Valuable Maps Top Treasures in Terraria</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/discover-the-most-dependable-no-cost-backup-applications-for-your-windows-computer/"><u>Discover the Most Dependable, No-Cost Backup Applications for Your Windows Computer</u></a></li>
+<li><a href="https://win-best.techidaily.com/download-dex-36-beta-version-now-enhance-your-djing-skills-with-pcdj/"><u>Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ</u></a></li>
+<li><a href="https://win-best.techidaily.com/exclusive-karaoke-service-transform-your-talent-into-tropical-tunes-with-the-latest-chart-toppers/"><u>Exclusive Karaoke Service: Transform Your Talent Into Tropical Tunes with the Latest Chart-Toppers</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-can-i-enhance-my-computers-speed-and-efficiency-discover-the-strategies-from-yl-computing/"><u>How Can I Enhance My Computer's Speed and Efficiency? Discover the Strategies From YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-yl-computings-advanced-diagnostic-program-unveils-hardware-troubles-with-ease/"><u>How YL Computing's Advanced Diagnostic Program Unveils Hardware Troubles with Ease</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-30-pathways-to-unique-metaverse-meme-production/"><u>In 2024, 30 Pathways to Unique Metaverse Meme Production</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-discord-nitro-worth-it/"><u>Is Discord Nitro Worth It?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/nyt-daily-puzzle-insights-and-solution-june-26-edition-challenge-381/"><u>NYT Daily Puzzle Insights & Solution - June 26 Edition, Challenge #381</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ight-way-to-raise-your-videos-reach-responsibly/"><u>The Right Way to Raise Your Video's Reach Responsibly</u></a></li>
+<li><a href="https://win-best.techidaily.com/troubleshooting-audio-woes-how-to-determine-if-your-sound-card-is-faulty/"><u>Troubleshooting Audio Woes: How to Determine if Your Sound Card Is Faulty</u></a></li>
+<li><a href="https://win-best.techidaily.com/troubleshooting-computer-issues-detecting-faulty-hardware-drivers-with-yl-software-tips/"><u>Troubleshooting Computer Issues: Detecting Faulty Hardware Drivers with YL Software Tips</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultra-hd-4k-desktop-wallscape-digital-prints-and-visual-artwork-by-yl-technologies/"><u>Ultra HD 4K Desktop Wallscape - Digital Prints & Visual Artwork by YL Technologies</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-youtube-stardom-the-8-essential-tactics-to-go-viral-with-your-content/"><u>Unlocking YouTube Stardom: The 8 Essential Tactics to Go Viral with Your Content</u></a></li>
 </ul></div>
 

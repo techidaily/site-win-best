@@ -1,7 +1,7 @@
 ---
 title: Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ
-date: 2024-12-03T11:17:23.941Z
-updated: 2024-12-09T12:36:49.358Z
+date: 2024-12-10T16:27:54.800Z
+updated: 2024-12-15T16:49:49.794Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,18 +76,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-simplified-techniques-for-crafting-captions-on-fb-videos/"><u>[New] Simplified Techniques for Crafting Captions on FB Videos</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-unlocking-detailed-imagery-in-digital-spaces-for-2024/"><u>[New] Unlocking Detailed Imagery in Digital Spaces for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-enhance-your-story-game-applying-fun-sticker-themes-for-2024/"><u>[Updated] Enhance Your Story Game Applying Fun Sticker Themes for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/1-free-2019-nye-party-dj-playlist-download-ultimate-countdown-mixes-for-the-new-year/"><u>1. Free 2019 NYE Party DJ Playlist Download: Ultimate Countdown Mixes for the New Year</u></a></li>
-<li><a href="https://win-best.techidaily.com/1-stunning-hyundai-santa-fe-digital-backgrounds-by-yl-computings-creative-suite/"><u>1. Stunning Hyundai Santa Fe Digital Backgrounds by YL Computing's Creative Suite</u></a></li>
-<li><a href="https://win-best.techidaily.com/1-unveiling-the-advantages-how-crypto-investments-can-boost-your-portfolio-insights-by-yl-computing/"><u>1. Unveiling the Advantages: How Crypto Investments Can Boost Your Portfolio - Insights by YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/do-you-need-to-sign-up-to-use-an-address-balance-verifier-tool-in-cryptocurrency-a-guide-from-yl-software-solutions/"><u>Do You Need to Sign Up to Use an Address Balance Verifier Tool in Cryptocurrency? – A Guide From YL Software Solutions</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-redmi-k70-pro-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Redmi K70 Pro by Name | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-poco-x6-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/step-up-your-photo-game-simple-techniques-for-upscaling-images-to-ultra-hd/"><u>Step Up Your Photo Game: Simple Techniques for Upscaling Images to Ultra HD</u></a></li>
-<li><a href="https://win-best.techidaily.com/switching-your-screens-tongue-a-step-by-step-guide-from-yl-computing/"><u>Switching Your Screen's Tongue: A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/tips-and-tricks-for-iphone-audio-enthusiasts-for-2024/"><u>Tips and Tricks for iPhone Audio Enthusiasts for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/why-is-ipogo-not-working-on-realme-12-pro-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Realme 12 Pro 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-secrets-of-flawless-video-capture-top-4-apps-for-pcmac/"><u>[Updated] 2024 Approved Secrets of Flawless Video Capture Top 4 Apps for PC/Mac</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-master-obs-on-macos-download-setup-and-get-to-work/"><u>[Updated] In 2024, Master OBS on macOS Download, Setup & Get to Work</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-step-by-step-on-zooms-video-broadcasting/"><u>2024 Approved Comprehensive Step-by-Step on Zoom's Video Broadcasting</u></a></li>
+<li><a href="https://win-help.techidaily.com/effizientes-transfer-verfahren-wechsel-sie-ihre-systemdateien-von-einem-ssd-auf-einen-neuen-laufwerkplatz/"><u>Effizientes Transfer-Verfahren: Wechsel Sie Ihre Systemdateien Von Einem SSD Auf Einen Neuen Laufwerkplatz</u></a></li>
+<li><a href="https://win-best.techidaily.com/identifying-signs-of-a-deteriorating-psu-a-guide-by-yl-computing/"><u>Identifying Signs of a Deteriorating PSU: A Guide by YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/launch-of-bitmains-revolutionary-bitcoin-asic-miner-model-t21-by-yl-computing-expected-in-january-2024/"><u>Launch of Bitmain's Revolutionary Bitcoin ASIC Miner Model T21 by YL Computing Expected in January 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-edge-of-color-grading-with-luts/"><u>Leading Edge of Color Grading with LUTs</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-enabling-closed-captions-on-a-stubborn-roku-player/"><u>Mastering the Art of Enabling Closed Captions on a Stubborn Roku Player</u></a></li>
+<li><a href="https://win-best.techidaily.com/quick-guide-top-methods-for-rapid-file-transfer-on-windows-tips-by-yl-computing/"><u>Quick Guide: Top Methods for Rapid File Transfer on Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-24-amazing-christmas-and-festive-season-bargains-on-pcs-exploring-the-best-offers-from-best-buy-amazon-newegg-etc-insights/"><u>Top 24 Amazing Christmas & Festive Season Bargains on PCs: Exploring the Best Offers From Best Buy, Amazon, Newegg, Etc. - Insights</u></a></li>
+<li><a href="https://win-best.techidaily.com/understanding-reasons-behind-your-pcs-failure-to-boot-insights-from-yl-computing-and-yl-software/"><u>Understanding Reasons Behind Your PC's Failure to Boot - Insights From YL Computing & YL Software</u></a></li>
 </ul></div>
 
