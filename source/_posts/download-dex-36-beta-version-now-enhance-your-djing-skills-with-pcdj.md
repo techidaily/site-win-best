@@ -1,7 +1,7 @@
 ---
 title: Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ
-date: 2024-12-10T16:27:54.800Z
-updated: 2024-12-15T16:49:49.794Z
+date: 2024-12-20T14:21:16.298Z
+updated: 2024-12-24T00:01:48.030Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,16 +76,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-secrets-of-flawless-video-capture-top-4-apps-for-pcmac/"><u>[Updated] 2024 Approved Secrets of Flawless Video Capture Top 4 Apps for PC/Mac</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-master-obs-on-macos-download-setup-and-get-to-work/"><u>[Updated] In 2024, Master OBS on macOS Download, Setup & Get to Work</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-comprehensive-step-by-step-on-zooms-video-broadcasting/"><u>2024 Approved Comprehensive Step-by-Step on Zoom's Video Broadcasting</u></a></li>
-<li><a href="https://win-help.techidaily.com/effizientes-transfer-verfahren-wechsel-sie-ihre-systemdateien-von-einem-ssd-auf-einen-neuen-laufwerkplatz/"><u>Effizientes Transfer-Verfahren: Wechsel Sie Ihre Systemdateien Von Einem SSD Auf Einen Neuen Laufwerkplatz</u></a></li>
-<li><a href="https://win-best.techidaily.com/identifying-signs-of-a-deteriorating-psu-a-guide-by-yl-computing/"><u>Identifying Signs of a Deteriorating PSU: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/launch-of-bitmains-revolutionary-bitcoin-asic-miner-model-t21-by-yl-computing-expected-in-january-2024/"><u>Launch of Bitmain's Revolutionary Bitcoin ASIC Miner Model T21 by YL Computing Expected in January 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leading-edge-of-color-grading-with-luts/"><u>Leading Edge of Color Grading with LUTs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-enabling-closed-captions-on-a-stubborn-roku-player/"><u>Mastering the Art of Enabling Closed Captions on a Stubborn Roku Player</u></a></li>
-<li><a href="https://win-best.techidaily.com/quick-guide-top-methods-for-rapid-file-transfer-on-windows-tips-by-yl-computing/"><u>Quick Guide: Top Methods for Rapid File Transfer on Windows - Tips by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-24-amazing-christmas-and-festive-season-bargains-on-pcs-exploring-the-best-offers-from-best-buy-amazon-newegg-etc-insights/"><u>Top 24 Amazing Christmas & Festive Season Bargains on PCs: Exploring the Best Offers From Best Buy, Amazon, Newegg, Etc. - Insights</u></a></li>
-<li><a href="https://win-best.techidaily.com/understanding-reasons-behind-your-pcs-failure-to-boot-insights-from-yl-computing-and-yl-software/"><u>Understanding Reasons Behind Your PC's Failure to Boot - Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-elite-index-of-public-domain-picture-sources-for-2024/"><u>[New] Elite Index of Public Domain Picture Sources for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-skyrocketing-success-uncover-the-top-5-tiktok-typeface-generators/"><u>[New] Skyrocketing Success Uncover the Top 5 TikTok Typeface Generators</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-launched-visuals-review-synopsis-for-2024/"><u>[Updated] Launched Visuals Review Synopsis for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-audacitys-secrets-creating-smooth-soundscapes/"><u>2024 Approved Audacity's Secrets Creating Smooth Soundscapes</u></a></li>
+<li><a href="https://win-best.techidaily.com/chinas-preschool-education-reform-underway-by-npc-for-affordability-boosting-birth-rates-amidst-historic-demographic-shift-insights-from-yl-computing/"><u>China's Preschool Education Reform Underway by NPC for Affordability, Boosting Birth Rates Amidst Historic Demographic Shift - Insights From YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/diagnosing-hardware-problems-on-your-pc-top-tools-for-windows-systems-exploring-options-with-yl/"><u>Diagnosing Hardware Problems on Your PC: Top Tools for Windows Systems - Exploring Options with YL</u></a></li>
+<li><a href="https://win-best.techidaily.com/discovering-the-right-drivers-for-your-hardware-a-guide-by-yl-computing/"><u>Discovering the Right Drivers for Your Hardware: A Guide by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-netflix-a-step-by-step-solution-for-current-viewing-issues/"><u>Fixing Netflix: A Step-By-Step Solution for Current Viewing Issues</u></a></li>
+<li><a href="https://win-best.techidaily.com/gravity-falls-visual-content-hd-walls-backgrounds-and-photo-collections-for-inspiration-exclusive-series-from-yl-studios/"><u>Gravity Falls Visual Content: HD Walls, Backgrounds, and Photo Collections for Inspiration - Exclusive Series From YL Studios</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-visual-language-how-to-turn-any-gif-into-a-social-sticker/"><u>In 2024, Unlock Your Visual Language How to Turn Any GIF Into a Social Sticker</u></a></li>
+<li><a href="https://win-best.techidaily.com/party-time-unlock-fresh-beats-with-pcdjs-latest-karaoke-library-march-26-2018/"><u>Party Time! Unlock Fresh Beats with PCDJ's Latest Karaoke Library (March 26, 2018)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/precision-and-excellence-a-guide-to-professional-audacity-recordings-for-2024/"><u>Precision and Excellence A Guide to Professional Audacity Recordings for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/revitalize-your-pcs-efficiency-with-proven-cleanup-strategies-by-yl-software-experts/"><u>Revitalize Your PC's Efficiency with Proven Cleanup Strategies by YL Software Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-overheating-dilemma-of-shell-infrastructure-on-windows-and-linux-systems/"><u>Solving the Overheating Dilemma of Shell Infrastructure on Windows and Linux Systems</u></a></li>
+<li><a href="https://win-best.techidaily.com/unveiling-the-aftermath-of-conflict-a-deep-dive-into-the-effects-of-the-sino-japanese-war/"><u>Unveiling the Aftermath of Conflict: A Deep Dive Into the Effects of the Sino-Japanese War</u></a></li>
 </ul></div>
 

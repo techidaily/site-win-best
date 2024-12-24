@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2024-12-14T16:25:16.254Z
-updated: 2024-12-15T16:36:19.411Z
+date: 2024-12-20T12:37:37.861Z
+updated: 2024-12-23T20:41:58.418Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,21 +74,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-integrating-existing-video-files-in-your-powerpoint-decks-for-2024/"><u>[Updated] Integrating Existing Video Files in Your PowerPoint Decks for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-most-valuable-maps-top-treasures-in-terraria/"><u>[Updated] Most Valuable Maps Top Treasures in Terraria</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/discover-the-most-dependable-no-cost-backup-applications-for-your-windows-computer/"><u>Discover the Most Dependable, No-Cost Backup Applications for Your Windows Computer</u></a></li>
-<li><a href="https://win-best.techidaily.com/download-dex-36-beta-version-now-enhance-your-djing-skills-with-pcdj/"><u>Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ</u></a></li>
-<li><a href="https://win-best.techidaily.com/exclusive-karaoke-service-transform-your-talent-into-tropical-tunes-with-the-latest-chart-toppers/"><u>Exclusive Karaoke Service: Transform Your Talent Into Tropical Tunes with the Latest Chart-Toppers</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-can-i-enhance-my-computers-speed-and-efficiency-discover-the-strategies-from-yl-computing/"><u>How Can I Enhance My Computer's Speed and Efficiency? Discover the Strategies From YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-yl-computings-advanced-diagnostic-program-unveils-hardware-troubles-with-ease/"><u>How YL Computing's Advanced Diagnostic Program Unveils Hardware Troubles with Ease</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-30-pathways-to-unique-metaverse-meme-production/"><u>In 2024, 30 Pathways to Unique Metaverse Meme Production</u></a></li>
-<li><a href="https://games-able.techidaily.com/is-discord-nitro-worth-it/"><u>Is Discord Nitro Worth It?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/nyt-daily-puzzle-insights-and-solution-june-26-edition-challenge-381/"><u>NYT Daily Puzzle Insights & Solution - June 26 Edition, Challenge #381</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ight-way-to-raise-your-videos-reach-responsibly/"><u>The Right Way to Raise Your Video's Reach Responsibly</u></a></li>
-<li><a href="https://win-best.techidaily.com/troubleshooting-audio-woes-how-to-determine-if-your-sound-card-is-faulty/"><u>Troubleshooting Audio Woes: How to Determine if Your Sound Card Is Faulty</u></a></li>
-<li><a href="https://win-best.techidaily.com/troubleshooting-computer-issues-detecting-faulty-hardware-drivers-with-yl-software-tips/"><u>Troubleshooting Computer Issues: Detecting Faulty Hardware Drivers with YL Software Tips</u></a></li>
-<li><a href="https://win-best.techidaily.com/ultra-hd-4k-desktop-wallscape-digital-prints-and-visual-artwork-by-yl-technologies/"><u>Ultra HD 4K Desktop Wallscape - Digital Prints & Visual Artwork by YL Technologies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-youtube-stardom-the-8-essential-tactics-to-go-viral-with-your-content/"><u>Unlocking YouTube Stardom: The 8 Essential Tactics to Go Viral with Your Content</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>[New] The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mac-and-windows-compatible-srt-boosters-the-elite-list-of-10/"><u>[Updated] Mac & Windows Compatible SRT Boosters The Elite List of 10</u></a></li>
+<li><a href="https://win-best.techidaily.com/discover-top-rated-background-beat-makers-for-karaoke-sessions-ideal-software-features-compared/"><u>Discover Top-Rated Background Beat Makers for Karaoke Sessions - Ideal Software Features Compared</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-your-free-version-of-wonderfox-for-iphone-ipad-easy-download-and-use-guide/"><u>Get Your Free Version of WonderFox for iPhone, iPad - Easy Download and Use Guide!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-converter-van-asf-naar-wmv-onlineruimte-voor-veilig-en-vrijetijdsbruik/"><u>Gratis Converter Van ASF Naar WMV - Onlineruimte Voor Veilig en Vrijetijdsbruik</u></a></li>
+<li><a href="https://win-best.techidaily.com/identifying-factors-leading-to-laptop-overheating-tips-and-solutions-by-yl-technology-experts/"><u>Identifying Factors Leading to Laptop Overheating: Tips and Solutions by YL Technology Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-utilizing-film-content-a-strategy-for-teachers/"><u>In 2024, Utilizing Film Content A Strategy for Teachers</u></a></li>
+<li><a href="https://win-best.techidaily.com/keeping-your-laptop-fast-and-efficient-strategies-by-yl-software-experts/"><u>Keeping Your Laptop Fast and Efficient: Strategies by YL Software Experts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-media-conversion-youtube-to-mp3-on-appleos-for-2024/"><u>Mastering Media Conversion YouTube to MP3 on AppleOS for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/precision-in-presentation-finalizing-videos-on-vimeo-effectively-for-2024/"><u>Precision in Presentation Finalizing Videos on Vimeo Effectively for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simple-guide-transforming-iso-files-into-mp4-for-smooth-video-playback/"><u>Simple Guide: Transforming ISO Files Into MP4 for Smooth Video Playback</u></a></li>
+<li><a href="https://win-best.techidaily.com/unraveling-antivirus-errors-and-faults-a-guide-to-solving-common-problems-with-yl-software-support/"><u>Unraveling Antivirus Errors and Faults: A Guide to Solving Common Problems with YL Software Support</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-silent-editing-a-step-by-step-guide-to-noise-reduction-in-fcpx/"><u>Updated In 2024, Silent Editing A Step-by-Step Guide to Noise Reduction in FCPX</u></a></li>
+<li><a href="https://win-best.techidaily.com/yl-computing-sahara-desert-backgrounds-premium-digital-artwork-collection/"><u>YL Computing Sahara Desert Backgrounds - Premium Digital Artwork Collection</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "DEX Cujo Launches New Feature: Integrated SoundCloud Streaming with PCDJ"
-date: 2024-12-09T16:56:28.798Z
-updated: 2024-12-15T17:05:30.580Z
+date: 2024-12-16T22:28:15.336Z
+updated: 2024-12-24T01:30:39.642Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ DEX 3 integration of SoundCloud Go+ will be released to the public (very) early 
 _Have questions about **SoundCloud** support and how it will work in our **DEX 3 DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,18 +58,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/10/dex3-soundcloud-intergrati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-mcb-template-pack-download-now/"><u>[New] MCB Template Pack Download Now</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-all-about-youtube-micro-videos-for-2024/"><u>[Updated] All About YouTube Micro Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-the-power-of-pages-top-10-social-media-optimization-tactics-for-2024/"><u>[Updated] Unlocking the Power of Pages Top 10 Social Media Optimization Tactics for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/1-maximizing-storage-efficiency-proven-methods-to-clear-up-your-pcs-hard-drive-guidance-by-yl-computing/"><u>1. Maximizing Storage Efficiency: Proven Methods to Clear Up Your PC's Hard Drive - Guidance by YL Computing</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-nokia-c300-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Nokia C300 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/expert-advice-on-detecting-computer-memory-faults-ram-testing-methods-from-yl-software-solutions/"><u>Expert Advice on Detecting Computer Memory Faults: Ram Testing Methods From YL Software Solutions</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-can-i-resolve-issues-with-my-network-adapter-tips-and-solutions-from-yl-computing/"><u>How Can I Resolve Issues With My Network Adapter? - Tips and Solutions From YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-to-fix-hardware-related-error-messages-on-your-windows-pc-expert-advice-from-yl-computing/"><u>How to Fix Hardware-Related Error Messages on Your Windows PC - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-messages-from-apple-iphone-13-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Messages from Apple iPhone 13 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/lol-arcane-collection-of-hd-backdrops-and-desktops-immersive-gaming-artwork-from-yl-computing/"><u>LoL Arcane Collection of HD Backdrops and Desktops - Immersive Gaming Artwork From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-how-to-overcome-error-code-0x80072efd-in-win1110/"><u>Mastering How to Overcome Error Code 0X80072EFD in Win11/10</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-and-rectifying-invalid-blob-tag-issue/"><u>Troubleshooting and Rectifying Invalid Blob Tag Issue</u></a></li>
-<li><a href="https://win-best.techidaily.com/understanding-the-reasons-behind-pcs-blue-screen-of-death-insights-from-yl-computing/"><u>Understanding the Reasons Behind PC's Blue Screen of Death: Insights From YL Computing</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>[New] 2024 Approved Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ranking-hexacopter-marvels-10/"><u>[Updated] In 2024, Ranking Hexacopter Marvels #10</u></a></li>
+<li><a href="https://win-best.techidaily.com/achieve-precision-scanning-master-the-art-of-calibration-using-yl-computing-solutions/"><u>Achieve Precision Scanning: Master the Art of Calibration Using YL Computing Solutions</u></a></li>
+<li><a href="https://win-best.techidaily.com/elegant-french-macaroon-wallpapers-high-quality-imagery-and-graphics-for-your-desktop-yl-computing/"><u>Elegant French Macaroon Wallpapers: High-Quality Imagery & Graphics for Your Desktop - YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/expert-guide-identifying-motherboard-faults-a-comprehensive-tutorial-from-yl-tech/"><u>Expert Guide: Identifying Motherboard Faults – A Comprehensive Tutorial From YL Tech</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-spark-go-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Spark Go (2023) to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/is-it-necessary-to-upgrade-your-gpu-driver-version-insights-by-yl-computing/"><u>Is It Necessary to Upgrade Your GPU Driver Version? - Insights by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/samsung-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://win-best.techidaily.com/solving-driver-issues-on-windows-expert-guidance-from-yl-computing-and-yl-software/"><u>Solving Driver Issues on Windows: Expert Guidance From YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/soundscapes-in-action-capturing-music-videos-iphone-style/"><u>Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-bookworms-choice-how-to-maximize-reading-pleasure-with-the-latest-kindle-paperwhite-7th-gen/"><u>The Bookworm's Choice: How to Maximize Reading Pleasure with the Latest Kindle Paperwhite 7Th Gen</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-gamers-insights-from-toms-hardware/"><u>The Ultimate Resource for Gamers: Insights From Tom's Hardware</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultimate-guide-efficiently-zipping-files-and-directories-tech-tips-by-yl-computing/"><u>Ultimate Guide: Efficiently Zipping Files and Directories - Tech Tips by YL Computing</u></a></li>
 </ul></div>
 
