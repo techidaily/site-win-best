@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2024-12-20T12:37:37.861Z
-updated: 2024-12-23T20:41:58.418Z
+date: 2024-12-26T00:58:51.796Z
+updated: 2024-12-29T19:47:17.220Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,19 +74,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>[New] The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mac-and-windows-compatible-srt-boosters-the-elite-list-of-10/"><u>[Updated] Mac & Windows Compatible SRT Boosters The Elite List of 10</u></a></li>
-<li><a href="https://win-best.techidaily.com/discover-top-rated-background-beat-makers-for-karaoke-sessions-ideal-software-features-compared/"><u>Discover Top-Rated Background Beat Makers for Karaoke Sessions - Ideal Software Features Compared</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-your-free-version-of-wonderfox-for-iphone-ipad-easy-download-and-use-guide/"><u>Get Your Free Version of WonderFox for iPhone, iPad - Easy Download and Use Guide!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-converter-van-asf-naar-wmv-onlineruimte-voor-veilig-en-vrijetijdsbruik/"><u>Gratis Converter Van ASF Naar WMV - Onlineruimte Voor Veilig en Vrijetijdsbruik</u></a></li>
-<li><a href="https://win-best.techidaily.com/identifying-factors-leading-to-laptop-overheating-tips-and-solutions-by-yl-technology-experts/"><u>Identifying Factors Leading to Laptop Overheating: Tips and Solutions by YL Technology Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-utilizing-film-content-a-strategy-for-teachers/"><u>In 2024, Utilizing Film Content A Strategy for Teachers</u></a></li>
-<li><a href="https://win-best.techidaily.com/keeping-your-laptop-fast-and-efficient-strategies-by-yl-software-experts/"><u>Keeping Your Laptop Fast and Efficient: Strategies by YL Software Experts</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/mastering-media-conversion-youtube-to-mp3-on-appleos-for-2024/"><u>Mastering Media Conversion YouTube to MP3 on AppleOS for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/precision-in-presentation-finalizing-videos-on-vimeo-effectively-for-2024/"><u>Precision in Presentation Finalizing Videos on Vimeo Effectively for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/simple-guide-transforming-iso-files-into-mp4-for-smooth-video-playback/"><u>Simple Guide: Transforming ISO Files Into MP4 for Smooth Video Playback</u></a></li>
-<li><a href="https://win-best.techidaily.com/unraveling-antivirus-errors-and-faults-a-guide-to-solving-common-problems-with-yl-software-support/"><u>Unraveling Antivirus Errors and Faults: A Guide to Solving Common Problems with YL Software Support</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-silent-editing-a-step-by-step-guide-to-noise-reduction-in-fcpx/"><u>Updated In 2024, Silent Editing A Step-by-Step Guide to Noise Reduction in FCPX</u></a></li>
-<li><a href="https://win-best.techidaily.com/yl-computing-sahara-desert-backgrounds-premium-digital-artwork-collection/"><u>YL Computing Sahara Desert Backgrounds - Premium Digital Artwork Collection</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-spectacular-gratis-switch-gaming-tools/"><u>[New] 2024 Approved Spectacular Gratis Switch Gaming Tools</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-alternative-to-obs-the-next-gen-stream-software-for-2024/"><u>[New] Alternative to OBS The Next-Gen Stream Software for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/igital-dominance-highest-viewed-youtube-videos-today/"><u>[New] Digital Dominance Highest Viewed YouTube Videos Today</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-premiere-pro-know-how-optimizing-youtube-video-uploads/"><u>[Updated] 2024 Approved Premiere Pro Know-How Optimizing YouTube Video Uploads</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-wintvrecorder-effortless-free-live-tv-saving-software-for-2024/"><u>[Updated] WinTVRecorder Effortless, FREE Live TV Saving Software for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/deciphering-the-role-of-registry-settings-in-system-management-with-yl-software-solutions/"><u>Deciphering the Role of Registry Settings in System Management with YL Software Solutions</u></a></li>
+<li><a href="https://win-best.techidaily.com/discover-the-power-of-data-restoration-an-inside-look-at-windows-file-recovery-by-yl-computing/"><u>Discover the Power of Data Restoration: An Inside Look at Windows File Recovery by YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/hot-40-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Hot 40 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-10-useful-screen-recorder-for-teachers/"><u>In 2024, 10 Useful Screen Recorder for Teachers</u></a></li>
+<li><a href="https://win-best.techidaily.com/overcoming-speaker-problems-expert-tips-for-proper-sound-playback-with-yl-software-solutions/"><u>Overcoming Speaker Problems: Expert Tips for Proper Sound Playback with YL Software Solutions</u></a></li>
+<li><a href="https://win-best.techidaily.com/troubleshooting-your-blacked-out-monitor-screen-expert-insights-from-yl-softwares-tech-support-team/"><u>Troubleshooting Your Blacked-Out Monitor Screen: Expert Insights From YL Software’s Tech Support Team</u></a></li>
 </ul></div>
 

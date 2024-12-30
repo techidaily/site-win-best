@@ -1,7 +1,7 @@
 ---
 title: "DEX Cujo Launches New Feature: Integrated SoundCloud Streaming with PCDJ"
-date: 2024-12-16T22:28:15.336Z
-updated: 2024-12-24T01:30:39.642Z
+date: 2024-12-22T22:09:20.278Z
+updated: 2024-12-29T22:14:05.857Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ DEX 3 integration of SoundCloud Go+ will be released to the public (very) early 
 _Have questions about **SoundCloud** support and how it will work in our **DEX 3 DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,18 +58,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/10/dex3-soundcloud-intergrati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-ensure-video-success-on-twitter-understand-the-aspect-ratio/"><u>[New] 2024 Approved Ensure Video Success on Twitter Understand the Aspect Ratio</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-ranking-hexacopter-marvels-10/"><u>[Updated] In 2024, Ranking Hexacopter Marvels #10</u></a></li>
-<li><a href="https://win-best.techidaily.com/achieve-precision-scanning-master-the-art-of-calibration-using-yl-computing-solutions/"><u>Achieve Precision Scanning: Master the Art of Calibration Using YL Computing Solutions</u></a></li>
-<li><a href="https://win-best.techidaily.com/elegant-french-macaroon-wallpapers-high-quality-imagery-and-graphics-for-your-desktop-yl-computing/"><u>Elegant French Macaroon Wallpapers: High-Quality Imagery & Graphics for Your Desktop - YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/expert-guide-identifying-motherboard-faults-a-comprehensive-tutorial-from-yl-tech/"><u>Expert Guide: Identifying Motherboard Faults – A Comprehensive Tutorial From YL Tech</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-tecno-spark-go-2023-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Tecno Spark Go (2023) to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/is-it-necessary-to-upgrade-your-gpu-driver-version-insights-by-yl-computing/"><u>Is It Necessary to Upgrade Your GPU Driver Version? - Insights by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/samsung-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://win-best.techidaily.com/solving-driver-issues-on-windows-expert-guidance-from-yl-computing-and-yl-software/"><u>Solving Driver Issues on Windows: Expert Guidance From YL Computing & YL Software</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/soundscapes-in-action-capturing-music-videos-iphone-style/"><u>Soundscapes in Action Capturing Music Videos iPhone Style</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-bookworms-choice-how-to-maximize-reading-pleasure-with-the-latest-kindle-paperwhite-7th-gen/"><u>The Bookworm's Choice: How to Maximize Reading Pleasure with the Latest Kindle Paperwhite 7Th Gen</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/the-ultimate-resource-for-gamers-insights-from-toms-hardware/"><u>The Ultimate Resource for Gamers: Insights From Tom's Hardware</u></a></li>
-<li><a href="https://win-best.techidaily.com/ultimate-guide-efficiently-zipping-files-and-directories-tech-tips-by-yl-computing/"><u>Ultimate Guide: Efficiently Zipping Files and Directories - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-capture-and-share-the-new-era-of-screen-recorders-on-spring/"><u>[New] 2024 Approved Capture and Share The New Era of Screen Recorders on Spring</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-top-5-online-facebook-video-downloader-for-2024/"><u>[Updated] Top 5 Online Facebook Video Downloader for 2024</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/aktiviere-dein-iphone-mit-diesen-8-einfachen-schritten-wenn-es-nicht-aktivierbar-scheint/"><u>Aktiviere Dein iPhone Mit Diesen 8 Einfachen Schritten, Wenn Es Nicht Aktivierbar Scheint</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-vivo-s17-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Vivo S17 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On OnePlus Nord CE 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/masterclass-on-developing-your-mobile-dj-enterprise-plan-continued-video-guide/"><u>Masterclass on Developing Your Mobile DJ Enterprise Plan [Continued – Video Guide]</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-guide-turn-off-windows-security-on-windows-11-by-yl-computing/"><u>Step-by-Step Guide: Turn Off Windows Security on Windows 11 by YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-10-essential-fitness-journaling-apps-for-your-training/"><u>Top 10 Essential Fitness Journaling Apps for Your Training</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultra-hd-sierra-visuals-for-mac-users-exclusive-wallpaper-collection-from-yl-software/"><u>Ultra-HD Sierra Visuals for Mac Users - Exclusive Wallpaper Collection From YL Software</u></a></li>
+<li><a href="https://win-best.techidaily.com/unveiling-new-features-in-pcdj-dex-v310plus-interactive-karaoke-tutorial-with-step-by-step-demonstration/"><u>Unveiling New Features in PCDJ DEX V3.10+: Interactive Karaoke Tutorial with Step-by-Step Demonstration</u></a></li>
+<li><a href="https://win-best.techidaily.com/unveiling-strategic-naval-clashes-of-the-early-sino-japanese-confrontation-insights-from-yl-computing/"><u>Unveiling Strategic Naval Clashes of the Early Sino-Japanese Confrontation - Insights From YL Computing</u></a></li>
 </ul></div>
 

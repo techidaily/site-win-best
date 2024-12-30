@@ -1,7 +1,7 @@
 ---
 title: Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ
-date: 2024-12-20T14:21:16.298Z
-updated: 2024-12-24T00:01:48.030Z
+date: 2024-12-28T17:51:55.451Z
+updated: 2024-12-30T01:05:33.426Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,20 +76,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-elite-index-of-public-domain-picture-sources-for-2024/"><u>[New] Elite Index of Public Domain Picture Sources for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-skyrocketing-success-uncover-the-top-5-tiktok-typeface-generators/"><u>[New] Skyrocketing Success Uncover the Top 5 TikTok Typeface Generators</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-launched-visuals-review-synopsis-for-2024/"><u>[Updated] Launched Visuals Review Synopsis for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-audacitys-secrets-creating-smooth-soundscapes/"><u>2024 Approved Audacity's Secrets Creating Smooth Soundscapes</u></a></li>
-<li><a href="https://win-best.techidaily.com/chinas-preschool-education-reform-underway-by-npc-for-affordability-boosting-birth-rates-amidst-historic-demographic-shift-insights-from-yl-computing/"><u>China's Preschool Education Reform Underway by NPC for Affordability, Boosting Birth Rates Amidst Historic Demographic Shift - Insights From YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/diagnosing-hardware-problems-on-your-pc-top-tools-for-windows-systems-exploring-options-with-yl/"><u>Diagnosing Hardware Problems on Your PC: Top Tools for Windows Systems - Exploring Options with YL</u></a></li>
-<li><a href="https://win-best.techidaily.com/discovering-the-right-drivers-for-your-hardware-a-guide-by-yl-computing/"><u>Discovering the Right Drivers for Your Hardware: A Guide by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-netflix-a-step-by-step-solution-for-current-viewing-issues/"><u>Fixing Netflix: A Step-By-Step Solution for Current Viewing Issues</u></a></li>
-<li><a href="https://win-best.techidaily.com/gravity-falls-visual-content-hd-walls-backgrounds-and-photo-collections-for-inspiration-exclusive-series-from-yl-studios/"><u>Gravity Falls Visual Content: HD Walls, Backgrounds, and Photo Collections for Inspiration - Exclusive Series From YL Studios</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-your-visual-language-how-to-turn-any-gif-into-a-social-sticker/"><u>In 2024, Unlock Your Visual Language How to Turn Any GIF Into a Social Sticker</u></a></li>
-<li><a href="https://win-best.techidaily.com/party-time-unlock-fresh-beats-with-pcdjs-latest-karaoke-library-march-26-2018/"><u>Party Time! Unlock Fresh Beats with PCDJ's Latest Karaoke Library (March 26, 2018)</u></a></li>
-<li><a href="https://fox-info.techidaily.com/precision-and-excellence-a-guide-to-professional-audacity-recordings-for-2024/"><u>Precision and Excellence A Guide to Professional Audacity Recordings for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/revitalize-your-pcs-efficiency-with-proven-cleanup-strategies-by-yl-software-experts/"><u>Revitalize Your PC's Efficiency with Proven Cleanup Strategies by YL Software Experts</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-overheating-dilemma-of-shell-infrastructure-on-windows-and-linux-systems/"><u>Solving the Overheating Dilemma of Shell Infrastructure on Windows and Linux Systems</u></a></li>
-<li><a href="https://win-best.techidaily.com/unveiling-the-aftermath-of-conflict-a-deep-dive-into-the-effects-of-the-sino-japanese-war/"><u>Unveiling the Aftermath of Conflict: A Deep Dive Into the Effects of the Sino-Japanese War</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-reddit-presence-with-these-essentials/"><u>[Updated] Elevate Your Reddit Presence with These Essentials</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v27e-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-enhancing-tweets-adding-media-files/"><u>2024 Approved Enhancing Tweets Adding Media Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>2024 Approved FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
+<li><a href="https://win-best.techidaily.com/diy-toner-change-for-scanners-a-step-by-step-tutorial-by-yl-software-experts/"><u>DIY Toner Change for Scanners: A Step-by-Step Tutorial by YL Software Experts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/flexibility-meets-affordability-in-the-asus-chromebook-flip-c302ca-a-comprehensive-review/"><u>Flexibility Meets Affordability in the Asus Chromebook Flip C302CA - A Comprehensive Review</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-simples-para-transformar-videos-webm-em-formatos-avi-wmv-ou-mov-com-a-ferramenta-movavi/"><u>Guia Simples Para Transformar Vídeos WebM Em Formatos AVI, WMV Ou MOV Com a Ferramenta Movavi</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-to-find-quality-music-for-your-dex-3-setup-after-pulselockers-closure-freebies-and-subscriptions-included/"><u>How to Find Quality Music for Your DEX 3 Setup After Pulselocker's Closure - Freebies & Subscriptions Included</u></a></li>
+<li><a href="https://techidaily.com/in-depth-guide-turning-off-windows-10s-continuous-system-updates/"><u>In Depth Guide: Turning Off Windows 10'S Continuous System Updates</u></a></li>
+<li><a href="https://win-best.techidaily.com/maximizing-sound-quality-essential-tips-for-enhanced-audio-performance-insights-by-yl-computing/"><u>Maximizing Sound Quality: Essential Tips for Enhanced Audio Performance - Insights by YL Computing</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-online-video-editors-like-imovie-top-picks/"><u>New 2024 Approved Free Online Video Editors Like iMovie Top Picks</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-bring-your-videos-to-life-an-introduction-to-gopro-quik-on-macbook-for-2024/"><u>New Bring Your Videos to Life An Introduction to GoPro Quik on MacBook for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/resolving-graphics-card-issues-on-your-windows-pc-expert-tips-from-yl-computing/"><u>Resolving Graphics Card Issues on Your Windows PC: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/solar-inspired-orange-hexagon-and-illuminated-dark-background-dynamic-live-wallpaper-yl-software/"><u>Solar-Inspired Orange Hexagon and Illuminated Dark Background Dynamic Live Wallpaper - YL Software</u></a></li>
+<li><a href="https://win-best.techidaily.com/unveiling-various-power-planning-tools-within-the-windows-operating-system-by-yl-computing/"><u>Unveiling Various Power Planning Tools Within the Windows Operating System by YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/yl-software-insights-the-ultimate-process-for-rebooting-your-hard-disk-efficiently/"><u>YL Software Insights: The Ultimate Process for Rebooting Your Hard Disk Efficiently</u></a></li>
 </ul></div>
 
