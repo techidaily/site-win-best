@@ -1,7 +1,7 @@
 ---
 title: Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ
-date: 2024-12-28T17:51:55.451Z
-updated: 2024-12-30T01:05:33.426Z
+date: 2025-01-02T22:51:10.479Z
+updated: 2025-01-08T23:53:23.596Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,21 +76,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-elevate-your-reddit-presence-with-these-essentials/"><u>[Updated] Elevate Your Reddit Presence with These Essentials</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v27e-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/2024-approved-enhancing-tweets-adding-media-files/"><u>2024 Approved Enhancing Tweets Adding Media Files</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>2024 Approved FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
-<li><a href="https://win-best.techidaily.com/diy-toner-change-for-scanners-a-step-by-step-tutorial-by-yl-software-experts/"><u>DIY Toner Change for Scanners: A Step-by-Step Tutorial by YL Software Experts</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/flexibility-meets-affordability-in-the-asus-chromebook-flip-c302ca-a-comprehensive-review/"><u>Flexibility Meets Affordability in the Asus Chromebook Flip C302CA - A Comprehensive Review</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guia-simples-para-transformar-videos-webm-em-formatos-avi-wmv-ou-mov-com-a-ferramenta-movavi/"><u>Guia Simples Para Transformar Vídeos WebM Em Formatos AVI, WMV Ou MOV Com a Ferramenta Movavi</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-to-find-quality-music-for-your-dex-3-setup-after-pulselockers-closure-freebies-and-subscriptions-included/"><u>How to Find Quality Music for Your DEX 3 Setup After Pulselocker's Closure - Freebies & Subscriptions Included</u></a></li>
-<li><a href="https://techidaily.com/in-depth-guide-turning-off-windows-10s-continuous-system-updates/"><u>In Depth Guide: Turning Off Windows 10'S Continuous System Updates</u></a></li>
-<li><a href="https://win-best.techidaily.com/maximizing-sound-quality-essential-tips-for-enhanced-audio-performance-insights-by-yl-computing/"><u>Maximizing Sound Quality: Essential Tips for Enhanced Audio Performance - Insights by YL Computing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-free-online-video-editors-like-imovie-top-picks/"><u>New 2024 Approved Free Online Video Editors Like iMovie Top Picks</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-bring-your-videos-to-life-an-introduction-to-gopro-quik-on-macbook-for-2024/"><u>New Bring Your Videos to Life An Introduction to GoPro Quik on MacBook for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/resolving-graphics-card-issues-on-your-windows-pc-expert-tips-from-yl-computing/"><u>Resolving Graphics Card Issues on Your Windows PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/solar-inspired-orange-hexagon-and-illuminated-dark-background-dynamic-live-wallpaper-yl-software/"><u>Solar-Inspired Orange Hexagon and Illuminated Dark Background Dynamic Live Wallpaper - YL Software</u></a></li>
-<li><a href="https://win-best.techidaily.com/unveiling-various-power-planning-tools-within-the-windows-operating-system-by-yl-computing/"><u>Unveiling Various Power Planning Tools Within the Windows Operating System by YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/yl-software-insights-the-ultimate-process-for-rebooting-your-hard-disk-efficiently/"><u>YL Software Insights: The Ultimate Process for Rebooting Your Hard Disk Efficiently</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-step-by-step-guide-to-add-clearer-subtitles-on-youtube/"><u>[New] 2024 Approved Step-By-Step Guide to Add Clearer Subtitles on YouTube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-digital-audience-accolades-for-content-makers-for-2024/"><u>[Updated] Digital Audience Accolades for Content Makers for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728510163412-4/"><u>「ゴミ箱で失われたファイルの回復 - 消去後方法4」</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-clearing-repeated-images-from-your-whatsapp-gallery-on-ios-devices/"><u>1. Clearing Repeated Images From Your WhatsApp Gallery on iOS Devices</u></a></li>
+<li><a href="https://win-best.techidaily.com/drei-methoden-zur-wiederherstellung-von-dateien-nach-einer-formatierten-datentragerrettung/"><u>Drei Methoden Zur Wiederherstellung Von Dateien Nach Einer Formatierten Datenträgerrettung</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-nubia-red-magic-9-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Nubia Red Magic 9 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/fix-there-is-no-sound-on-twitter-videos/"><u>Fix There Is No Sound on Twitter Videos</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/rescuing-files-after-windows-1011-reimaging-comprehensive-instructions/"><u>Rescuing Files After Windows 10/11 Reimaging: Comprehensive Instructions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-infinix-smart-8-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Infinix Smart 8? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-list-of-free-4k-video-software-compatible-with-windows-10-11-and-mac-computers/"><u>The Ultimate List of Free 4K Video Software Compatible with Windows 10, 11, and Mac Computers</u></a></li>
 </ul></div>
 

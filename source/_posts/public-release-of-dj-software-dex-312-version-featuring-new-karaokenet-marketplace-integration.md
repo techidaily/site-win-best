@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2024-12-26T00:58:51.796Z
-updated: 2024-12-29T19:47:17.220Z
+date: 2025-01-08T11:46:02.514Z
+updated: 2025-01-08T20:02:42.417Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,17 +74,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-spectacular-gratis-switch-gaming-tools/"><u>[New] 2024 Approved Spectacular Gratis Switch Gaming Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-alternative-to-obs-the-next-gen-stream-software-for-2024/"><u>[New] Alternative to OBS The Next-Gen Stream Software for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/igital-dominance-highest-viewed-youtube-videos-today/"><u>[New] Digital Dominance Highest Viewed YouTube Videos Today</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-premiere-pro-know-how-optimizing-youtube-video-uploads/"><u>[Updated] 2024 Approved Premiere Pro Know-How Optimizing YouTube Video Uploads</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-wintvrecorder-effortless-free-live-tv-saving-software-for-2024/"><u>[Updated] WinTVRecorder Effortless, FREE Live TV Saving Software for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/deciphering-the-role-of-registry-settings-in-system-management-with-yl-software-solutions/"><u>Deciphering the Role of Registry Settings in System Management with YL Software Solutions</u></a></li>
-<li><a href="https://win-best.techidaily.com/discover-the-power-of-data-restoration-an-inside-look-at-windows-file-recovery-by-yl-computing/"><u>Discover the Power of Data Restoration: An Inside Look at Windows File Recovery by YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/hot-40-pro-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Hot 40 Pro Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-10-useful-screen-recorder-for-teachers/"><u>In 2024, 10 Useful Screen Recorder for Teachers</u></a></li>
-<li><a href="https://win-best.techidaily.com/overcoming-speaker-problems-expert-tips-for-proper-sound-playback-with-yl-software-solutions/"><u>Overcoming Speaker Problems: Expert Tips for Proper Sound Playback with YL Software Solutions</u></a></li>
-<li><a href="https://win-best.techidaily.com/troubleshooting-your-blacked-out-monitor-screen-expert-insights-from-yl-softwares-tech-support-team/"><u>Troubleshooting Your Blacked-Out Monitor Screen: Expert Insights From YL Software’s Tech Support Team</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>[New] In 2024, Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-10-tips-for-sound-fade-effects-in-premiere-pro/"><u>2024 Approved Top 10 Tips for Sound Fade Effects in Premiere Pro</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-understanding-luts-to-amplify-your-photo-quality/"><u>2024 Approved Understanding LUTs to Amplify Your Photo Quality</u></a></li>
+<li><a href="https://win-best.techidaily.com/best-practices-effective-ways-to-block-tcp-port-445-on-windows-systems/"><u>Best Practices: Effective Ways to Block TCP Port 445 on Windows Systems</u></a></li>
+<li><a href="https://win-best.techidaily.com/boost-productivity-with-streamlined-macro-integration-in-emeditor-text-editor/"><u>Boost Productivity with Streamlined Macro Integration in EmEditor Text Editor</u></a></li>
+<li><a href="https://win-best.techidaily.com/comprehensive-guide-for-seamless-transition-migrating-your-dhcp-services-to-the-latest-microsoft-windows-server-2/"><u>Comprehensive Guide for Seamless Transition: Migrating Your DHCP Services to the Latest Microsoft Windows Server 2</u></a></li>
+<li><a href="https://win11.techidaily.com/diagnosing-high-cpu-usage-by-vanguards-sleep-service/"><u>Diagnosing High CPU Usage by Vanguard's Sleep Service</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-perfect-phrases-enhancing-your-cryptocurrency-dialogue-with-ai/"><u>Discover the Perfect Phrases: Enhancing Your Cryptocurrency Dialogue with AI</u></a></li>
+<li><a href="https://win-best.techidaily.com/error-unable-to-locate-the-requested-webpage/"><u>Error: Unable to Locate the Requested Webpage</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-input-not-recognized-error-on-your-computer-display/"><u>Fixing 'Input Not Recognized' Error on Your Computer Display</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/illuminated-influence-elevating-your-cinematic-presentations/"><u>Illuminated Influence Elevating Your Cinematic Presentations</u></a></li>
+<li><a href="https://win-best.techidaily.com/information-wie-man-iphone-kontakte-bei-google-syncing-deaktiviert/"><u>Information: Wie Man iPhone-Kontakte Bei Google-Syncing Deaktiviert</u></a></li>
+<li><a href="https://article-helps.techidaily.com/instagram-and-soundtracks-demystifying-legalities-for-2024/"><u>Instagram & Soundtracks Demystifying Legalities for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/optimiser-votre-ps5-avec-un-ssd-amelioration-des-performances-et-augmentation-du-stockage/"><u>Optimiser Votre PS5 Avec Un SSD - Amélioration Des Performances Et Augmentation Du Stockage</u></a></li>
+<li><a href="https://fox-info.techidaily.com/proven-marketing-spells-20-must-use-terms/"><u>Proven Marketing Spells 20 Must-Use Terms</u></a></li>
+<li><a href="https://win-best.techidaily.com/resume-untuk-transfer-data-dari-komputer-ke-sd-card-dengan-ubuntu-versi-baru/"><u>Resume Untuk Transfer Data Dari Komputer Ke SD Card Dengan Ubuntu Versi Baru</u></a></li>
+<li><a href="https://win-best.techidaily.com/schritt-fur-schritt-anleitung-zur-verwendung-der-systemwiederherstellungsfunktion-beim-starten-von-windows-11-10-8-und-7/"><u>Schritt-Für-Schritt-Anleitung Zur Verwendung Der Systemwiederherstellungsfunktion Beim Starten Von Windows 11, 10, 8 Und 7</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/speedy-skimmer-of-windows-imagery/"><u>Speedy Skimmer of Windows Imagery</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultimate-fixes-for-the-error-0x8024a11a-why-your-pc-keeps-rebooting-on-windows/"><u>Ultimate Fixes for the 'Error 0X8024A11A' - Why Your PC Keeps Rebooting on Windows</u></a></li>
 </ul></div>
 
