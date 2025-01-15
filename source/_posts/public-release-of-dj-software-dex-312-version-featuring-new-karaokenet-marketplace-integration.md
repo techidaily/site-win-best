@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2025-01-08T11:46:02.514Z
-updated: 2025-01-08T20:02:42.417Z
+date: 2025-01-07T16:23:43.575Z
+updated: 2025-01-15T01:14:11.248Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,24 +74,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>[New] In 2024, Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-10-tips-for-sound-fade-effects-in-premiere-pro/"><u>2024 Approved Top 10 Tips for Sound Fade Effects in Premiere Pro</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-understanding-luts-to-amplify-your-photo-quality/"><u>2024 Approved Understanding LUTs to Amplify Your Photo Quality</u></a></li>
-<li><a href="https://win-best.techidaily.com/best-practices-effective-ways-to-block-tcp-port-445-on-windows-systems/"><u>Best Practices: Effective Ways to Block TCP Port 445 on Windows Systems</u></a></li>
-<li><a href="https://win-best.techidaily.com/boost-productivity-with-streamlined-macro-integration-in-emeditor-text-editor/"><u>Boost Productivity with Streamlined Macro Integration in EmEditor Text Editor</u></a></li>
-<li><a href="https://win-best.techidaily.com/comprehensive-guide-for-seamless-transition-migrating-your-dhcp-services-to-the-latest-microsoft-windows-server-2/"><u>Comprehensive Guide for Seamless Transition: Migrating Your DHCP Services to the Latest Microsoft Windows Server 2</u></a></li>
-<li><a href="https://win11.techidaily.com/diagnosing-high-cpu-usage-by-vanguards-sleep-service/"><u>Diagnosing High CPU Usage by Vanguard's Sleep Service</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-perfect-phrases-enhancing-your-cryptocurrency-dialogue-with-ai/"><u>Discover the Perfect Phrases: Enhancing Your Cryptocurrency Dialogue with AI</u></a></li>
-<li><a href="https://win-best.techidaily.com/error-unable-to-locate-the-requested-webpage/"><u>Error: Unable to Locate the Requested Webpage</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-input-not-recognized-error-on-your-computer-display/"><u>Fixing 'Input Not Recognized' Error on Your Computer Display</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/illuminated-influence-elevating-your-cinematic-presentations/"><u>Illuminated Influence Elevating Your Cinematic Presentations</u></a></li>
-<li><a href="https://win-best.techidaily.com/information-wie-man-iphone-kontakte-bei-google-syncing-deaktiviert/"><u>Information: Wie Man iPhone-Kontakte Bei Google-Syncing Deaktiviert</u></a></li>
-<li><a href="https://article-helps.techidaily.com/instagram-and-soundtracks-demystifying-legalities-for-2024/"><u>Instagram & Soundtracks Demystifying Legalities for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/optimiser-votre-ps5-avec-un-ssd-amelioration-des-performances-et-augmentation-du-stockage/"><u>Optimiser Votre PS5 Avec Un SSD - Amélioration Des Performances Et Augmentation Du Stockage</u></a></li>
-<li><a href="https://fox-info.techidaily.com/proven-marketing-spells-20-must-use-terms/"><u>Proven Marketing Spells 20 Must-Use Terms</u></a></li>
-<li><a href="https://win-best.techidaily.com/resume-untuk-transfer-data-dari-komputer-ke-sd-card-dengan-ubuntu-versi-baru/"><u>Resume Untuk Transfer Data Dari Komputer Ke SD Card Dengan Ubuntu Versi Baru</u></a></li>
-<li><a href="https://win-best.techidaily.com/schritt-fur-schritt-anleitung-zur-verwendung-der-systemwiederherstellungsfunktion-beim-starten-von-windows-11-10-8-und-7/"><u>Schritt-Für-Schritt-Anleitung Zur Verwendung Der Systemwiederherstellungsfunktion Beim Starten Von Windows 11, 10, 8 Und 7</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/speedy-skimmer-of-windows-imagery/"><u>Speedy Skimmer of Windows Imagery</u></a></li>
-<li><a href="https://win-best.techidaily.com/ultimate-fixes-for-the-error-0x8024a11a-why-your-pc-keeps-rebooting-on-windows/"><u>Ultimate Fixes for the 'Error 0X8024A11A' - Why Your PC Keeps Rebooting on Windows</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-fraud-busters-efficient-and-economical-methods/"><u>[Updated] Instagram Fraud Busters Efficient & Economical Methods</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-virtual-safari-androids-ultimate-animals-game-list/"><u>2024 Approved Virtual Safari Android's Ultimate Animals Game List</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/explore-metas-exceptional-offer-the-512gb-quest-3-presents-unbeatable-value-in-todays-virtual-reality-market-insights/"><u>Explore Meta's Exceptional Offer: The 512GB Quest 3 Presents Unbeatable Value in Today's Virtual Reality Market - Insights</u></a></li>
+<li><a href="https://win-best.techidaily.com/fix-for-lenovo-screen-turning-black-when-starting-windows-11-expert-advice/"><u>Fix for Lenovo Screen Turning Black When Starting Windows 11 - Expert Advice!</u></a></li>
+<li><a href="https://win-best.techidaily.com/guia-passo-a-passo-para-atualizar-o-windows-server-201-section-1-advanced-problem-on-nucleic-acids-and-cellular-location/"><u>Guia Passo a Passo Para Atualizar O Windows Server 201 # Section 1: Advanced Problem on Nucleic Acids and Cellular Location</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovative-workout-planning-with-ai-how-trainers-can-utilize-chatgpt/"><u>Innovative Workout Planning with AI: How Trainers Can Utilize ChatGPT</u></a></li>
+<li><a href="https://win-best.techidaily.com/learn-how-to-safeguard-your-windows-n11-files-with-a-usb-flash-drive-three-easy-no-charge-solutions/"><u>Learn How to Safeguard Your Windows N11 Files with a USB Flash Drive – Three Easy, No Charge Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/eres-role-in-your-youtube-creation-process/"><u>Premiere's Role in Your YouTube Creation Process</u></a></li>
+<li><a href="https://win-best.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederauffinden-von-daten-auf-einer-alten-festplatte/"><u>Schritt-Für-Schritt Anleitung Zum Wiederauffinden Von Daten Auf Einer Alten Festplatte</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/troubleshooting-the-reset-this-pc-feature-malfunction-on-windows-11-and-10/"><u>Troubleshooting the 'Reset This PC' Feature Malfunction on Windows 11 and 10</u></a></li>
+<li><a href="https://win-best.techidaily.com/verwalten-sie-ihre-systemabbilder-schnell-und-sicher-einfache-anwendung-von-vss-in-aomei-backupper/"><u>Verwalten Sie Ihre Systemabbilder Schnell Und Sicher: Einfache Anwendung Von VSS in AOMEI Backupper</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-10youtube/"><u>Windows 10で簡単な方法：YouTubeビデオの記録ガイド</u></a></li>
 </ul></div>
 

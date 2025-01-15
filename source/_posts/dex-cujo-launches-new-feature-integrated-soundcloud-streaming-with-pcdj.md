@@ -1,7 +1,7 @@
 ---
 title: "DEX Cujo Launches New Feature: Integrated SoundCloud Streaming with PCDJ"
-date: 2025-01-06T18:58:07.015Z
-updated: 2025-01-09T01:04:32.596Z
+date: 2025-01-09T22:03:51.975Z
+updated: 2025-01-14T18:41:49.157Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ DEX 3 integration of SoundCloud Go+ will be released to the public (very) early 
 _Have questions about **SoundCloud** support and how it will work in our **DEX 3 DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,22 +58,14 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/10/dex3-soundcloud-intergrati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-cutting-edge-methods-for-recording-presentations/"><u>[New] 2024 Approved Cutting Edge Methods for Recording Presentations</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-enhancing-engagement-streaming-historical-video-events-on-facebook/"><u>[New] Enhancing Engagement Streaming Historical Video Events on Facebook</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-leveraging-twitters-visual-content-on-snapchat/"><u>[New] In 2024, Leveraging Twitter's Visual Content on Snapchat</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-bebops-visionary-feathered-future-examined-for-2024/"><u>[Updated] Bebop's Visionary Feathered Future Examined for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-echoes-of-excellence-learning-the-art-of-fading-in-audition/"><u>[Updated] In 2024, Echoes of Excellence Learning the Art of Fading in Audition</u></a></li>
-<li><a href="https://win-best.techidaily.com/1-personalizing-your-windows-time-display-a-comprehensive-guide/"><u>1. Personalizing Your Windows Time Display: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-best.techidaily.com/1732513419090-yl/"><u>走向现代化：新中国成立对中国发展道路的关键作用 - 由YL计算机专家解答</u></a></li>
-<li><a href="https://win-best.techidaily.com/historical-milestones-marking-the-termination-of-traditional-chinese-rule-and-dynasties/"><u>Historical Milestones Marking the Termination of Traditional Chinese Rule and Dynasties</u></a></li>
-<li><a href="https://win-best.techidaily.com/launch-of-bitmains-revolutionary-bitcoin-asic-miner-model-t21-by-yl-computing-expected-in-january-2024/"><u>Launch of Bitmain's Revolutionary Bitcoin ASIC Miner Model T21 by YL Computing Expected in January 2024</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/new-features-and-improvements-in-the-latest-version-of-winx-hd-video-converter-for-mac/"><u>New Features and Improvements in the Latest Version of WinX HD Video Converter for Mac</u></a></li>
-<li><a href="https://win-best.techidaily.com/quick-guide-top-methods-for-rapid-file-transfer-on-windows-tips-by-yl-computing/"><u>Quick Guide: Top Methods for Rapid File Transfer on Windows - Tips by YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/resolving-installation-errors-correcting-your-printers-driver-guidance-by-yl-computing/"><u>Resolving Installation Errors: Correcting Your Printer's Driver - Guidance by YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/revising-network-configuration-through-windows-control-panel-a-step-by-step-guide-by-yl-computing/"><u>Revising Network Configuration Through Windows Control Panel: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sense-your-wallet-while-enjoying-sound-with-activbuds/"><u>Sense Your Wallet While Enjoying Sound with ActivBuds</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723208996112-solve-your-league-of-legends-woes-fixing-the-sluggish-downloads-once-and-for-all/"><u>Solve Your League of Legends Woes: Fixing the Sluggish Downloads Once and For All</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-guide-modifying-your-computers-desktop-wallpaper-tech-tips-by-yl/"><u>Step-by-Step Guide: Modifying Your Computer's Desktop Wallpaper - Tech Tips by YL</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/why-isnt-my-sound-blaster-mic-working-fixing-common-problems/"><u>Why Isn't My Sound Blaster Mic Working? Fixing Common Problems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-superior-fb-videograbber-bundle-high-quality-downloads/"><u>[New] In 2024, Superior FB Videograbber Bundle - High-Quality Downloads</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-mp3-compiler-for-2024/"><u>[New] Social Media Mp3 Compiler for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-art-of-capturing-live-hulu-content-across-platforms-for-2024/"><u>[Updated] Mastering the Art of Capturing Live Hulu Content Across Platforms for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/exclusive-insight-into-the-6-most-advanced-instagram-reel-apps/"><u>Exclusive Insight Into the 6 Most Advanced Instagram Reel Apps</u></a></li>
+<li><a href="https://win-best.techidaily.com/fuhren-sie-eine-systemwiederherstellungsdatei-in-windows-108187-mit-diesen-effektiven-methoden-einfach-erstellen/"><u>Führen Sie Eine Systemwiederherstellungsdatei in Windows 10/8.1/8/7 Mit Diesen Effektiven Methoden Einfach Erstellen!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-fixes-for-utorrent-downloadpeer-connection-failures-a-comprehensive-tutorial/"><u>Mastering Fixes for uTorrent Download/Peer Connection Failures - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-best.techidaily.com/problemlose-tipps-windows-11-nicht-leeres-verzeichnis-verstehen-und-beheben/"><u>Problemlöse-Tipps: Windows 11 – Nicht Leeres Verzeichnis Verstehen Und Beheben</u></a></li>
+<li><a href="https://win-best.techidaily.com/recovering-lost-photographs-from-a-kodak-camcorder-a-step-by-step-guide/"><u>Recovering Lost Photographs From a Kodak Camcorder – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728497954700-windows-10/"><u>Windows 10 更新失去的檔案如何回收 - 簡單指南</u></a></li>
 </ul></div>
 
