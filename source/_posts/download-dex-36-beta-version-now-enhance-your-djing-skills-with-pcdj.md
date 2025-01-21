@@ -1,7 +1,7 @@
 ---
 title: Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ
-date: 2025-01-10T08:08:30.328Z
-updated: 2025-01-15T04:45:54.345Z
+date: 2025-01-18T08:06:29.445Z
+updated: 2025-01-20T17:27:09.479Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,15 +76,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-innovative-game-capturing-unlocking-the-6-key-approaches-in-minecraft/"><u>2024 Approved Innovative Game Capturing Unlocking the 6 Key Approaches in Minecraft</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-innovations-of-sony-bdp-s6700-a-closer-look/"><u>[New] In 2024, Innovations of Sony BDP-S6700 A Closer Look</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-expert-selections-of-innovative-vtuber-sound-tools/"><u>[Updated] Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-enhancing-online-privacy-youtubes-access-controls/"><u>2024 Approved Enhancing Online Privacy YouTube's Access Controls</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-reimagining-text-in-photographyvideo/"><u>2024 Approved Reimagining Text in Photography/Video</u></a></li>
 <li><a href="https://win-best.techidaily.com/expert-tips-for-retrieving-your-files-from-a-damaged-seagate-1tb-hard-drive-complete-restoration-instructions/"><u>Expert Tips for Retrieving Your Files From a Damaged Seagate 1TB Hard Drive: Complete Restoration Instructions</u></a></li>
 <li><a href="https://win-best.techidaily.com/fehlerbehebung-keine-bootfahige-hardware-erkannt-wege-zur-datenrettung/"><u>Fehlerbehebung: Keine Bootfähige Hardware Erkannt – Wege Zur Datenrettung</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-poco-x6-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Poco X6 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-composing-a-price-plan-for-audio-visual-song-clips/"><u>In 2024, Composing a Price Plan for Audio-Visual Song Clips</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-leading-the-way-in-personal-trail-tracking-drone-innovation/"><u>In 2024, Leading the Way in Personal Trail-Tracking Drone Innovation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>In 2024, Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
 <li><a href="https://win-best.techidaily.com/optimierung-der-datensicherung-mit-volume-shadow-copy-in-windows-nativem-betriebssystem/"><u>Optimierung Der Datensicherung Mit Volume Shadow Copy in Windows Nativem Betriebssystem</u></a></li>
 <li><a href="https://win-best.techidaily.com/robocopy-essentials-efficient-techniques-for-rapid-movement-of-bulky-data/"><u>Robocopy Essentials: Efficient Techniques for Rapid Movement of Bulky Data!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-ace-2v-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus Ace 2V Device</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/sharepoint-onlinewindows-press-11/"><u>SharePoint OnlineをWindows Press 11でローカルドライブとして統合する方法</u></a></li>
+<li><a href="https://program-issues.techidaily.com/unraveling-the-cycle-of-existence-the-resilience-tale-eternal-return-surviving-in-shadow/"><u>Unraveling the Cycle of Existence: The Resilience Tale 'Eternal Return - Surviving in Shadow'</u></a></li>
 </ul></div>
 

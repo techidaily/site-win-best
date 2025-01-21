@@ -1,7 +1,7 @@
 ---
 title: "DEX Cujo Launches New Feature: Integrated SoundCloud Streaming with PCDJ"
-date: 2025-01-09T22:03:51.975Z
-updated: 2025-01-14T18:41:49.157Z
+date: 2025-01-15T21:37:50.694Z
+updated: 2025-01-21T03:17:51.128Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ DEX 3 integration of SoundCloud Go+ will be released to the public (very) early 
 _Have questions about **SoundCloud** support and how it will work in our **DEX 3 DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,14 +58,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/10/dex3-soundcloud-intergrati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-superior-fb-videograbber-bundle-high-quality-downloads/"><u>[New] In 2024, Superior FB Videograbber Bundle - High-Quality Downloads</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-mp3-compiler-for-2024/"><u>[New] Social Media Mp3 Compiler for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-mastering-the-art-of-capturing-live-hulu-content-across-platforms-for-2024/"><u>[Updated] Mastering the Art of Capturing Live Hulu Content Across Platforms for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/exclusive-insight-into-the-6-most-advanced-instagram-reel-apps/"><u>Exclusive Insight Into the 6 Most Advanced Instagram Reel Apps</u></a></li>
-<li><a href="https://win-best.techidaily.com/fuhren-sie-eine-systemwiederherstellungsdatei-in-windows-108187-mit-diesen-effektiven-methoden-einfach-erstellen/"><u>Führen Sie Eine Systemwiederherstellungsdatei in Windows 10/8.1/8/7 Mit Diesen Effektiven Methoden Einfach Erstellen!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-fixes-for-utorrent-downloadpeer-connection-failures-a-comprehensive-tutorial/"><u>Mastering Fixes for uTorrent Download/Peer Connection Failures - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-best.techidaily.com/problemlose-tipps-windows-11-nicht-leeres-verzeichnis-verstehen-und-beheben/"><u>Problemlöse-Tipps: Windows 11 – Nicht Leeres Verzeichnis Verstehen Und Beheben</u></a></li>
-<li><a href="https://win-best.techidaily.com/recovering-lost-photographs-from-a-kodak-camcorder-a-step-by-step-guide/"><u>Recovering Lost Photographs From a Kodak Camcorder – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728497954700-windows-10/"><u>Windows 10 更新失去的檔案如何回收 - 簡單指南</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-art-of-crafting-compelling-spotify-ads/"><u>[New] The Art of Crafting Compelling Spotify Ads</u></a></li>
+<li><a href="https://win-unique.techidaily.com/adjust-graphics-card-preferences-with-simple-steps-learn-how-with-yls-expert-advice/"><u>Adjust Graphics Card Preferences with Simple Steps - Learn How with YL's Expert Advice!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/cutting-edge-techniques-for-google-meet-aesthetic-enhancement-for-2024/"><u>Cutting-Edge Techniques for Google Meet Aesthetic Enhancement for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-patch-tuesday-importance-for-it-security-and-maintenance/"><u>Decoding Patch Tuesday: Importance for IT Security and Maintenance</u></a></li>
+<li><a href="https://win-best.techidaily.com/depannage-xcopy-non-reconnu-en-tant-que-commande-internesur-solutions-et-etapes-a-suivre/"><u>Dépannage Xcopy Non Reconnu En Tant Que Commande Internesur : Solutions Et Étapes À Suivre</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-15-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 15 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-techniques-for-video-transformation-youtube-to-mpeg-for-2024/"><u>Leading Techniques for Video Transformation - YouTube-to-MPEG for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/les-meilleurs-logiciels-de-migration-de-donnees-sur-pc-dell-selection-et-conseils-dutilisation/"><u>Les Meilleurs Logiciels De Migration De Données Sur PC Dell - Sélection Et Conseils D'Utilisation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/leveraging-luts-advanced-ae-editing-guide-for-2024/"><u>Leveraging LUTs Advanced AE Editing Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-air-showdown-comparing-the-power-of-m3-vs-m2-processors-your-ultimate-buying-guide/"><u>MacBook Air Showdown: Comparing the Power of M3 Vs. M2 Processors - Your Ultimate Buying Guide!</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-tiktok-crafting-video-content-with-background-melodies-for-2024/"><u>Mastering TikTok Crafting Video Content with Background Melodies for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/steps-to-retrieve-accidentally-erased-jnb-documents/"><u>Steps to Retrieve Accidentally Erased JNB Documents</u></a></li>
+<li><a href="https://win-best.techidaily.com/vmware-vcenter-admin-login-problem-solving-the-root-password-renewal-issue-two-effective-strategies/"><u>VMware vCenter Admin Login Problem: Solving the Root Password Renewal Issue - Two Effective Strategies</u></a></li>
 </ul></div>
 

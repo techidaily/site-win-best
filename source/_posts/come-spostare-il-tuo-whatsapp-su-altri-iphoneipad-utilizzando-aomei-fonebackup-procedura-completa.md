@@ -1,7 +1,7 @@
 ---
 title: Come Spostare Il Tuo WhatsApp Su Altri iPhone/iPad Utilizzando AOMEI FoneBackup – Procedura Completa
-date: 2025-01-10T06:45:00.598Z
-updated: 2025-01-15T01:18:26.294Z
+date: 2025-01-14T10:09:31.478Z
+updated: 2025-01-20T18:24:12.635Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a3447788441dbc49006b9ec58d.jpg
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/95524e86f85a82b882072612aa659c4c34bda2a34
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
@@ -61,17 +69,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -89,10 +89,6 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
@@ -101,13 +97,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -120,10 +116,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -142,7 +134,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
@@ -150,7 +142,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -173,6 +165,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -182,6 +178,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,14 +198,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-stardews-best-guide-to-ginger-island-for-2024/"><u>[Updated] Stardew's Best Guide to Ginger Island for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/complete-user-registration-process-with-file-upload-support/"><u>Complete User Registration Process with File Upload Support</u></a></li>
-<li><a href="https://win-best.techidaily.com/enhance-pc-performance-with-simple-adjustments-tips-from-yl-software-experts/"><u>Enhance PC Performance with Simple Adjustments - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-can-i-resolve-issues-with-my-network-adapter-tips-and-solutions-from-yl-computing/"><u>How Can I Resolve Issues With My Network Adapter? - Tips and Solutions From YL Computing</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-incors-guide-to-enriched-video-engagement-through-commentary-and-alert-embeddings/"><u>In 2024, Incor's Guide to Enriched Video Engagement Through Commentary and Alert Embeddings</u></a></li>
-<li><a href="https://win-best.techidaily.com/lol-arcane-collection-of-hd-backdrops-and-desktops-immersive-gaming-artwork-from-yl-computing/"><u>LoL Arcane Collection of HD Backdrops and Desktops - Immersive Gaming Artwork From YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/mastering-your-monitor-a-comprehensive-walkthrough-to-modify-display-settings-in-windows-by-experts-at-yl-software/"><u>Mastering Your Monitor: A Comprehensive Walkthrough to Modify Display Settings in Windows by Experts at YL Software</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/navigate-your-way-to-the-best-idevice-apps-for-extracting-content-from-facebook-for-2024/"><u>Navigate Your Way to the Best iDevice Apps for Extracting Content From Facebook for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/relive-the-past-30-top-rated-ps3-emulators-for-your-pc/"><u>Relive the Past: 30 Top-Rated PS3 Emulators for Your PC</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-producing-youtube-trailers-using-filmora/"><u>[New] Step-by-Step Producing YouTube Trailers Using Filmora</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apples-latest-steal-the-just-released-11-inch-ipad-pro-now-at-all-time-low-price-and-bundled-deals-await/"><u>Apple's Latest Steal: The Just-Released 11-Inch iPad Pro Now at All-Time Low Price and Bundled Deals Await!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/best-practices-aspect-ratio-in-twitters-videos/"><u>Best Practices Aspect Ratio in Twitters Videos</u></a></li>
+<li><a href="https://win-best.techidaily.com/evaluating-windows-defender-an-effective-choice-for-your-security-needs/"><u>Evaluating Windows Defender: An Effective Choice for Your Security Needs?</u></a></li>
+<li><a href="https://win-best.techidaily.com/exploring-the-timeline-unveiling-when-the-boxer-rebellion-took-place-insights-by-yl-computing/"><u>Exploring the Timeline: Unveiling When the Boxer Rebellion Took Place - Insights by YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-can-you-enhance-your-sound-cards-efficiency-expert-tips-from-yl-computing/"><u>How Can You Enhance Your Sound Card's Efficiency: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-to-troubleshoot-a-pc-with-lost-wi-fi-connectivity-expert-tips-from-yl-computing/"><u>How to Troubleshoot a PC with Lost Wi-Fi Connectivity: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-pro-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-oppo-a79-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Oppo A79 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/is-your-graphics-card-too-hot-learn-how-to-spot-and-prevent-overheating/"><u>Is Your Graphics Card Too Hot? Learn How to Spot and Prevent Overheating!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211456435--manifesting/"><u>Manifesting | Free Book</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723005381349-naraka-bladepoint-performance-issues-resolved-boost-your-fps-and-eliminate-stuttering/"><u>Naraka: Bladepoint Performance Issues Resolved? Boost Your FPS and Eliminate Stuttering!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/screencapturepro-review-expert-insights-and-comparisons/"><u>ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
+<li><a href="https://win-best.techidaily.com/understanding-the-risks-how-safe-is-it-to-alter-your-pcs-registry/"><u>Understanding the Risks: How Safe Is It to Alter Your PC's Registry?</u></a></li>
+<li><a href="https://win-best.techidaily.com/unlock-fresh-beats-exclusive-party-tyme-karaoke-membership-with-weekly-song-updates-since-dec-12-2017-get-your-dj-license/"><u>Unlock Fresh Beats: Exclusive Party Tyme Karaoke Membership with Weekly Song Updates Since Dec. 12, 2017 - Get Your DJ License!</u></a></li>
+<li><a href="https://win-best.techidaily.com/verifying-proper-functionality-of-your-cpu-a-guide-by-yl-computing/"><u>Verifying Proper Functionality of Your CPU - A Guide by YL Computing</u></a></li>
 </ul></div>
 

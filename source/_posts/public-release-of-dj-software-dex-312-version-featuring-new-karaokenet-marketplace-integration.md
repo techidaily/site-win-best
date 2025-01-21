@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2025-01-07T16:23:43.575Z
-updated: 2025-01-15T01:14:11.248Z
+date: 2025-01-16T11:38:39.407Z
+updated: 2025-01-20T20:55:16.929Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,18 +74,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-fraud-busters-efficient-and-economical-methods/"><u>[Updated] Instagram Fraud Busters Efficient & Economical Methods</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-virtual-safari-androids-ultimate-animals-game-list/"><u>2024 Approved Virtual Safari Android's Ultimate Animals Game List</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/explore-metas-exceptional-offer-the-512gb-quest-3-presents-unbeatable-value-in-todays-virtual-reality-market-insights/"><u>Explore Meta's Exceptional Offer: The 512GB Quest 3 Presents Unbeatable Value in Today's Virtual Reality Market - Insights</u></a></li>
-<li><a href="https://win-best.techidaily.com/fix-for-lenovo-screen-turning-black-when-starting-windows-11-expert-advice/"><u>Fix for Lenovo Screen Turning Black When Starting Windows 11 - Expert Advice!</u></a></li>
-<li><a href="https://win-best.techidaily.com/guia-passo-a-passo-para-atualizar-o-windows-server-201-section-1-advanced-problem-on-nucleic-acids-and-cellular-location/"><u>Guia Passo a Passo Para Atualizar O Windows Server 201 # Section 1: Advanced Problem on Nucleic Acids and Cellular Location</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/innovative-workout-planning-with-ai-how-trainers-can-utilize-chatgpt/"><u>Innovative Workout Planning with AI: How Trainers Can Utilize ChatGPT</u></a></li>
-<li><a href="https://win-best.techidaily.com/learn-how-to-safeguard-your-windows-n11-files-with-a-usb-flash-drive-three-easy-no-charge-solutions/"><u>Learn How to Safeguard Your Windows N11 Files with a USB Flash Drive – Three Easy, No Charge Solutions</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/eres-role-in-your-youtube-creation-process/"><u>Premiere's Role in Your YouTube Creation Process</u></a></li>
-<li><a href="https://win-best.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederauffinden-von-daten-auf-einer-alten-festplatte/"><u>Schritt-Für-Schritt Anleitung Zum Wiederauffinden Von Daten Auf Einer Alten Festplatte</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Tecno Spark Go (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/troubleshooting-the-reset-this-pc-feature-malfunction-on-windows-11-and-10/"><u>Troubleshooting the 'Reset This PC' Feature Malfunction on Windows 11 and 10</u></a></li>
-<li><a href="https://win-best.techidaily.com/verwalten-sie-ihre-systemabbilder-schnell-und-sicher-einfache-anwendung-von-vss-in-aomei-backupper/"><u>Verwalten Sie Ihre Systemabbilder Schnell Und Sicher: Einfache Anwendung Von VSS in AOMEI Backupper</u></a></li>
-<li><a href="https://win-able.techidaily.com/windows-10youtube/"><u>Windows 10で簡単な方法：YouTubeビデオの記録ガイド</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-transforming-windows-photos-viewer-with-creative-filter-settings-and-soundscape/"><u>[New] Transforming Windows Photos Viewer with Creative Filter Settings & Soundscape</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-offline-android-games-for-uninterrupted-fun/"><u>[Updated] 2024 Approved Essential Offline Android Games for Uninterrupted Fun</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>[Updated] In 2024, Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-chrome-browser-vocal-transformers-revealed-for-enthusiast-users/"><u>[Updated] Top Chrome Browser Vocal Transformers Revealed for Enthusiast Users</u></a></li>
+<li><a href="https://win-best.techidaily.com/aomei-cyberbackup-dashboard-easy-navigation-and-powerful-features/"><u>AOMEI CyberBackup Dashboard: Easy Navigation and Powerful Features</u></a></li>
+<li><a href="https://win-best.techidaily.com/guia-paso-a-paso-para-hacer-backups-diferenciales-e-incrementales-en-los-sistemas-operativos-windows-1011/"><u>Guía Paso a Paso Para Hacer Backups Diferenciales E Incrementales en Los Sistemas Operativos Windows 10/11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-updated-intel-iris-graphics-540-drivers/"><u>Hassle-Free Installation of Updated Intel Iris Graphics 540 Drivers</u></a></li>
+<li><a href="https://win-best.techidaily.com/losungen-fur-die-fehlersuche-beim-definitionsupdate-der-sicherheitseinstellungen-unter-windows-11/"><u>Lösungen Für Die Fehlersuche Beim Definitionsupdate Der Sicherheitseinstellungen Unter Windows 11</u></a></li>
+<li><a href="https://win-best.techidaily.com/meilleur-logiciel-de-sauvegarde-compact-et-pratique-pour-cles-usb-sous-windows-10/"><u>Meilleur Logiciel De Sauvegarde Compact Et Pratique Pour Clés USB Sous Windows 10</u></a></li>
+<li><a href="https://some-tips.techidaily.com/stay-protected-why-updating-your-mac-with-macos-1441-is-now-safe-again-insights/"><u>Stay Protected: Why Updating Your Mac with macOS 14.ˈ4.1 Is Now Safe Again - Insights</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-guide-moving-your-operating-systems-snapshot-to-a-new-pc-under-diverse-conditions/"><u>Step-by-Step Guide: Moving Your Operating System's Snapshot to a New PC Under Diverse Conditions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-essential-guide-to-15-top-instagram-downloader-apps/"><u>The Essential Guide to 15 Top Instagram Downloader Apps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-unresponsive-key-caps-on-hp-computers-fast/"><u>Troubleshoot & Repair Unresponsive Key Caps on HP Computers - Fast</u></a></li>
 </ul></div>
 
