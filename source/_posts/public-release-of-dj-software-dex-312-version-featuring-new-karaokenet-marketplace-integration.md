@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2025-01-16T11:38:39.407Z
-updated: 2025-01-20T20:55:16.929Z
+date: 2025-01-25T00:29:56.270Z
+updated: 2025-01-27T11:45:40.433Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,18 +74,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-transforming-windows-photos-viewer-with-creative-filter-settings-and-soundscape/"><u>[New] Transforming Windows Photos Viewer with Creative Filter Settings & Soundscape</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-essential-offline-android-games-for-uninterrupted-fun/"><u>[Updated] 2024 Approved Essential Offline Android Games for Uninterrupted Fun</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>[Updated] In 2024, Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-top-chrome-browser-vocal-transformers-revealed-for-enthusiast-users/"><u>[Updated] Top Chrome Browser Vocal Transformers Revealed for Enthusiast Users</u></a></li>
-<li><a href="https://win-best.techidaily.com/aomei-cyberbackup-dashboard-easy-navigation-and-powerful-features/"><u>AOMEI CyberBackup Dashboard: Easy Navigation and Powerful Features</u></a></li>
-<li><a href="https://win-best.techidaily.com/guia-paso-a-paso-para-hacer-backups-diferenciales-e-incrementales-en-los-sistemas-operativos-windows-1011/"><u>Guía Paso a Paso Para Hacer Backups Diferenciales E Incrementales en Los Sistemas Operativos Windows 10/11</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/hassle-free-installation-of-updated-intel-iris-graphics-540-drivers/"><u>Hassle-Free Installation of Updated Intel Iris Graphics 540 Drivers</u></a></li>
-<li><a href="https://win-best.techidaily.com/losungen-fur-die-fehlersuche-beim-definitionsupdate-der-sicherheitseinstellungen-unter-windows-11/"><u>Lösungen Für Die Fehlersuche Beim Definitionsupdate Der Sicherheitseinstellungen Unter Windows 11</u></a></li>
-<li><a href="https://win-best.techidaily.com/meilleur-logiciel-de-sauvegarde-compact-et-pratique-pour-cles-usb-sous-windows-10/"><u>Meilleur Logiciel De Sauvegarde Compact Et Pratique Pour Clés USB Sous Windows 10</u></a></li>
-<li><a href="https://some-tips.techidaily.com/stay-protected-why-updating-your-mac-with-macos-1441-is-now-safe-again-insights/"><u>Stay Protected: Why Updating Your Mac with macOS 14.ˈ4.1 Is Now Safe Again - Insights</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-guide-moving-your-operating-systems-snapshot-to-a-new-pc-under-diverse-conditions/"><u>Step-by-Step Guide: Moving Your Operating System's Snapshot to a New PC Under Diverse Conditions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-essential-guide-to-15-top-instagram-downloader-apps/"><u>The Essential Guide to 15 Top Instagram Downloader Apps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshoot-and-repair-unresponsive-key-caps-on-hp-computers-fast/"><u>Troubleshoot & Repair Unresponsive Key Caps on HP Computers - Fast</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-keep-your-tweets-compliant-with-aspect-ratio-requirements/"><u>[New] 2024 Approved Keep Your Tweets Compliant with Aspect Ratio Requirements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-expert-5-virtual-screenshots-tech/"><u>[New] Expert 5 Virtual Screenshots Tech</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques-for-2024/"><u>[New] From Pure to Perfected Enhancing Photo Dynamics with Illustrator Techniques for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mastering-twitter-cleanup-top-apps-for-efficient-management/"><u>[Updated] In 2024, Mastering Twitter Cleanup Top Apps for Efficient Management</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-study-diversity-in-fb-video-shapes/"><u>[Updated] Study Diversity in FB Video Shapes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-intrepid-selection-best-slow-mo-cameras/"><u>2024 Approved Intrepid Selection Best Slow-Mo Cameras</u></a></li>
+<li><a href="https://win-best.techidaily.com/aomei-backupper-fur-die-vollstandige-datenwiederherstellung-auf-festplatten-expertenratshandbuch/"><u>AOMEI Backupper Für Die Vollständige Datenwiederherstellung Auf Festplatten - Expertenratshandbuch</u></a></li>
+<li><a href="https://win-best.techidaily.com/asus-pcwindows-11/"><u>ASUS PCを効率的にWindows 11にアップグレードする上位４技術</u></a></li>
+<li><a href="https://win-best.techidaily.com/effective-strategies-for-eradicating-and-securing-your-system-from-petya-threats/"><u>Effective Strategies for Eradicating and Securing Your System From Petya Threats</u></a></li>
+<li><a href="https://win-top.techidaily.com/expert-tips-for-swiftly-addressing-itunes-sync-problems-in-windows-11-10-8-and-nul7/"><u>Expert Tips for Swiftly Addressing iTunes Sync Problems in Windows 11, 10, 8 & Nul7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fixed-it-how-to-successfully-uninstall-amd-graphics-drivers-in-windows-operating-systems/"><u>Fixed It! How to Successfully Uninstall AMD Graphics Drivers in Windows Operating Systems</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728464414439-google/"><u>Google フォトで画像が自動削除される原因と対策</u></a></li>
+<li><a href="https://win-best.techidaily.com/losungen-und-problemlosung-windows-server-2019-startet-konsequent-bei-wiederherstellungsmodus/"><u>Lösungen Und Problemlösung: Windows Server 2019 Startet Konsequent Bei Wiederherstellungsmodus</u></a></li>
+<li><a href="https://win-best.techidaily.com/scintillation-de-lecran-du-portable-hp-sous-windows-11-solutions-pour-resoudre-le-probleme/"><u>Scintillation De L'écran Du Portable HP Sous Windows 11: Solutions Pour Résoudre Le Problème</u></a></li>
+<li><a href="https://win-best.techidaily.com/top-ranked-adata-solutions-for-reliable-data-backups/"><u>Top-Ranked ADATA Solutions for Reliable Data Backups</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-6-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 6 without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

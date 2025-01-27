@@ -1,7 +1,7 @@
 ---
 title: "DEX Cujo Launches New Feature: Integrated SoundCloud Streaming with PCDJ"
-date: 2025-01-15T21:37:50.694Z
-updated: 2025-01-21T03:17:51.128Z
+date: 2025-01-21T19:05:07.467Z
+updated: 2025-01-27T12:27:59.715Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ DEX 3 integration of SoundCloud Go+ will be released to the public (very) early 
 _Have questions about **SoundCloud** support and how it will work in our **DEX 3 DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,18 +58,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/10/dex3-soundcloud-intergrati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-the-art-of-crafting-compelling-spotify-ads/"><u>[New] The Art of Crafting Compelling Spotify Ads</u></a></li>
-<li><a href="https://win-unique.techidaily.com/adjust-graphics-card-preferences-with-simple-steps-learn-how-with-yls-expert-advice/"><u>Adjust Graphics Card Preferences with Simple Steps - Learn How with YL's Expert Advice!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/cutting-edge-techniques-for-google-meet-aesthetic-enhancement-for-2024/"><u>Cutting-Edge Techniques for Google Meet Aesthetic Enhancement for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-patch-tuesday-importance-for-it-security-and-maintenance/"><u>Decoding Patch Tuesday: Importance for IT Security and Maintenance</u></a></li>
-<li><a href="https://win-best.techidaily.com/depannage-xcopy-non-reconnu-en-tant-que-commande-internesur-solutions-et-etapes-a-suivre/"><u>Dépannage Xcopy Non Reconnu En Tant Que Commande Internesur : Solutions Et Étapes À Suivre</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-messages-from-apple-iphone-15-pro-to-other-iphone-all-ios-versions-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How To Transfer Messages From Apple iPhone 15 Pro to other iPhone All iOS Versions | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-techniques-for-video-transformation-youtube-to-mpeg-for-2024/"><u>Leading Techniques for Video Transformation - YouTube-to-MPEG for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/les-meilleurs-logiciels-de-migration-de-donnees-sur-pc-dell-selection-et-conseils-dutilisation/"><u>Les Meilleurs Logiciels De Migration De Données Sur PC Dell - Sélection Et Conseils D'Utilisation</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/leveraging-luts-advanced-ae-editing-guide-for-2024/"><u>Leveraging LUTs Advanced AE Editing Guide for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-air-showdown-comparing-the-power-of-m3-vs-m2-processors-your-ultimate-buying-guide/"><u>MacBook Air Showdown: Comparing the Power of M3 Vs. M2 Processors - Your Ultimate Buying Guide!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/mastering-tiktok-crafting-video-content-with-background-melodies-for-2024/"><u>Mastering TikTok Crafting Video Content with Background Melodies for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/steps-to-retrieve-accidentally-erased-jnb-documents/"><u>Steps to Retrieve Accidentally Erased JNB Documents</u></a></li>
-<li><a href="https://win-best.techidaily.com/vmware-vcenter-admin-login-problem-solving-the-root-password-renewal-issue-two-effective-strategies/"><u>VMware vCenter Admin Login Problem: Solving the Root Password Renewal Issue - Two Effective Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>[Updated] Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
+<li><a href="https://win-best.techidaily.com/1-ultimate-tutorial-swift-setup-for-safeguarding-your-data-with-azure-sql-server-backups/"><u>1. Ultimate Tutorial: Swift Setup for Safeguarding Your Data with Azure SQL Server Backups</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/accelerate-mac-youtube-video-matching-aspect-ratio-for-2024/"><u>Accelerate Mac Youtube Video Matching Aspect Ratio for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/easy-steps-to-convert-ghost-hard-drive-to-ssd-on-windows-11-two-simple-methods/"><u>Easy Steps to Convert Ghost Hard Drive to SSD on Windows 11 - Two Simple Methods</u></a></li>
+<li><a href="https://win-best.techidaily.com/festplatten-sichern-wie-sie-daten-sicherstellen-konnen-auch-wenn-windows-nicht-bootet-einfach-zu-befolgender-tutorial/"><u>Festplatten Sichern: Wie Sie Daten Sicherstellen Können, Auch Wenn Windows Nicht Bootet - Einfach Zu Befolgender Tutorial</u></a></li>
+<li><a href="https://win-best.techidaily.com/guia-facil-y-libre-confeccionar-tu-propio-discosusb-de-rescate-para-sistemas-windows-10-y-11/"><u>Guía Fácil Y Libre: Confeccionar Tu Propio Discos/USB De Rescate Para Sistemas Windows 10 Y 11</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-change-the-look-how-to-modify-video-dimensions-easily/"><u>New In 2024, Change the Look How to Modify Video Dimensions Easily</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-lava-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Lava .</u></a></li>
+<li><a href="https://win-best.techidaily.com/recupera-tutto-dalla-tua-scheda-sd-con-questi-facili-software-free-tools/"><u>Recupera Tutto Dalla Tua Scheda SD Con Questi Facili Software Free Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-4k-upgrade-youtube-to-hd-with-ease-for-2024/"><u>Seamless 4K Upgrade YouTube to HD with Ease for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/strategies-for-dominating-spotifys-advertising-space/"><u>Strategies for Dominating Spotify's Advertising Space</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-tecno-spark-20c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Tecno Spark 20C without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultimate-guide-to-selecting-the-best-3-backup-software-options-for-windows-11-users/"><u>Ultimate Guide to Selecting the Best 3 Backup Software Options for Windows 11 Users</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728496638170-windows-10/"><u>Windows 10でシャドウ・アンバージョン技術によるファイル回復ガイド</u></a></li>
 </ul></div>
 

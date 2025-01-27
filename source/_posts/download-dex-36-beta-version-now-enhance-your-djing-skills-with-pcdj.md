@@ -1,7 +1,7 @@
 ---
 title: Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ
-date: 2025-01-18T08:06:29.445Z
-updated: 2025-01-20T17:27:09.479Z
+date: 2025-01-23T17:21:49.131Z
+updated: 2025-01-27T08:24:38.933Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
@@ -54,7 +54,7 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -76,16 +76,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-innovations-of-sony-bdp-s6700-a-closer-look/"><u>[New] In 2024, Innovations of Sony BDP-S6700 A Closer Look</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-expert-selections-of-innovative-vtuber-sound-tools/"><u>[Updated] Expert Selections of Innovative Vtuber Sound Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-enhancing-online-privacy-youtubes-access-controls/"><u>2024 Approved Enhancing Online Privacy YouTube's Access Controls</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-reimagining-text-in-photographyvideo/"><u>2024 Approved Reimagining Text in Photography/Video</u></a></li>
-<li><a href="https://win-best.techidaily.com/expert-tips-for-retrieving-your-files-from-a-damaged-seagate-1tb-hard-drive-complete-restoration-instructions/"><u>Expert Tips for Retrieving Your Files From a Damaged Seagate 1TB Hard Drive: Complete Restoration Instructions</u></a></li>
-<li><a href="https://win-best.techidaily.com/fehlerbehebung-keine-bootfahige-hardware-erkannt-wege-zur-datenrettung/"><u>Fehlerbehebung: Keine Bootfähige Hardware Erkannt – Wege Zur Datenrettung</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-funny-flicks-compilation-of-chuckle-inducing-short-youtube-videos/"><u>In 2024, Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos</u></a></li>
-<li><a href="https://win-best.techidaily.com/optimierung-der-datensicherung-mit-volume-shadow-copy-in-windows-nativem-betriebssystem/"><u>Optimierung Der Datensicherung Mit Volume Shadow Copy in Windows Nativem Betriebssystem</u></a></li>
-<li><a href="https://win-best.techidaily.com/robocopy-essentials-efficient-techniques-for-rapid-movement-of-bulky-data/"><u>Robocopy Essentials: Efficient Techniques for Rapid Movement of Bulky Data!</u></a></li>
-<li><a href="https://win-best.techidaily.com/sharepoint-onlinewindows-press-11/"><u>SharePoint OnlineをWindows Press 11でローカルドライブとして統合する方法</u></a></li>
-<li><a href="https://program-issues.techidaily.com/unraveling-the-cycle-of-existence-the-resilience-tale-eternal-return-surviving-in-shadow/"><u>Unraveling the Cycle of Existence: The Resilience Tale 'Eternal Return - Surviving in Shadow'</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-decoding-firefox-picture-in-picture-a-comprehensive-guide/"><u>[New] Decoding Firefox Picture-in-Picture A Comprehensive Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-premier-selection-of-iphone-x876-compatible-gif-apps/"><u>[New] In 2024, Premier Selection of iPhone X/8/7/6-Compatible GIF Apps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-home-filmmaking-mastery-with-5-easy-diy-hacks-for-2024/"><u>[Updated] Home Filmmaking Mastery with 5 Easy DIY Hacks for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-ultimate-voice-changer-a-detailed-manual-on-morphvox-transformation/"><u>[Updated] In 2024, The Ultimate Voice Changer A Detailed Manual on MorphVOX Transformation</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y100i-power-5g-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728484596628-aomei/"><u>AOMEIツールの使い方学ぶ完全ガイド</u></a></li>
+<li><a href="https://win-best.techidaily.com/beheben-sie-den-windows-fehlercode-0x8078006b-effiziente-losungsansatze/"><u>Beheben Sie Den Windows-Fehlercode 0X8078006B - Effiziente Lösungsansätze</u></a></li>
+<li><a href="https://win-best.techidaily.com/best-strategies-for-efficiently-backing-up-multiple-devices-with-cloud-storage/"><u>Best Strategies for Efficiently Backing Up Multiple Devices with Cloud Storage</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-11-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 11 or iPad?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-create-stunning-images-using-iphones-latest-photo-cutout-tool-in-ios-16/"><u>How to Create Stunning Images Using iPhone's Latest Photo Cutout Tool in iOS 16</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728475017350-pcwindows-11/"><u>PCがWindows 11へ更新不可の修正手順</u></a></li>
+<li><a href="https://win-best.techidaily.com/wat-doe-je-als-je-data-vergeten-bent-van-de-usb-schijf-een-uitgebreide-herinneringspunt/"><u>Wat Doe Je Als Je Data Vergeten Bent Van De USB-Schijf: Een Uitgebreide Herinneringspunt</u></a></li>
 </ul></div>
 
