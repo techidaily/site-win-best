@@ -1,7 +1,7 @@
 ---
 title: "DEX Cujo Launches New Feature: Integrated SoundCloud Streaming with PCDJ"
-date: 2025-01-21T19:05:07.467Z
-updated: 2025-01-27T12:27:59.715Z
+date: 2025-02-03T07:28:01.215Z
+updated: 2025-02-09T08:36:45.495Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ DEX 3 integration of SoundCloud Go+ will be released to the public (very) early 
 _Have questions about **SoundCloud** support and how it will work in our **DEX 3 DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,20 +58,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/10/dex3-soundcloud-intergrati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-advanced-tools-for-efficiently-converting-xmlssattml-to-srt/"><u>[Updated] Advanced Tools for Efficiently Converting XML/SSA/TTML to SRT</u></a></li>
-<li><a href="https://win-best.techidaily.com/1-ultimate-tutorial-swift-setup-for-safeguarding-your-data-with-azure-sql-server-backups/"><u>1. Ultimate Tutorial: Swift Setup for Safeguarding Your Data with Azure SQL Server Backups</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y78-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/accelerate-mac-youtube-video-matching-aspect-ratio-for-2024/"><u>Accelerate Mac Youtube Video Matching Aspect Ratio for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/easy-steps-to-convert-ghost-hard-drive-to-ssd-on-windows-11-two-simple-methods/"><u>Easy Steps to Convert Ghost Hard Drive to SSD on Windows 11 - Two Simple Methods</u></a></li>
-<li><a href="https://win-best.techidaily.com/festplatten-sichern-wie-sie-daten-sicherstellen-konnen-auch-wenn-windows-nicht-bootet-einfach-zu-befolgender-tutorial/"><u>Festplatten Sichern: Wie Sie Daten Sicherstellen Können, Auch Wenn Windows Nicht Bootet - Einfach Zu Befolgender Tutorial</u></a></li>
-<li><a href="https://win-best.techidaily.com/guia-facil-y-libre-confeccionar-tu-propio-discosusb-de-rescate-para-sistemas-windows-10-y-11/"><u>Guía Fácil Y Libre: Confeccionar Tu Propio Discos/USB De Rescate Para Sistemas Windows 10 Y 11</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-change-the-look-how-to-modify-video-dimensions-easily/"><u>New In 2024, Change the Look How to Modify Video Dimensions Easily</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-lava-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Lava .</u></a></li>
-<li><a href="https://win-best.techidaily.com/recupera-tutto-dalla-tua-scheda-sd-con-questi-facili-software-free-tools/"><u>Recupera Tutto Dalla Tua Scheda SD Con Questi Facili Software Free Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/seamless-4k-upgrade-youtube-to-hd-with-ease-for-2024/"><u>Seamless 4K Upgrade YouTube to HD with Ease for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/strategies-for-dominating-spotifys-advertising-space/"><u>Strategies for Dominating Spotify's Advertising Space</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-tecno-spark-20c-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Tecno Spark 20C without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/ultimate-guide-to-selecting-the-best-3-backup-software-options-for-windows-11-users/"><u>Ultimate Guide to Selecting the Best 3 Backup Software Options for Windows 11 Users</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728496638170-windows-10/"><u>Windows 10でシャドウ・アンバージョン技術によるファイル回復ガイド</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-do-reviewers-monetize-their-goods-analysis-vlogs/"><u>[New] 2024 Approved Do Reviewers Monetize Their Goods Analysis Vlogs?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-discounted-action-cams-for-the-budget-minded/"><u>[New] Discounted Action Cams for the Budget Minded</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-drama-to-film-shaping-realistic-dialogue/"><u>[Updated] 2024 Approved From Drama to Film Shaping Realistic Dialogue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-creativity-how-to-make-a-hit-music-reaction-video-on-yotube/"><u>[Updated] Unleashing Creativity How to Make a Hit Music Reaction Video on YoTube</u></a></li>
+<li><a href="https://win-best.techidaily.com/iphone-ios/"><u>歸零 iPhone 內容的全面指南 - iOS卷包底權</u></a></li>
+<li><a href="https://win-best.techidaily.com/amazon-come-annullare-il-download-di-foto-da-piu-dispositivi/"><u>Amazon: Come Annullare Il Download Di Foto Da Più Dispositivi</u></a></li>
+<li><a href="https://win-best.techidaily.com/aomei-backupper-your-ultimate-journal-of-changes-and-updates/"><u>AOMEI Backupper: Your Ultimate Journal of Changes and Updates</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/bringing-your-ideas-to-life-vo-plus-ppt-perfection-for-2024/"><u>Bringing Your Ideas to Life VO + PPT Perfection for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/easy-start-creating-your-first-virtual-servers-with-vsphere-a-beginners-manual/"><u>Easy Start: Creating Your First Virtual Servers with vSphere - A Beginner's Manual</u></a></li>
+<li><a href="https://win-best.techidaily.com/effective-solutions-for-unsuccessful-system-state-backups-on-windows-server-2016-systems/"><u>Effective Solutions for Unsuccessful System State Backups on Windows Server 2016 Systems</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-website-engagement-through-cookiebot-solutions/"><u>Elevate Website Engagement Through Cookiebot Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-acer-touchpad-support-drivers-for-your-windows-11-system-now/"><u>Get the Newest Acer Touchpad Support Drivers for Your Windows 11 System Now!</u></a></li>
+<li><a href="https://win-best.techidaily.com/page-unavailable-understanding-error-404-messages/"><u>Page Unavailable: Understanding Error 404 Messages</u></a></li>
+<li><a href="https://win-best.techidaily.com/pemecahan-masalah-cara-mengatur-fotokamera-iphones-lama-yang-kehilangan-gambarnya-dulu-menjadikan-iphone-terbuka-lagi-tanpa-backup/"><u>Pemecahan Masalah: Cara Mengatur Fotokamera iPhones Lama Yang Kehilangan Gambarnya Dulu, Menjadikan iPhone Terbuka Lagi Tanpa Backup!</u></a></li>
+<li><a href="https://win-best.techidaily.com/preserve-your-data-while-refreshing-mastering-the-art-of-no-loss-windows-11-reboots-with-these-techniques/"><u>Preserve Your Data While Refreshing: Mastering the Art of No-Loss Windows 11 Reboots with These Techniques</u></a></li>
+<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-adding-movies-and-vids-to-your-ipod-touch-series-2/"><u>Ultimate Step-by-Step Tutorial: Adding Movies & Vids to Your iPod Touch Series 2</u></a></li>
+<li><a href="https://win-great.techidaily.com/unlocking-seamless-two-way-communication-resolving-single-direction-issues-with-iphone-and-mac-airdrop/"><u>Unlocking Seamless Two-Way Communication: Resolving Single Direction Issues with iPhone & Mac AirDrop</u></a></li>
 </ul></div>
 

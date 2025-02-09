@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2025-01-25T00:29:56.270Z
-updated: 2025-01-27T11:45:40.433Z
+date: 2025-02-02T06:27:46.277Z
+updated: 2025-02-09T00:06:22.432Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,21 +74,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-keep-your-tweets-compliant-with-aspect-ratio-requirements/"><u>[New] 2024 Approved Keep Your Tweets Compliant with Aspect Ratio Requirements</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-expert-5-virtual-screenshots-tech/"><u>[New] Expert 5 Virtual Screenshots Tech</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-from-pure-to-perfected-enhancing-photo-dynamics-with-illustrator-techniques-for-2024/"><u>[New] From Pure to Perfected Enhancing Photo Dynamics with Illustrator Techniques for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mastering-twitter-cleanup-top-apps-for-efficient-management/"><u>[Updated] In 2024, Mastering Twitter Cleanup Top Apps for Efficient Management</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-study-diversity-in-fb-video-shapes/"><u>[Updated] Study Diversity in FB Video Shapes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-intrepid-selection-best-slow-mo-cameras/"><u>2024 Approved Intrepid Selection Best Slow-Mo Cameras</u></a></li>
-<li><a href="https://win-best.techidaily.com/aomei-backupper-fur-die-vollstandige-datenwiederherstellung-auf-festplatten-expertenratshandbuch/"><u>AOMEI Backupper Für Die Vollständige Datenwiederherstellung Auf Festplatten - Expertenratshandbuch</u></a></li>
-<li><a href="https://win-best.techidaily.com/asus-pcwindows-11/"><u>ASUS PCを効率的にWindows 11にアップグレードする上位４技術</u></a></li>
-<li><a href="https://win-best.techidaily.com/effective-strategies-for-eradicating-and-securing-your-system-from-petya-threats/"><u>Effective Strategies for Eradicating and Securing Your System From Petya Threats</u></a></li>
-<li><a href="https://win-top.techidaily.com/expert-tips-for-swiftly-addressing-itunes-sync-problems-in-windows-11-10-8-and-nul7/"><u>Expert Tips for Swiftly Addressing iTunes Sync Problems in Windows 11, 10, 8 & Nul7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/fixed-it-how-to-successfully-uninstall-amd-graphics-drivers-in-windows-operating-systems/"><u>Fixed It! How to Successfully Uninstall AMD Graphics Drivers in Windows Operating Systems</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728464414439-google/"><u>Google フォトで画像が自動削除される原因と対策</u></a></li>
-<li><a href="https://win-best.techidaily.com/losungen-und-problemlosung-windows-server-2019-startet-konsequent-bei-wiederherstellungsmodus/"><u>Lösungen Und Problemlösung: Windows Server 2019 Startet Konsequent Bei Wiederherstellungsmodus</u></a></li>
-<li><a href="https://win-best.techidaily.com/scintillation-de-lecran-du-portable-hp-sous-windows-11-solutions-pour-resoudre-le-probleme/"><u>Scintillation De L'écran Du Portable HP Sous Windows 11: Solutions Pour Résoudre Le Problème</u></a></li>
-<li><a href="https://win-best.techidaily.com/top-ranked-adata-solutions-for-reliable-data-backups/"><u>Top-Ranked ADATA Solutions for Reliable Data Backups</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-6-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 6 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-gopros-top-5-marine-filter-companions/"><u>[Updated] 2024 Approved GoPro's Top 5 Marine Filter Companions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-seamless-technique-inserting-a-direct-url-into-tiktok-bio-for-2024/"><u>[Updated] Seamless Technique Inserting a Direct URL Into TikTok Bio for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-experts-manual-to-crafting-impeccable-srt-files/"><u>[Updated] The Expert's Manual to Crafting Impeccable SRT Files</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fbs-top-songs-on-screen-a-step-by-step-vlog-series/"><u>2024 Approved FB's Top Songs on Screen A Step-by-Step Vlog Series</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/beat-apples-vision-pro-with-meta-quest-3s-cutting-edge-ai-capabilities-setup-steps-revealed-digital-gadget-hub/"><u>Beat Apple's Vision Pro with Meta Quest 3'S Cutting-Edge AI Capabilities - Setup Steps Revealed | Digital Gadget Hub</u></a></li>
+<li><a href="https://games-able.techidaily.com/behemoth-performance-2500-msi-raider-hx-showdown/"><u>Behemoth Performance: $2500 MSI Raider HX Showdown</u></a></li>
+<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-all-iphones-compatible-with-apples-latest-artificial-intelligence-enhancements-siri-and-beyond-techsavvy/"><u>Comprehensive List of All iPhones Compatible with Apple's Latest Artificial Intelligence Enhancements: Siri and Beyond | TechSavvy</u></a></li>
+<li><a href="https://win-best.techidaily.com/enhance-pc-speed-with-expert-guidance-by-yl-computing-yl-software-solutions/"><u>Enhance PC Speed with Expert Guidance by YL Computing - YL Software Solutions</u></a></li>
+<li><a href="https://win-best.techidaily.com/fixing-a-flickering-monitor-solutions-from-yl-computing-experts/"><u>Fixing a Flickering Monitor: Solutions From YL Computing Experts</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-can-i-enhance-my-computers-speed-and-efficiency-discover-the-strategies-from-yl-computing/"><u>How Can I Enhance My Computer's Speed and Efficiency? Discover the Strategies From YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/identifying-and-steering-clear-of-dangerous-file-types-insights-by-yl-software-specialists/"><u>Identifying and Steering Clear of Dangerous File Types: Insights by YL Software Specialists</u></a></li>
+<li><a href="https://article-helps.techidaily.com/luts-guide-to-professional-movie-coloring/"><u>Luts Guide to Professional Movie Coloring</u></a></li>
+<li><a href="https://win11.techidaily.com/perfecting-windows-11-screens-9-fixes-for-blurry-views/"><u>Perfecting Windows 11 Screens: 9 Fixes for Blurry Views</u></a></li>
+<li><a href="https://win-best.techidaily.com/troubleshooting-audio-woes-how-to-determine-if-your-sound-card-is-faulty/"><u>Troubleshooting Audio Woes: How to Determine if Your Sound Card Is Faulty</u></a></li>
+<li><a href="https://win-best.techidaily.com/yl-computings-premium-hd-pokemon-desktops-and-backgrounds-for-enhanced-display-quality/"><u>YL Computing's Premium HD Pokémon Desktops & Backgrounds for Enhanced Display Quality</u></a></li>
 </ul></div>
 
