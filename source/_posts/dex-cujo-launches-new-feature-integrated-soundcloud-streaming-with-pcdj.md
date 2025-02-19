@@ -1,7 +1,7 @@
 ---
 title: "DEX Cujo Launches New Feature: Integrated SoundCloud Streaming with PCDJ"
-date: 2025-02-03T07:28:01.215Z
-updated: 2025-02-09T08:36:45.495Z
+date: 2025-02-16T00:06:00.524Z
+updated: 2025-02-18T20:49:12.558Z
 tags:
   - product
 categories:
@@ -36,7 +36,7 @@ DEX 3 integration of SoundCloud Go+ will be released to the public (very) early 
 _Have questions about **SoundCloud** support and how it will work in our **DEX 3 DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -58,22 +58,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2018/10/dex3-soundcloud-intergrati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-do-reviewers-monetize-their-goods-analysis-vlogs/"><u>[New] 2024 Approved Do Reviewers Monetize Their Goods Analysis Vlogs?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-discounted-action-cams-for-the-budget-minded/"><u>[New] Discounted Action Cams for the Budget Minded</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-from-drama-to-film-shaping-realistic-dialogue/"><u>[Updated] 2024 Approved From Drama to Film Shaping Realistic Dialogue</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-unleashing-creativity-how-to-make-a-hit-music-reaction-video-on-yotube/"><u>[Updated] Unleashing Creativity How to Make a Hit Music Reaction Video on YoTube</u></a></li>
-<li><a href="https://win-best.techidaily.com/iphone-ios/"><u>歸零 iPhone 內容的全面指南 - iOS卷包底權</u></a></li>
-<li><a href="https://win-best.techidaily.com/amazon-come-annullare-il-download-di-foto-da-piu-dispositivi/"><u>Amazon: Come Annullare Il Download Di Foto Da Più Dispositivi</u></a></li>
-<li><a href="https://win-best.techidaily.com/aomei-backupper-your-ultimate-journal-of-changes-and-updates/"><u>AOMEI Backupper: Your Ultimate Journal of Changes and Updates</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/bringing-your-ideas-to-life-vo-plus-ppt-perfection-for-2024/"><u>Bringing Your Ideas to Life VO + PPT Perfection for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/easy-start-creating-your-first-virtual-servers-with-vsphere-a-beginners-manual/"><u>Easy Start: Creating Your First Virtual Servers with vSphere - A Beginner's Manual</u></a></li>
-<li><a href="https://win-best.techidaily.com/effective-solutions-for-unsuccessful-system-state-backups-on-windows-server-2016-systems/"><u>Effective Solutions for Unsuccessful System State Backups on Windows Server 2016 Systems</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-website-engagement-through-cookiebot-solutions/"><u>Elevate Website Engagement Through Cookiebot Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-acer-touchpad-support-drivers-for-your-windows-11-system-now/"><u>Get the Newest Acer Touchpad Support Drivers for Your Windows 11 System Now!</u></a></li>
-<li><a href="https://win-best.techidaily.com/page-unavailable-understanding-error-404-messages/"><u>Page Unavailable: Understanding Error 404 Messages</u></a></li>
-<li><a href="https://win-best.techidaily.com/pemecahan-masalah-cara-mengatur-fotokamera-iphones-lama-yang-kehilangan-gambarnya-dulu-menjadikan-iphone-terbuka-lagi-tanpa-backup/"><u>Pemecahan Masalah: Cara Mengatur Fotokamera iPhones Lama Yang Kehilangan Gambarnya Dulu, Menjadikan iPhone Terbuka Lagi Tanpa Backup!</u></a></li>
-<li><a href="https://win-best.techidaily.com/preserve-your-data-while-refreshing-mastering-the-art-of-no-loss-windows-11-reboots-with-these-techniques/"><u>Preserve Your Data While Refreshing: Mastering the Art of No-Loss Windows 11 Reboots with These Techniques</u></a></li>
-<li><a href="https://os-tips.techidaily.com/ultimate-step-by-step-tutorial-adding-movies-and-vids-to-your-ipod-touch-series-2/"><u>Ultimate Step-by-Step Tutorial: Adding Movies & Vids to Your iPod Touch Series 2</u></a></li>
-<li><a href="https://win-great.techidaily.com/unlocking-seamless-two-way-communication-resolving-single-direction-issues-with-iphone-and-mac-airdrop/"><u>Unlocking Seamless Two-Way Communication: Resolving Single Direction Issues with iPhone & Mac AirDrop</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-obtain-high-quality-photos-without-watermarks/"><u>[Updated] Obtain High-Quality Photos Without Watermarks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-editing-how-to-load-music-in-inshot/"><u>2024 Approved Streamline Editing How to Load Music in InShot</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728484596628-aomei/"><u>AOMEIツールの使い方学ぶ完全ガイド</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/avoiding-motion-illusions-tips-for-vr-users-for-2024/"><u>Avoiding Motion Illusions Tips for VR Users for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/beheben-sie-den-windows-fehlercode-0x8078006b-effiziente-losungsansatze/"><u>Beheben Sie Den Windows-Fehlercode 0X8078006B - Effiziente Lösungsansätze</u></a></li>
+<li><a href="https://win-best.techidaily.com/best-strategies-for-efficiently-backing-up-multiple-devices-with-cloud-storage/"><u>Best Strategies for Efficiently Backing Up Multiple Devices with Cloud Storage</u></a></li>
+<li><a href="https://extra-information.techidaily.com/constructing-a-high-definition-pc-for-ultra-hd-video-production/"><u>Constructing a High-Definition PC for Ultra-HD Video Production</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-advanced-computing-the-expertise-of-toms-hardware-reviews/"><u>Decoding Advanced Computing: The Expertise of Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-best.techidaily.com/decouvrez-comment-graver-tous-vos-fichiers-sur-une-cle-usb-la-solution-facile-et-rapide/"><u>Découvrez Comment Graver TOUS Vos Fichiers Sur Une Clé USB : La Solution Facile Et Rapide!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-our-selection-of-top-6-nutrition-management-apps/"><u>Discover Our Selection of Top 6 Nutrition Management Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/navigating-facebook-sharing-twitter-video-integration/"><u>Navigating Facebook Sharing Twitter Video Integration</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728475017350-pcwindows-11/"><u>PCがWindows 11へ更新不可の修正手順</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/ultimate-guide-to-system-tuning-and-dust-busting-expert-tips-by-yl-computing/"><u>Ultimate Guide to System Tuning & Dust Busting: Expert Tips by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unlock-faster-performance-optimize-secret-settings-on-your-android-device/"><u>Unlock Faster Performance: Optimize Secret Settings on Your Android Device</u></a></li>
+<li><a href="https://win-best.techidaily.com/wat-doe-je-als-je-data-vergeten-bent-van-de-usb-schijf-een-uitgebreide-herinneringspunt/"><u>Wat Doe Je Als Je Data Vergeten Bent Van De USB-Schijf: Een Uitgebreide Herinneringspunt</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2025-02-02T06:27:46.277Z
-updated: 2025-02-09T00:06:22.432Z
+date: 2025-02-18T03:11:03.465Z
+updated: 2025-02-18T19:16:52.571Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, or Fixed in DEX 3 Version 3.12
@@ -52,7 +52,7 @@ _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,20 +74,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-gopros-top-5-marine-filter-companions/"><u>[Updated] 2024 Approved GoPro's Top 5 Marine Filter Companions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-seamless-technique-inserting-a-direct-url-into-tiktok-bio-for-2024/"><u>[Updated] Seamless Technique Inserting a Direct URL Into TikTok Bio for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-experts-manual-to-crafting-impeccable-srt-files/"><u>[Updated] The Expert's Manual to Crafting Impeccable SRT Files</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-fbs-top-songs-on-screen-a-step-by-step-vlog-series/"><u>2024 Approved FB's Top Songs on Screen A Step-by-Step Vlog Series</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/beat-apples-vision-pro-with-meta-quest-3s-cutting-edge-ai-capabilities-setup-steps-revealed-digital-gadget-hub/"><u>Beat Apple's Vision Pro with Meta Quest 3'S Cutting-Edge AI Capabilities - Setup Steps Revealed | Digital Gadget Hub</u></a></li>
-<li><a href="https://games-able.techidaily.com/behemoth-performance-2500-msi-raider-hx-showdown/"><u>Behemoth Performance: $2500 MSI Raider HX Showdown</u></a></li>
-<li><a href="https://some-tips.techidaily.com/comprehensive-list-of-all-iphones-compatible-with-apples-latest-artificial-intelligence-enhancements-siri-and-beyond-techsavvy/"><u>Comprehensive List of All iPhones Compatible with Apple's Latest Artificial Intelligence Enhancements: Siri and Beyond | TechSavvy</u></a></li>
-<li><a href="https://win-best.techidaily.com/enhance-pc-speed-with-expert-guidance-by-yl-computing-yl-software-solutions/"><u>Enhance PC Speed with Expert Guidance by YL Computing - YL Software Solutions</u></a></li>
-<li><a href="https://win-best.techidaily.com/fixing-a-flickering-monitor-solutions-from-yl-computing-experts/"><u>Fixing a Flickering Monitor: Solutions From YL Computing Experts</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-can-i-enhance-my-computers-speed-and-efficiency-discover-the-strategies-from-yl-computing/"><u>How Can I Enhance My Computer's Speed and Efficiency? Discover the Strategies From YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/identifying-and-steering-clear-of-dangerous-file-types-insights-by-yl-software-specialists/"><u>Identifying and Steering Clear of Dangerous File Types: Insights by YL Software Specialists</u></a></li>
-<li><a href="https://article-helps.techidaily.com/luts-guide-to-professional-movie-coloring/"><u>Luts Guide to Professional Movie Coloring</u></a></li>
-<li><a href="https://win11.techidaily.com/perfecting-windows-11-screens-9-fixes-for-blurry-views/"><u>Perfecting Windows 11 Screens: 9 Fixes for Blurry Views</u></a></li>
-<li><a href="https://win-best.techidaily.com/troubleshooting-audio-woes-how-to-determine-if-your-sound-card-is-faulty/"><u>Troubleshooting Audio Woes: How to Determine if Your Sound Card Is Faulty</u></a></li>
-<li><a href="https://win-best.techidaily.com/yl-computings-premium-hd-pokemon-desktops-and-backgrounds-for-enhanced-display-quality/"><u>YL Computing's Premium HD Pokémon Desktops & Backgrounds for Enhanced Display Quality</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-free-youtube-gallery-downloads-now/"><u>[New] 2024 Approved Unlock Free YouTube Gallery Downloads Now</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dive-deep-into-designing-dynamic-youtube-live-thumbnails/"><u>[New] Dive Deep Into Designing Dynamic YouTube Live Thumbnails</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explaining-instagrams-spontaneous-video-pauses/"><u>[New] Explaining Instagram's Spontaneous Video Pauses</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-smoothly-blending-bio-and-linktree-on-your-tiktok-platform-for-2024/"><u>[New] Smoothly Blending Bio & Linktree on Your TikTok Platform for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-mobile-apps-redefining-vocal-identity-2-cookie-jar-for-2024/"><u>[Updated] Mobile Apps Redefining Vocal Identity (2 Cookie Jar for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ar-olds-financial-rise-via-youtube-stardom/"><u>11-Year-Old's Financial Rise via YouTube Stardom</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728496373609-usb-windows-11/"><u>如何使用USB快闪存儲器初始化 Windows 11系统——深入分析两种技术</u></a></li>
+<li><a href="https://win-best.techidaily.com/best-free-iphone-data-recovery-tools-top-3-secure-backup-extractors/"><u>Best Free iPhone Data Recovery Tools: Top 3 Secure Backup Extractors</u></a></li>
+<li><a href="https://win-best.techidaily.com/boost-your-cyber-safety-with-windows-11s-unified-write-protection/"><u>Boost Your Cyber Safety with Windows 11'S Unified Write Protection</u></a></li>
+<li><a href="https://win-best.techidaily.com/esegui-facilmente-il-backup-completo-del-sistema-operativo-seguendo-questi-cinque-passaggi-essenziali/"><u>Esegui Facilmente Il Backup Completo Del Sistema Operativo Seguendo Questi Cinque Passaggi Essenziali</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/les-deux-approches-pour-utiliser-dism-en-mode-hors-connexion-afin-de-corriger-limage-du-systeme-windows-10/"><u>Les Deux Approches Pour Utiliser DISM en Mode Hors Connexion Afin De Corriger L'image Du Système Windows 10</u></a></li>
+<li><a href="https://win-best.techidaily.com/macmacbook-proair8/"><u>Macの黒い画面障害に悩むな?MacBook Pro/Air解決法8コツ</u></a></li>
+<li><a href="https://win-best.techidaily.com/mastering-sideless-disk-cloning-in-windows-using-aomei-image-deploy-tool-tips/"><u>Mastering Sideless Disk Cloning in Windows Using AOMEI Image Deploy Tool Tips</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/rtx-2070-super-graphics-card-driver-download-for-windows-operating-systems/"><u>RTX 2070 Super Graphics Card Driver Download for Windows Operating Systems</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-guide-quick-and-effortless-cloning-of-ide-drives-to-sata-storage-on-windows-11-10-8-and-7/"><u>Step-by-Step Guide: Quick & Effortless Cloning of IDE Drives to SATA Storage on Windows 11, 10, 8, and 7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-transferring-and-sharing-chat-history-via-apps-on-any-device/"><u>The Ultimate Guide to Transferring & Sharing Chat History via Apps on Any Device</u></a></li>
 </ul></div>
 
