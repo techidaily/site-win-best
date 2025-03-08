@@ -1,7 +1,7 @@
 ---
 title: Download DEX 3.6 Beta Version Now - Enhance Your DJing Skills with PCDJ
-date: 2025-02-15T11:41:32.782Z
-updated: 2025-02-19T05:04:40.908Z
+date: 2025-03-02T23:22:43.863Z
+updated: 2025-03-07T20:11:31.657Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Here’s What New, Changed or Fixed In DEX 3.6 (Beta 3)
 
 **Changes (since beta 2):**
@@ -53,10 +49,6 @@ Brand spanking new in this iteration of DEX 3.6 is the auto-configuration of aud
 
 _If you have any questions or problems running the DEX 3.6 **DJ and VJ Software** beta version please post to the [DEX 3 user forum](https://tools.techidaily.com/pcdj/products/)._
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg?fit=530%2C298&ssl=1 298 530 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-04-08 11:44:592018-10-03 15:34:52DEX 3.6 (Beta 3) Is Available For Download}
@@ -76,21 +68,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/04/dex33-beta3-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-creating-impressive-video-tracks-with-a-newbie-mac-user-for-2024/"><u>[Updated] Creating Impressive Video Tracks with a Newbie Mac User for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-gaming-on-record-the-pros-perspective-for-2024/"><u>[Updated] Gaming on Record The Pro's Perspective for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728463602667-word/"><u>解決 Word 文件丟失的破洞方法：詳盡修復指南</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/boost-your-research-techniques-using-chatgpt-tips-and-tricks/"><u>Boost Your Research Techniques Using ChatGPT - Tips and Tricks</u></a></li>
-<li><a href="https://win-best.techidaily.com/complete-guide-removing-virtual-hard-disk-files-from-your-hyper-v-host-system/"><u>Complete Guide: Removing Virtual Hard Disk Files From Your Hyper-V Host System</u></a></li>
-<li><a href="https://solve-news.techidaily.com/enhance-user-experience-with-our-websites-cookiebot-integration-solutions/"><u>Enhance User Experience with Our Website's Cookiebot Integration Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-infinix-hot-30-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Infinix Hot 30 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/innovative-audio-tools-crafting-perfect-virtual-performances-for-2024/"><u>Innovative Audio Tools Crafting Perfect Virtual Performances for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-efficiency-advanced-strategies-for-rapid-file-retrieval-within-google-drive/"><u>Maximize Efficiency: Advanced Strategies for Rapid File Retrieval Within Google Drive</u></a></li>
-<li><a href="https://win-best.techidaily.com/recovering-lost-photographs-from-a-kodak-camcorder-a-step-by-step-guide/"><u>Recovering Lost Photographs From a Kodak Camcorder – A Step-by-Step Guide</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweeting-tiktoks-made-easy-for-2024/"><u>Tweeting TikToks Made Easy for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/two-proven-techniques-for-unlocking-full-control-over-your-youtube-video-playback/"><u>Two Proven Techniques for Unlocking Full Control Over Your YouTube Video Playback</u></a></li>
-<li><a href="https://win-best.techidaily.com/ultimate-guide-troubleshooting-itunes-sync-issues-with-iphone-error-54/"><u>Ultimate Guide: Troubleshooting iTunes Sync Issues with iPhone Error 54</u></a></li>
-<li><a href="https://win-best.techidaily.com/wiederherstellung-verlorener-daten-mit-autopsy-professionelle-losung-von-myrecover/"><u>Wiederherstellung Verlorener Daten Mit Autopsy - Professionelle Lösung Von MyRecover</u></a></li>
-<li><a href="https://win-best.techidaily.com/windows-11-hdd2/"><u>Windows 11 HDD全体バックアップ手順：2種の効果的な方法</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728463413727-pc/"><u>あなたのPCに戻ってくる - 無料で破棄されたビデオファイルを完全修復する方法</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-become-a-pro-at-hosting-virtual-meetings-with-zoom-an-android-users-guide/"><u>[Updated] In 2024, Become a Pro at Hosting Virtual Meetings with Zoom An Android User's Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-video-links-made-better-with-desktop-and-mobile-timestamping/"><u>[Updated] YouTube Video Links Made Better with Desktop & Mobile Timestamping</u></a></li>
+<li><a href="https://win-best.techidaily.com/astuces-expert-augmenter-la-capacite-du-ssd-dans-votre-hp-envy-x360-sans-endommager-les-fichiers/"><u>Astuces Expert : Augmenter La Capacité Du SSD Dans Votre HP Envy X360 Sans Endommager Les Fichiers</u></a></li>
+<li><a href="https://win-best.techidaily.com/behebung-des-startlaufens-im-loop-funf-schritte-fur-einen-aktualisierten-windows-server-2016/"><u>Behebung Des Startlaufens Im Loop: Fünf Schritte Für Einen Aktualisierten Windows Server 2016</u></a></li>
+<li><a href="https://win-best.techidaily.com/die-top-6-strategien-zum-sichtbarmachen-geteilter-fotos-in-sozialen-medien/"><u>Die Top-6 Strategien Zum Sichtbarmachen Geteilter Fotos in Sozialen Medien</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-overcoming-windows-10-not-shutdown-errors-on-pc-solved/"><u>Effective Solutions: Overcoming Windows 10 Not Shutdown Errors on PC – SOLVED!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722965819419-get-your-corsair-k70-installed-with-these-easy-to-follow-steps-and-tools/"><u>Get Your Corsair K70 Installed with These Easy-to-Follow Steps & Tools!</u></a></li>
+<li><a href="https://win-best.techidaily.com/logiciel-de-planification-des-taches-pour-serveur-windows-server-2022-conseils-dinstallation-et-configuration/"><u>Logiciel De Planification Des Tâches Pour Serveur Windows Server 2022: Conseils D'Installation Et Configuration</u></a></li>
+<li><a href="https://win-best.techidaily.com/ps4-hdd/"><u>PS4 HDD取り換えでゲームセーブ保護、システム更新完了</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-asus-rog-phone-8-pro-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Asus ROG Phone 8 Pro unlock screen</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-windows-unique-audio-driver-glitch/"><u>Resolving Windows' Unique Audio Driver Glitch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/resurrecting-a-masterpiece-visual-revamp-meets-the-enduring-challenge-of-demonesouls/"><u>Resurrecting a Masterpiece: Visual Revamp Meets the Enduring Challenge of Demon'eSouls</u></a></li>
+<li><a href="https://win-best.techidaily.com/sofortige-losung-fur-das-leere-verzeichnis-problem-unter-windows-11/"><u>Sofortige Lösung Für Das 'Leere Verzeichnis'-Problem Unter Windows 11</u></a></li>
+<li><a href="https://win-best.techidaily.com/toutes-les-solutions-facilement-accessibles-pour-recuperer-vos-photographies-perdues-sur-carte-sd-gratuitement/"><u>Toutes Les Solutions Facilement Accessibles Pour Récupérer Vos Photographies Perdues Sur Carte SD Gratuitement</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-resolving-cannot-launch-new-world-due-to-easy-anti-cheat-issues/"><u>Troubleshooting Guide: Resolving 'Cannot Launch New World' Due to Easy Anti-Cheat Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Astuces Expert : Augmenter La Capacité Du SSD Dans Votre HP Envy X360 Sans Endommager Les Fichiers"
-date: 2025-01-23T01:42:20.048Z
-updated: 2025-01-26T21:17:01.483Z
+date: 2025-03-01T22:23:48.485Z
+updated: 2025-03-07T20:26:45.285Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/7231e7cfa11b8c48bc0e8ca6efb14ca7e0a26276b7faf838f32af6539b7e71cf.jpg
@@ -35,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -47,15 +43,7 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -84,10 +72,6 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -120,10 +104,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -173,15 +153,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -198,24 +170,16 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-macbook-air-and-pro-powered-by-m1-decision-guide/"><u>[New] 2024 Approved MacBook Air & Pro Powered by M1 Decision Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mastering-the-art-of-screen-recording-on-snapchat-devices/"><u>[New] 2024 Approved Mastering the Art of Screen Recording on Snapchat Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-discovering-vr-identity-a-hands-on-approach-to-self-representation-for-2024/"><u>[New] Discovering VR Identity - A Hands-On Approach to Self-Representation for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-roadmap-to-making-money-with-personal-videos/"><u>[New] The Roadmap to Making Money with Personal Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-fixing-face-id-on-iphone-x-a-compreenasome-guide-for-2024/"><u>[Updated] Fixing Face ID on iPhone X A Compreenasome Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-make-every-snap-spectacited-top-editors-for-snapchats-best-effects-for-2024/"><u>[Updated] Make Every Snap Spectacited Top Editors for Snapchat's Best Effects for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-planets-favorites-youtube-sensations-and-their-view-counts-for-2024/"><u>[Updated] Planet's Favorites YouTube Sensations and Their View Counts for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/1-top-4-strategies-to-clear-your-iphone-before-trading-it-in/"><u>1. Top 4 Strategies to Clear Your iPhone Before Trading It In</u></a></li>
-<li><a href="https://win-best.techidaily.com/best-non-geek-squad-solutions-for-superior-sd-card-retrieval-success/"><u>Best Non-Geek Squad Solutions for Superior SD Card Retrieval Success</u></a></li>
-<li><a href="https://win-best.techidaily.com/come-facilmente-aumentare-lo-spazio-del-disco-c-su-windows-11/"><u>Come Facilmente Aumentare Lo Spazio Del Disco C Su Windows 11</u></a></li>
-<li><a href="https://win-best.techidaily.com/como-clonar-una-unidad-ssd-de-marca-crucial-con-el-mejor-software-gratuito-disponible/"><u>Cómo Clonar Una Unidad SSD De Marca Crucial Con El Mejor Software Gratuito Disponible</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-to-restore-information-from-a-toshibe-usb-memory-stick-explore-the-four-effective-ways/"><u>How to Restore Information From a Toshibe USB Memory Stick? Explore the Four Effective Ways</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-oneplus-ace-2-pro-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your OnePlus Ace 2 Pro Phone</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-failed-discord-setup-in-windows-11/"><u>Navigating Through Failed Discord Setup in Windows 11</u></a></li>
-<li><a href="https://win-best.techidaily.com/preiswerte-scheibenkopffrei-programme-fur-windows-10-benutzer-beste-auswahl/"><u>Preiswerte Scheibenkopffrei Programme Für Windows 10 Benutzer: Beste Auswahl</u></a></li>
-<li><a href="https://win-best.techidaily.com/techniques-optimales-de-restauration-des-donnees-par-partition-et-volume/"><u>Techniques Optimales De Restauration Des Données Par Partition Et Volume</u></a></li>
-<li><a href="https://win-best.techidaily.com/trasforma-hdd-in-ssd-compatto-gratuitamente-con-questi-semplici-passaggi-di-windows/"><u>Trasforma HDD in SSD Compatto Gratuitamente Con Questi Semplici Passaggi Di Windows</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-excellence-of-microsoft-flight-simulator-x-gold-edition-top-tier-choice-for-aspiring-pilots-and-enthusiasts/"><u>Unveiling the Excellence of Microsoft Flight Simulator X Gold Edition – Top-Tier Choice for Aspiring Pilots and Enthusiasts</u></a></li>
-<li><a href="https://win-best.techidaily.com/windows-7-file-magic-discovering-hidden-data-and-retrieving-deleted-items-easily/"><u>Windows 7 File Magic: Discovering Hidden Data & Retrieving Deleted Items Easily</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-guardians-of-the-screen-the-best-webcam-cover-options-for-2024/"><u>[New] Guardians of the Screen - The Best Webcam Cover Options for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-complete-beginners-manual-to-using-final-cut-pro/"><u>[New] In 2024, The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-key-tools-selecting-best-6-fb-lite-videos/"><u>[Updated] In 2024, Key Tools Selecting Best 6 FB Lite Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-facebook-video-marketing-top-20-strategies-to-watch/"><u>2024 Approved Facebook Video Marketing Top 20 Strategies to Watch</u></a></li>
+<li><a href="https://win-best.techidaily.com/4-speicherstande-auf-dem-pc-sofortige-losungsmoglichkeiten/"><u>4 Speicherstände Auf Dem PC – Sofortige Lösungsmöglichkeiten</u></a></li>
+<li><a href="https://win-best.techidaily.com/come-spostare-il-tuo-whatsapp-su-altri-iphoneipad-utilizzando-aomei-fonebackup-procedura-completa/"><u>Come Spostare Il Tuo WhatsApp Su Altri iPhone/iPad Utilizzando AOMEI FoneBackup – Procedura Completa</u></a></li>
+<li><a href="https://fox-that.techidaily.com/dynamic-head-motion-causes-earsplitting-noises-in-airpods-disable-for-silence/"><u>Dynamic Head Motion Causes Earsplitting Noises in AirPods - Disable for Silence</u></a></li>
+<li><a href="https://win-best.techidaily.com/guida-sicura-per-la-pulizia-del-disco-su-windows-10-passaggi-dettagliati/"><u>Guida Sicura per La Pulizia Del Disco Su Windows 10: Passaggi Dettagliati</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-tecno-phantom-v-flip-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Tecno Phantom V Flip Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-magic-5-lite-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor Magic 5 Lite Phones</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728507742078-windows-10ssd/"><u>Windows 10でSSD起動速度を向上させる究極の方法</u></a></li>
 </ul></div>
 

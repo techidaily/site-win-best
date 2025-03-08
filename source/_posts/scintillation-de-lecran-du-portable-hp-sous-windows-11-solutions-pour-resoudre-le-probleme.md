@@ -1,7 +1,7 @@
 ---
 title: "Scintillation De L'écran Du Portable HP Sous Windows 11: Solutions Pour Résoudre Le Problème"
-date: 2025-01-23T02:46:12.918Z
-updated: 2025-01-26T17:00:14.320Z
+date: 2025-03-05T22:55:08.114Z
+updated: 2025-03-07T18:26:00.048Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a448b26c52bfccdf2d778b7a.png
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/583e140408c2ec351f3efcf4716a6b87c865b3b8a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Recover Files from Ransomware Attack \[Full Guide 2022\]
 
@@ -41,10 +37,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    3. [Method 3\. Get back files from ransomware using File History](https://tools.techidaily.com/ubackup/products/)  
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Is it possible to recover data from ransomware?
 
@@ -80,10 +72,6 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -95,10 +83,6 @@ The recovery tool will automatically start looking for all the deleted and lost 
 You can expand the Deleted files folder and Other missing files folder to select the desired items, then click **Recover x files** to begin ransomware attack recovery now.
 
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
 
@@ -126,10 +110,6 @@ Step 1\. Go to **Control Panel** \> **System and Security**, and click on **File
 
 [![File History](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/file-history.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Press the **Restore personal files** button on the left panel. Please make sure your File History is turned on.
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
@@ -137,10 +117,6 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -152,25 +128,13 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -202,10 +166,6 @@ Was the provided information useful? Your vote is important to us!
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
@@ -256,18 +216,15 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-in-class-android-storage-in-the-cloud/"><u>2024 Approved Best-in-Class Android Storage in the Cloud</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-top-8-low-lag-screen-snipters-overview/"><u>2024 Approved Top 8 Low-Lag Screen Snipters Overview</u></a></li>
-<li><a href="https://common-error.techidaily.com/audio-troubleshooting-for-windows-users-solving-crackling-sound-issues-in-windows-107/"><u>Audio Troubleshooting for Windows Users: Solving Crackling Sound Issues in WINDOWS 10/7</u></a></li>
-<li><a href="https://win-best.techidaily.com/complete-guide-removing-virtual-hard-disk-files-from-your-hyper-v-host-system/"><u>Complete Guide: Removing Virtual Hard Disk Files From Your Hyper-V Host System</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-tips-genuine-gpt-practices/"><u>Expert Tips: Genuine GPT Practices</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-iphone-14-plus-activation-lock-by-drfone-ios/"><u>How to Remove iPhone 14 Plus Activation Lock</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-motorola-edge-40-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Motorola Edge 40 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mastering-the-art-of-screen-shots-a-guide-for-windows-11-users/"><u>Mastering the Art of Screen Shots: A Guide for Windows 11 Users</u></a></li>
-<li><a href="https://win-best.techidaily.com/recovering-lost-photographs-from-a-kodak-camcorder-a-step-by-step-guide/"><u>Recovering Lost Photographs From a Kodak Camcorder – A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/truthful-insights-into-recordcast-functionality-for-2024/"><u>Truthful Insights Into RecordCast Functionality for 2024</u></a></li>
-<li><a href="https://win-best.techidaily.com/ultimate-guide-troubleshooting-itunes-sync-issues-with-iphone-error-54/"><u>Ultimate Guide: Troubleshooting iTunes Sync Issues with iPhone Error 54</u></a></li>
-<li><a href="https://win-best.techidaily.com/wiederherstellung-verlorener-daten-mit-autopsy-professionelle-losung-von-myrecover/"><u>Wiederherstellung Verlorener Daten Mit Autopsy - Professionelle Lösung Von MyRecover</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728497954700-windows-10/"><u>Windows 10 更新失去的檔案如何回收 - 簡單指南</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-instagram-as-an-influencer-5-must-know-techniques-and-case-studies/"><u>2024 Approved Mastering Instagram As An Influencer 5 Must-Know Techniques and Case Studies</u></a></li>
+<li><a href="https://win-best.techidaily.com/iphone-ios/"><u>歸零 iPhone 內容的全面指南 - iOS卷包底權</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/windows1187/"><u>免费恢复Windows系统格式化分区，包括版本11、8和7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/creative-alternatives-to-windowed-filmmaking-suite-for-2024/"><u>Creative Alternatives to Windowed Filmmaking Suite for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/essential-guide-upgrading-to-an-ssd-on-windows-ebrake-best-techniques-reviewed/"><u>Essential Guide: Upgrading to an SSD on Windows Ebrake - Best Techniques Reviewed!</u></a></li>
+<li><a href="https://fox-within.techidaily.com/hacer-que-tu-documentacion-sea-continua-sincronicie-su-google-drive-con-el-sistema-operativo-windows/"><u>Hacer Que Tu Documentación Sea Continua: Sincronicie Su Google Drive Con El Sistema Operativo Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-rated-zero-price-after-effects-samples/"><u>In 2024, Top-Rated, Zero-Price After Effects Samples</u></a></li>
+<li><a href="https://win11.techidaily.com/opera-on-windows-end-the-stalling-spectacle-now/"><u>Opera on Windows: End the Stalling Spectacle Now</u></a></li>
+<li><a href="https://win-best.techidaily.com/resolving-the-issue-of-brief-screen-blackouts-on-windows-10-top-15-solutions/"><u>Resolving the Issue of Brief Screen Blackouts on Windows 10 - Top 15 Solutions</u></a></li>
+<li><a href="https://win-best.techidaily.com/windows-10-usb/"><u>Windows 10上獨立具備移動式 USB 自動備份功能</u></a></li>
 </ul></div>
 

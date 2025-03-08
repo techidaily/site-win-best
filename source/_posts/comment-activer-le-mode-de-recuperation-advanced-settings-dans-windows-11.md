@@ -1,7 +1,7 @@
 ---
 title: Comment Activer Le Mode De Récupération Advanced Settings Dans Windows 11 ?
-date: 2025-01-22T18:03:38.134Z
-updated: 2025-01-26T21:13:20.613Z
+date: 2025-03-05T19:51:07.439Z
+updated: 2025-03-07T21:29:37.340Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66afd30f19695d88ec8cd20ea85.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/be5d3a5dc447d5d228dfc067627f532a2972f66af
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -39,10 +35,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
 NAS Buffalo est la solution idéale pour la protection des données et peut facilement éviter les défaillances informatiques causées par une attaque de virus, un plantage système, une corruption de disque, etc. Cependant, il peut également se bloquer et entraîner une perte de données dans ces situations. Vous ne souhaitez probablement pas perdre vos données, il est donc judicieux de sauvegarder votre NAS Buffalo sur un disque dur externe, une clé USB ou d'autres périphériques.
@@ -52,10 +44,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -72,10 +60,6 @@ AOMEI Backupper Standard est un logiciel de sauvegarde tout-en-un pour Windows 1
 Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet à la majorité des utilisateurs de comprendre rapidement le logiciel et de l'utiliser facilement. Veuillez le télécharger et l'installer sur votre ordinateur.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
@@ -96,10 +80,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -165,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -176,10 +152,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -198,21 +170,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-dynamic-faces-mastering-motion-blur-through-picsart/"><u>[New] In 2024, Dynamic Faces Mastering Motion Blur Through Picsart</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-filmmakers-toolbox-in-depth-guide-to-cinematic-techniques-in-24/"><u>[New] The Filmmaker’s Toolbox In-Depth Guide to Cinematic Techniques in '24</u></a></li>
-<li><a href="https://win-best.techidaily.com/wmampegmovavi/"><u>「WMAとMPEGの自動変換：Movaviでフリーオンラインコンバータ」</u></a></li>
-<li><a href="https://win-best.techidaily.com/mp3-ogg/"><u>無料網路直接MP3 OGG格式转换 - 移動威霸音频编码器</u></a></li>
-<li><a href="https://win-best.techidaily.com/comment-creer-un-screencast-le-manuel-complete-chez-movavi/"><u>Comment Créer Un Screencast : Le Manuel Complète Chez Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/discover-endless-entertainment-without-spending/"><u>Discover Endless Entertainment Without Spending</u></a></li>
-<li><a href="https://win-best.techidaily.com/dvd-ripping-made-simple-top-7-methods-for-windows-and-macos-users/"><u>DVD Ripping Made Simple: Top 7 Methods for Windows and macOS Users</u></a></li>
-<li><a href="https://win-best.techidaily.com/easy-steps-to-transform-files-from-amr-to-mp3-using-movavi/"><u>Easy Steps to Transform Files From AMR to MP3 Using Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-the-newest-hp-deskjet-n3700-driver-software-installation-and-update-instructions/"><u>Find the Newest HP DeskJet N3700 Driver Software: Installation & Update Instructions</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 5 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y100-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y100 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-defy-2-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Defy 2 to Mac? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-honor-90-lite-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Honor 90 Lite Device</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/mp4-screen-grabber-free-easy-access/"><u>MP4 Screen Grabber Free, Easy Access</u></a></li>
-<li><a href="https://win-best.techidaily.com/top-11-free-and-paid-2d-animation-software-choices-compare-and-discover/"><u>Top 11 Free & Paid 2D Animation Software Choices - Compare and Discover</u></a></li>
-<li><a href="https://win-best.techidaily.com/transcodificar-archivo-mkv-a-formato-mp4-usando-un-conversor-en-linea-gratuito-solucion-perfecta-con-movavi/"><u>Transcodificar Archivo MKV a Formato MP4 Usando Un Conversor en Línea Gratuito: Solución Perfecta Con Movavi</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-compreeved-guide-to-creating-stellar-youtube-outros/"><u>[New] 2024 Approved Compreeved Guide to Creating Stellar YouTube Outros</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-share-vimeo-video-online/"><u>[New] 2024 Approved How to Share Vimeo Video Online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-maximize-your-footage-pro-level-tips-for-gopro-studio-users-for-2024/"><u>[New] Maximize Your Footage Pro-Level Tips for GoPro Studio Users for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-live-stream-titans-duel-comparative-exploration-of-twitch-and-youtube/"><u>[Updated] Live-Stream Titans Duel Comparative Exploration of Twitch & YouTube</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/bypassing-the-lack-of-system-restore-options-for-troubleshooting-windows/"><u>Bypassing the Lack of System Restore Options for Troubleshooting Windows</u></a></li>
+<li><a href="https://win-best.techidaily.com/fix-for-lenovo-screen-turning-black-when-starting-windows-11-expert-advice/"><u>Fix for Lenovo Screen Turning Black When Starting Windows 11 - Expert Advice!</u></a></li>
+<li><a href="https://win-best.techidaily.com/guia-passo-a-passo-para-atualizar-o-windows-server-201-section-1-advanced-problem-on-nucleic-acids-and-cellular-location/"><u>Guia Passo a Passo Para Atualizar O Windows Server 201 # Section 1: Advanced Problem on Nucleic Acids and Cellular Location</u></a></li>
+<li><a href="https://win-best.techidaily.com/learn-how-to-safeguard-your-windows-n11-files-with-a-usb-flash-drive-three-easy-no-charge-solutions/"><u>Learn How to Safeguard Your Windows N11 Files with a USB Flash Drive – Three Easy, No Charge Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/master-the-art-of-gaming-best-monitors-and-tvs-for-xbox-series-x/"><u>Master the Art of Gaming Best Monitors & TVs For Xbox Series X</u></a></li>
+<li><a href="https://win-best.techidaily.com/schritt-fur-schritt-anleitung-zum-wiederauffinden-von-daten-auf-einer-alten-festplatte/"><u>Schritt-Für-Schritt Anleitung Zum Wiederauffinden Von Daten Auf Einer Alten Festplatte</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-motorola-g24-power-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Motorola G24 Power Device</u></a></li>
+<li><a href="https://win-best.techidaily.com/troubleshooting-the-reset-this-pc-feature-malfunction-on-windows-11-and-10/"><u>Troubleshooting the 'Reset This PC' Feature Malfunction on Windows 11 and 10</u></a></li>
+<li><a href="https://techtrends.techidaily.com/twitter-chat-101-essential-tips-and-strategies-for-active-engagement/"><u>Twitter Chat 101: Essential Tips and Strategies for Active Engagement</u></a></li>
+<li><a href="https://win-best.techidaily.com/verwalten-sie-ihre-systemabbilder-schnell-und-sicher-einfache-anwendung-von-vss-in-aomei-backupper/"><u>Verwalten Sie Ihre Systemabbilder Schnell Und Sicher: Einfache Anwendung Von VSS in AOMEI Backupper</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-sound-troubleshooting-for-mystery-speaker-configurations/"><u>Windows 10 Sound Troubleshooting for Mystery Speaker Configurations</u></a></li>
 </ul></div>
 

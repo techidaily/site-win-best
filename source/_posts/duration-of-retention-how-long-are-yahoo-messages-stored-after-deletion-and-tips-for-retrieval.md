@@ -1,7 +1,7 @@
 ---
 title: "Duration of Retention: How Long Are Yahoo Messages Stored After Deletion & Tips for Retrieval"
-date: 2025-01-23T09:24:48.748Z
-updated: 2025-01-27T11:11:55.320Z
+date: 2025-03-06T16:59:40.221Z
+updated: 2025-03-07T16:16:40.178Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/de67db97111b230778d53cfacb51bb9c7a1356b2082aff96997373a5633f37e3.jpg
@@ -98,10 +98,6 @@ After creating bootable media (just a few minutes), boot your computer from this
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2\. Disable Secure Boot
 
 To address the winload.efi error linked to Safe/Secure Boot, follow these steps to disable Secure Boot in the UEFI configuration:
@@ -115,10 +111,6 @@ Step 2\. Navigate to the Secure Boot option in BIOS, located under tabs like **B
 Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disable**.
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
@@ -136,10 +128,6 @@ Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4\. Type or paste the following command and press **Enter**:
 
 **chkdsk c: /f** (This command checks and fixes errors on the system drive.)
@@ -147,10 +135,6 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -173,10 +157,6 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 **✍Note**: Replace "**C**" with the system hard drive partition letter.
 
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Exercise caution to avoid potential system errors when using this command.
 
@@ -214,10 +194,6 @@ Step 4\. Assign the partition a drive letter. Enter each of the following comman
 
 Step 5\. Restart your computer after successfully repairing the EFI loader.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Suggestion: backup your crucial loading files in advance
 
 A reliable backup software like [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) allows you to create a bootable disc and system backup, preventing startup loop errors and addressing various computer failures. In the event of a system crash, you can restore the system image to a new hard drive and regain normal functionality. AOMEI Backupper Standard offers numerous advantages for seamless backup and recovery processes.
@@ -236,10 +212,6 @@ You just need to download this software and install it. Open it and navigate to 
 
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This post outlines 5 effective methods to address the "Winload.efi missing Windows 11" boot error. Notably, AOMEI Backupper Standard offers user-friendly solutions to create a bootable media and offers system backup solution. When you encounter other computers issues like [Blue Screen on Windows 11](https://tools.techidaily.com/ubackup/products/).
@@ -255,10 +227,6 @@ Was the provided information useful? Your vote is important to us!
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -280,10 +248,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get AOMEI Backupper Now
 
 Safeguard any data of your computer with backup, sync and clone.
@@ -291,10 +255,6 @@ Safeguard any data of your computer with backup, sync and clone.
 [**Download Freeware**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -313,21 +273,21 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-taking-photos-and-posting-youtubes-complete-guidebook/"><u>[New] Taking Photos and Posting YouTube's Complete Guidebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-zombie-survival-quest-top-8-game-guide-for-2024/"><u>[New] Zombie Survival Quest - Top 8 Game Guide for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-what-lies-behind-the-unlisted-tag-on-youtube-for-2024/"><u>[Updated] What Lies Behind the 'Unlisted' Tag on YouTube for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/accelerate-artistic-edits-with-windows-11/"><u>Accelerate Artistic Edits with Windows 11</u></a></li>
-<li><a href="https://win-best.techidaily.com/exploring-frequent-triggers-for-sound-card-issues-tech-analysis-by-yl-software/"><u>Exploring Frequent Triggers for Sound Card Issues - Tech Analysis by YL Software</u></a></li>
-<li><a href="https://win-best.techidaily.com/high-definition-red-rose-wallpaper-hd-graphics-and-backgrounds-quality-visual-content-by-yl-computing/"><u>High-Definition Red Rose Wallpaper HD Graphics & Backgrounds - Quality Visual Content by YL Computing</u></a></li>
-<li><a href="https://win-best.techidaily.com/high-definition-supercar-wallpaper-collections-hd-car-backgrounds-and-vehicle-photos-powered-by-yl-computings-digital-solutions/"><u>High-Definition Supercar Wallpaper Collections: HD Car Backgrounds & Vehicle Photos - Powered by YL Computing's Digital Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-is-your-computer-safeguarded-from-threats-with-windows-defender-exploring-antivirus-capabilities-yl-software-essentials/"><u>How Is Your Computer Safeguarded From Threats with Windows Defender? Exploring Antivirus Capabilities - YL Software Essentials</u></a></li>
-<li><a href="https://win-best.techidaily.com/how-to-fix-your-screen-display-driver-issues-with-ease-insights-from-yl-software-experts/"><u>How to Fix Your Screen Display Driver Issues with Ease – Insights From YL Software Experts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/live-stream-excellence-which-software-leads-the-pack-vmix-or-wirecast/"><u>Live Stream Excellence Which Software Leads the Pack? VMix or Wirecast?</u></a></li>
-<li><a href="https://win-best.techidaily.com/master-the-art-of-debugging-essential-techniques-by-yl-software-professionals/"><u>Master the Art of Debugging: Essential Techniques by YL Software Professionals</u></a></li>
-<li><a href="https://fox-info.techidaily.com/streamlining-photo-and-video-transfer-from-android-for-2024/"><u>Streamlining Photo & Video Transfer From Android for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-abcs-of-creative-facebook-advertising-a-guidebook/"><u>The ABCs of Creative Facebook Advertising A Guidebook</u></a></li>
-<li><a href="https://win-best.techidaily.com/the-essential-how-to-for-windows-users-effortless-copy-and-paste-techniques-unlocked-with-yl-computing-solutions/"><u>The Essential How-To for Windows Users: Effortless Copy & Paste Techniques - Unlocked with YL Computing Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-next-level-of-collaboration-youtubes-elite-meetups/"><u>[New] In 2024, The Next Level of Collaboration Youtube's Elite Meetups</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-channel-up-your-earning-potential-with-youtube-shorts-strategy/"><u>[Updated] 2024 Approved Channel Up Your Earning Potential with YouTube Shorts Strategy</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-connect-with-community-spots-a-dynamic-guide-for-local-explorers-on-the-move/"><u>2024 Approved Connect with Community Spots A Dynamic Guide for Local Explorers on the Move</u></a></li>
+<li><a href="https://win-best.techidaily.com/2024-sandisk-ssd/"><u>2024年版: SanDisk SSDのデータ復元テクニック - 成功戦略を学ぶ</u></a></li>
+<li><a href="https://win-best.techidaily.com/como-reparar-sin-costo-partes-formatadas-en-sistemas-operativos-windows-versiones-10-8-7-y-11/"><u>Cómo Reparar Sin Costo Partes Formatadas en Sistemas Operativos Windows (Versiones 10, 8, 7 Y 11)</u></a></li>
+<li><a href="https://win-best.techidaily.com/erstellen-eines-multiboot-usb-sticks-mit-rufus-fur-verschiedene-windows-versionen/"><u>Erstellen Eines Multiboot USB-Sticks Mit Rufus Für Verschiedene Windows Versionen</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/explore-japanese-lexicon-free-online-and-solo-learning-paths/"><u>Explore Japanese Lexicon - Free Online & Solo Learning Paths</u></a></li>
+<li><a href="https://win-best.techidaily.com/exploring-the-destination-of-removed-files-inside-the-journey-after-clearing-a-usb-sticks-contents/"><u>Exploring the Destination of Removed Files: Inside the Journey After Clearing a USB Stick's Contents</u></a></li>
+<li><a href="https://win-best.techidaily.com/guia-paso-a-paso-para-recuperar-carpetas-descargadas-eliminadas-por-error-en-windows-11/"><u>Guía Paso a Paso Para Recuperar Carpetas Descargadas Eliminadas Por Error en Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-best-practices-for-b-roll-utilization/"><u>In 2024, Best Practices for B-Roll Utilization</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/maximizing-your-potential-is-a-joined-force-right-for-you/"><u>Maximizing Your Potential Is a Joined Force Right for You?</u></a></li>
+<li><a href="https://win-top.techidaily.com/professional-movavi-video-editor-software-purchase-and-download/"><u>Professional Movavi Video Editor Software - Purchase & Download</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/step-by-step-tutorial-backing-up-your-dvd-collection-with-makemkv-on-windows-10-and-11/"><u>Step-by-Step Tutorial: Backing Up Your DVD Collection with MakeMKV on Windows 10 & 11</u></a></li>
+<li><a href="https://win-best.techidaily.com/top-compactflash-duplikationssoftware-professionelle-kostenloskopien-von-cf-karten/"><u>Top CompactFlash-Duplikationssoftware - Professionelle Kostenloskopien Von CF-Karten</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-math-skills-with-the-best-7-artificial-intelligence-resources-available-today/"><u>Transform Your Math Skills with the Best 7 Artificial Intelligence Resources Available Today</u></a></li>
+<li><a href="https://win-best.techidaily.com/upgrading-to-ios-16-is-it-worth-the-move-expert-insights-and-faqs/"><u>Upgrading to iOS 16: Is It Worth the Move? Expert Insights and FAQs</u></a></li>
 </ul></div>
 

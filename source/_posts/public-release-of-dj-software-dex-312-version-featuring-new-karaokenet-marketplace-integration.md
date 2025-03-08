@@ -1,7 +1,7 @@
 ---
 title: "Public Release of DJ Software DEX 3.12 Version: Featuring New Karaoke.net Marketplace Integration!"
-date: 2025-02-18T03:11:03.465Z
-updated: 2025-02-18T19:16:52.571Z
+date: 2025-03-06T18:00:45.670Z
+updated: 2025-03-07T20:44:19.869Z
 tags:
   - product
 categories:
@@ -32,10 +32,6 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New, Changed, or Fixed in DEX 3 Version 3.12
 
 * New built-in Karaoke.net karaoke song store for in-app on-the-fly purchasing
@@ -50,10 +46,6 @@ Since version 3.12 is considered a ‘[Public Beta](https://en.wikipedia.org/wik
 _**Installation Instructions:** With your existing version of DEX 3 (Pro) closed, download and install version 3.12 If you experience any issues running the new public beta please report your findings in the [Official PCDJ User Group](https://tools.techidaily.com/pcdj/products/)._
 
 _Have questions about our **top DJ mixing software** or the new features included in version 3.12? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -74,22 +66,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2018/11/karaoke-dex3-new-cover.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-free-youtube-gallery-downloads-now/"><u>[New] 2024 Approved Unlock Free YouTube Gallery Downloads Now</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-dive-deep-into-designing-dynamic-youtube-live-thumbnails/"><u>[New] Dive Deep Into Designing Dynamic YouTube Live Thumbnails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explaining-instagrams-spontaneous-video-pauses/"><u>[New] Explaining Instagram's Spontaneous Video Pauses</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-smoothly-blending-bio-and-linktree-on-your-tiktok-platform-for-2024/"><u>[New] Smoothly Blending Bio & Linktree on Your TikTok Platform for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-mobile-apps-redefining-vocal-identity-2-cookie-jar-for-2024/"><u>[Updated] Mobile Apps Redefining Vocal Identity (2 Cookie Jar for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ar-olds-financial-rise-via-youtube-stardom/"><u>11-Year-Old's Financial Rise via YouTube Stardom</u></a></li>
-<li><a href="https://win-best.techidaily.com/1728496373609-usb-windows-11/"><u>如何使用USB快闪存儲器初始化 Windows 11系统——深入分析两种技术</u></a></li>
-<li><a href="https://win-best.techidaily.com/best-free-iphone-data-recovery-tools-top-3-secure-backup-extractors/"><u>Best Free iPhone Data Recovery Tools: Top 3 Secure Backup Extractors</u></a></li>
-<li><a href="https://win-best.techidaily.com/boost-your-cyber-safety-with-windows-11s-unified-write-protection/"><u>Boost Your Cyber Safety with Windows 11'S Unified Write Protection</u></a></li>
-<li><a href="https://win-best.techidaily.com/esegui-facilmente-il-backup-completo-del-sistema-operativo-seguendo-questi-cinque-passaggi-essenziali/"><u>Esegui Facilmente Il Backup Completo Del Sistema Operativo Seguendo Questi Cinque Passaggi Essenziali</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/les-deux-approches-pour-utiliser-dism-en-mode-hors-connexion-afin-de-corriger-limage-du-systeme-windows-10/"><u>Les Deux Approches Pour Utiliser DISM en Mode Hors Connexion Afin De Corriger L'image Du Système Windows 10</u></a></li>
-<li><a href="https://win-best.techidaily.com/macmacbook-proair8/"><u>Macの黒い画面障害に悩むな?MacBook Pro/Air解決法8コツ</u></a></li>
-<li><a href="https://win-best.techidaily.com/mastering-sideless-disk-cloning-in-windows-using-aomei-image-deploy-tool-tips/"><u>Mastering Sideless Disk Cloning in Windows Using AOMEI Image Deploy Tool Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/rtx-2070-super-graphics-card-driver-download-for-windows-operating-systems/"><u>RTX 2070 Super Graphics Card Driver Download for Windows Operating Systems</u></a></li>
-<li><a href="https://win-best.techidaily.com/step-by-step-guide-quick-and-effortless-cloning-of-ide-drives-to-sata-storage-on-windows-11-10-8-and-7/"><u>Step-by-Step Guide: Quick & Effortless Cloning of IDE Drives to SATA Storage on Windows 11, 10, 8, and 7</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-ultimate-guide-to-transferring-and-sharing-chat-history-via-apps-on-any-device/"><u>The Ultimate Guide to Transferring & Sharing Chat History via Apps on Any Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-spin-the-wheel-of-viewers-how-to-stream-round-the-clock-videos-on-youtube/"><u>[Updated] Spin the Wheel of Viewers How to Stream Round-the-Clock Videos on YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-ultimate-collection-of-favorite-ig-after-effects-plugins-for-2024/"><u>[Updated] The Ultimate Collection of Favorite IG After Effects Plugins for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/continuous-protection-is-your-system-secure-with-windows-defenders-silent-operation/"><u>Continuous Protection: Is Your System Secure with Windows Defender's Silent Operation?</u></a></li>
+<li><a href="https://win-best.techidaily.com/dragon-themed-game-of-thrones-desktop-wallpapers-hd-backgrounds-and-wide-range-of-high-quality-imagery-by-yl-computing/"><u>Dragon-Themed Game of Thrones Desktop Wallpapers, HD Backgrounds & Wide Range of High-Quality Imagery by YL Computing</u></a></li>
+<li><a href="https://win-best.techidaily.com/expand-your-digital-space-boosting-computer-storage-with-external-drives-tips-from-yl-computing/"><u>Expand Your Digital Space: Boosting Computer Storage with External Drives - Tips From YL Computing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-listenleaders-pursuing-better-podcasts/"><u>In 2024, ListenLeaders Pursuing Better Podcasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-vivo-y78t-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Vivo Y78t Phone Pattern Lock</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-iphone-x-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your iPhone X Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-motorola-edge-40-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://win-best.techidaily.com/step-by-step-guide-turning-onoff-location-features-on-windows-11-tips-from-yl-software/"><u>Step-by-Step Guide: Turning On/Off Location Features on Windows 11 - Tips From YL Software</u></a></li>
+<li><a href="https://win-best.techidaily.com/windows-diagnostic-utilities-uncover-hidden-hardware-issues-tech-insights-by-yl/"><u>Windows Diagnostic Utilities: Uncover Hidden Hardware Issues - Tech Insights by YL</u></a></li>
 </ul></div>
 
